@@ -1,0 +1,8 @@
+{
+    "didntOtp": {
+        "text": "Vous n'avez pas obtenu OTP ?"
+    },
+    "resend": {
+        "text": "renvoyer"
+    }
+}

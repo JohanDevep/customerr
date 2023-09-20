@@ -1,0 +1,59 @@
+{
+    "news": {
+        "text": "News"
+    },
+    "newsMore": {
+        "text": "NEWS & MORE"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "unlimitBeautyServ": {
+        "text": "UNLIMITED BEAUTY SERVICES"
+    },
+    "updateMore": {
+        "text": "UPDATES & MORE"
+    },
+    "updateMorePara": {
+        "text": "Our news section is reserved for our client readers who want to learn more about the news within the company. As a reader you should expect to see weekly and monthly updates on new salon openings, events, and product releases. Sit back, and enjoy the reading!"
+    },
+    "all": {
+        "text": "All"
+    },
+    "hair": {
+        "text": "Hair"
+    },
+    "beauty": {
+        "text": "beauty"
+    },
+    "hairCare": {
+        "text": "Hair care"
+    },
+    "selfCare": {
+        "text": "self care"
+    },
+    "soinsKarisma": {
+        "text": "SOINS KARISMÄ"
+    },
+    "soinsKarismaHeading": {
+        "text": "Soins Karismä empowers it's community."
+    },
+    "soinsKarismaPara": {
+        "text": "At Soins Karismä, our priority is to make a positive impact in our community. That is why we have developed a business model focused on the needs of the community."
+    },
+    "readMore": {
+        "value": "Read More"
+    },
+    "salons": {
+        "text": "Salons"
+    },
+    "salonsHeading": {
+        "text": "Our salon in Montreal"
+    },
+    "salonsPara": {
+        "text": "On January 23, we opened our first salon in the city of Montreal, located at 9535 Bd Lacordaire Montreal (St-Leonard) Quebec, H1R 2B6 . We are proud to report that we have a salon run 100% by the Soins Karismä team."
+    },
+    "loadMore": {
+        "value": "Load More"
+    }
+}

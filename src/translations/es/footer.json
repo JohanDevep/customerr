@@ -1,0 +1,100 @@
+{
+    "company": {
+        "text": "COMPAÑÍA",
+        "careers": {
+            "value": "Trabaja con nosotros"
+        },
+        "becomeSalon": {
+            "value": "Convertirse en salón"
+        },
+        "reviews": {
+            "value": "Reseñas"
+        },
+        "contactUs": {
+            "value": "Contacto"
+        },
+        "sustainability": {
+            "value": "Sustainability"
+        },
+        "loyalty": {
+            "value": "Lealtad"
+        },
+        "investorRelation": {
+            "value": "Inversores"
+        },
+        "socialImpact": {
+            "value": "Impacto Social"
+        }
+    },
+
+    "resources": {
+        "text": "RECURSOS",
+        "ourLocations": {
+            "value": "Nuestras ubicaciones"
+        },
+        "blogs": {
+            "value": "Blogs"
+        },
+        "karismaCommunity": {
+            "value": "Comunidad Soins Karismä"
+        },
+        "events": {
+            "value": "Eventos"
+        },
+        "newsRoom": {
+            "value": "Noticias"
+        },
+        "academy": {
+            "value": "Academia"
+        }
+    },
+
+    "partners": {
+        "text": "SOCIOS",
+        "affiliate": {
+            "value": "Afiliado"
+        },
+        "supplierNetwork": {
+            "value": "Red de proveedores"
+        },
+        "becomePartner": {
+            "value": "Conviértete en socio"
+        },
+        "toolkit": {
+            "value": "Herramientas"
+        },
+        "jobApplication": {
+            "value": "Aplicacion de trabajo"
+        }
+    },
+
+    "customerServ": {
+        "text": "SERVICIO AL CLIENTE",
+        "faq": {
+            "value": "Preguntas Frecuentes"
+        },
+        "returnPolicy": {
+            "value": "Política de devolución"
+        }
+    },
+
+    "legal": {
+        "text": "LEGAL",
+        "privacyPolicy": {
+            "value": "Política de privacidad"
+        },
+        "termsCondition": {
+            "value": "Términos y Condiciones"
+        }
+    },
+    
+    "inspiredByYou": {
+        "text": "¡INSPIRADO EN TI!"
+    },
+    "inspiredByYouPara": {
+        "text": "Conectamos a nuestros clientes con salones de calidad para una experiencia inolvidable"
+    },
+    "allRightsReserved": {
+        "text": "2022 ©Soins Karismä Inc. Todos los derechos reservados."
+    }
+}

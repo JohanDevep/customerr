@@ -1,0 +1,113 @@
+{
+    "becomeSalon": {
+        "text": "Become a Salon"
+    },
+    "allYouNeed": {
+        "text": "ALL YOU NEED!"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "vegan": {
+        "text": "VEGAN"
+    },
+    "crueltyFree": {
+        "text": "CRUELTY FREE"
+    },
+    "becomeSoins": {
+        "text": "BECOMING A SOINS"
+    },
+    "karismaSalon": {
+        "text": "KARISMÄ SALON"
+    },
+    "karismaSalonPara": {
+        "text": "Why would I join Soins Karismä? We are redefining the beauty industry by empowering professionals and consumers through innovative affordable technology. We are much more than a technology company. Soins Karismä represents culture diversity, unity, and empathy. Our brand is one that a consumer has never experienced. Soins Karismä is fully connected to its community using proprietary technology created by our team. Further, we are an advanced solution offered to beauty care salon owners wishing to optimize and reduce their daily management operations, obtain year-round customer stability and increase their revenues by using our new business model and technology. We want salon owners to focus on their passion and their strength in their art while we take care of the rest!"
+    },
+    "simplifiedManagment": {
+        "text": "SIMPLIFIED MANAGEMENT"
+    },
+    "simplifiedManagmentPara": {
+        "text": "Simplify and optimize management with our all-in-one platform inspired by salon professionals and created by coding engineers. We want our salons to be efficient in their everyday operations."
+    },
+    "optimize": {
+        "text": "OPTIMIZE"
+    },
+    "simplify": {
+        "text": "SIMPLIFY"
+    },
+    "clientAcquistion": {
+        "text": "CLIENT ACQUISITION"
+    },
+    "retention": {
+        "text": "RETENTION"
+    },
+    "retentionPara": {
+        "text": "Soins Karismä will help salons acquire clients and ensure a proper satisfaction across all clients. Our clients are precious!"
+    },
+    "acquire": {
+        "text": "ACQUIRE"
+    },
+    "retain": {
+        "text": "RETAIN"
+    },
+    "education": {
+        "text": "EDUCATION"
+    },
+    "community": {
+        "text": "COMMUNITY"
+    },
+    "communityPara": {
+        "text": "Join the community and education platform to immerse yourself into Soins Karismä. We are more than just a brand, we are a group of individuals inspiring positive change."
+    },
+    "stayConnected": {
+        "text": "STAY CONNECTED"
+    },
+    "name": {
+        "text": "Name"
+    },
+    "firstName": {
+        "text": "First Name"
+    },
+    "lastName": {
+        "text": "Last Name"
+    },
+    "email": {
+        "text": "Email"
+    },
+    "otherEmail": {
+        "text": "Other Email"
+    },
+    "phone": {
+        "text": "Phone"
+    },
+    "mobilePhone": {
+        "text": "Mobile Phone"
+    },
+    "howmanySalons": {
+        "text": "HOW MANY SALONS DO YOU HAVE?"
+    },
+    "describeSalon": {
+        "text": "DESCRIBE YOUR SALON"
+    },
+    "noOfChairs": {
+        "text": "Number of Chairs"
+    },
+    "noOfEmployees": {
+        "text": "Number of Employees"
+    },
+    "whatService": {
+        "text": "WHAT SERVICES DO YOU PROVIDE?"
+    },
+    "whereLocated": {
+        "text": "WHERE ARE YOU LOCATED?"
+    },
+    "approxRevenue": {
+        "text": "APPROX. MONTHLY REVENUE"
+    },
+    "inscription": {
+        "text": "INSCRIPTION"
+    },
+    "submit": {
+        "value": "Submit"
+    }
+}

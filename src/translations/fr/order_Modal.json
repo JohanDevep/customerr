@@ -1,0 +1,29 @@
+{
+    "order": {
+        "text": "Commande"
+    },
+    "howCanReview": {
+        "text": "COMMENT PUIS-JE PASSER EN REVUE MES COMMANDES ?"
+    },
+    "howCanReviewPara": {
+        "text": "Une fois que vous avez passé une commande, vous pouvez vérifier son état à tout moment en utilisant votre compte. Pour consulter l'historique des commandes, accédez à votre compte et sélectionnez l'historique. Cette fonctionnalité vous permettra de passer en revue toutes les commandes passées avec Soins Karismä, y compris les codes de confirmation."
+    },
+    "howChangeOrder": {
+        "text": "COMMENT PUIS-JE MODIFIER OU ANNULER UNE COMMANDE ?"
+    },
+    "howChangeOrderPara": {
+        "text": "Si la commande est en cours de traitement, elle ne peut pas être annulée."
+    },
+    "howKnowReceived": {
+        "text": "COMMENT SAVOIR SI MA COMMANDE A ÉTÉ REÇUE ?"
+    },
+    "howKnowReceivedPara": {
+        "text": "Une confirmation de commande apparaîtra à la fin du processus d'achat. Par la suite, vous recevrez un e-mail de confirmation avec le numéro de commande et le résumé de votre achat. Si vous ne recevez pas la confirmation, vérifiez vos courriers indésirables. Si vous ne recevez toujours pas de confirmation, veuillez nous envoyer un e-mail à help@soisnkarisma.com."
+    },
+    "canYouWrapGift": {
+        "text": "POUVEZ-VOUS EMBALLER LES CADEAUX POUR MOI ?"
+    },
+    "canYouWrapGiftPara": {
+        "text": "Nous ne proposons actuellement pas de service d'emballage cadeau pour les colis."
+    }
+}

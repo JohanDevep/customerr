@@ -1,0 +1,122 @@
+{
+    "120Reviews": {
+        "text": "(120 AVIS)"
+    },
+    "men": {
+        "text": "Pomade"
+    },
+    "pomade1": {
+        "text": "Homme"
+    },
+    "50Price": {
+        "text": "$50.99"
+    },
+    "benefits": {
+        "value": "AVANTAGES"
+    },
+    "ingredients": {
+        "value": "Ingredients"
+    },
+    "moisturizing": {
+        "text": "Hydratant — "
+    },
+    "moisturizingPara": {
+        "text": "Le shampooing nettoie en éliminant la saleté et l'excès de sébum. Le shampoing pour hommes apporte à vos cheveux l'hydratation et la rétention d'eau dont ils ont besoin pour être forts et souples."
+    },
+    "nourishing": {
+        "text": "Nourrissant — "
+    },
+    "nourishingPara": {
+        "text": "La collection pour hommes nourrit également votre cuir chevelu, rendant les nouveaux cheveux plus robustes et résistants. Certains des ingrédients riches en nutriments peuvent également aider vos mèches de cheveux, en leur apportant une plus grande intégrité structurelle."
+    },
+    "hydration": {
+        "text": "Restauration — "
+    },
+    "hydrationPara": {
+        "text": "Redonne de la douceur à votre peau et laisse une sensation inoubliable grâce à une hydratation équilibrée."
+    },
+    "shampooMen": {
+        "text": "Shampooing pour hommes -"
+    },
+    "shampooMenPara": {
+        "text": "Aqua, Sodium Lauroamphoacetate, Cocamidopropyl betaine, Biotin, Cocamide mea, Oat amino acid derivative, Sodium Lauroyl Glutamate, Fragrance, Citric Acid, Argan Oil, Benzoic Acid, Sodium Benzoate, Potassium Sorbate."
+    },
+    "showerGelMen": {
+        "text": "Gel douche pour hommes -"
+    },
+    "showerGelMenPara": {
+        "text": "Aqua, Sodium Laureth Sulfate, Cocamide Mea, Cocamidopropyl Betaine, Fragrance, Benzyl Alcohol, Sodium Benzoate, Glycerin."
+    },
+    "pomade": {
+        "text": "Pomade -"
+    },
+    "pomadePara": {
+        "text": "Aqua, Ceteareth-25, Beeswax, Microcrystalline wax, Bentonite, Kaolin, Phenoxyethanol, Benzyl alcohol, Fragrance."
+    },
+    "shopNow": {
+        "value": "Acheter maintenant"
+    },
+    "addToCart": {
+        "value": "Ajouter au panier"
+    },
+    "highQuality": {
+        "text": "HAUTE QUALITÉ"
+    },
+    "vegan": {
+        "text": "VEGAN"
+    },
+    "crueltyFree": {
+        "text": "CREULTY FREE"
+    },
+    "gallery": {
+        "text": "Galerie"
+    },
+    "howTo": {
+        "text": "Comment"
+    },
+    "use": {
+        "text": "l'utiliser?"
+    },
+    "cardPara1": {
+        "text": "Appliquez la pommade après la douche en utilisant une quantité de la taille d'une pièce de vingt-cinq cents. Utilisez une serviette pour sécher vos cheveux en laissant un peu d'humidité."
+    },
+    "cardPara2": {
+        "text": "Répartissez la pommade sur vos deux mains et passez vos doigts dans vos cheveux."
+    },
+    "cardPara3": {
+        "text": "Veillez à l'étaler uniformément et à le coiffer comme vous le souhaitez. Voilà, c'est fait !"
+    },
+    "about": {
+        "text": "À PROPOS"
+    },
+    "menCollection": {
+        "text": "COLLECTION Hommes"
+    },
+    "menCollectionPara": {
+        "text": "Notre collection pour hommes a été lancée après que Soins Karismä a constaté le manque de produits de soins capillaires et corporels de haute qualité pour les hommes. Soins Karismä a décidé de créer un parfum unique qui durerait toute une journée de travail. Le shampooing, le gel douche et la pommade combinés constituent les trois éléments nécessaires à un homme pour préparer sa journée. Ces trois produits sont inoubliables par leur qualité et leur parfum."
+    },
+    "inspiredByYou": {
+        "text": "INSPIRÉE PAR VOUS!"
+    },
+    "reviewsPara1": {
+        "text": "C'est un parfum masculin simple qui vous rend inoubliable. Ma femme adore l'odeur de mes cheveux et de ma peau depuis que j'utilise ce produit. J'ai acheté la collection parce qu'elle contient tous les produits nécessaires à ma routine matinale. J'ai aussi tendance à travailler sur des voitures et à faire de la randonnée, alors ce produit nettoie la graisse et la saleté que j'accumule lors de ces activités."
+    },
+    "author1": {
+        "text": "KYLE DEAN"
+    },
+    "reviewsPara2": {
+        "text": "Ma recherche du shampooing parfait est terminée. Celui-ci est le bon. Il suffit d'une très petite quantité pour créer une tête pleine de mousse. J'ai des cheveux très gras et sales, alors ce produit fait l'affaire pour résoudre mon problème de cheveux gras. Il semble également réduire la chute des cheveux. Ma brosse à cheveux semble contenir moins de cheveux après le peignage, mais c'est peut-être juste moi ! Mais je recommande vivement ce shampooing à toute personne à la recherche d'un excellent produit."
+    },
+    "author2": {
+        "text": "CHRIS HOWARD"
+    },
+    "reviewsPara3": {
+        "text": "J'ai utilisé du gel pour les cheveux pendant la majeure partie de ma vie d'adulte jusqu'à ce que j'essaie à contrecœur ce produit. Mes cheveux ont l'air plus naturels que l'aspect lisse/croquant du gel. Il tient bien, tout en étant doux et naturel. Je peux passer ma main dans mes cheveux sans les abîmer. Si j'utilisais du gel, cette partie s'envolerait et ne se remettrait pas en place. La pommade Soins Karismä est un excellent équilibre entre un produit de qualité et un prix raisonnable."
+    },
+    "author3": {
+        "text": "JEAN-PIERRE LALIBERTÉ"
+    },
+    "reviews": {
+        "text": "Avis"
+    }
+}

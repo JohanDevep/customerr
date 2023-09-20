@@ -1,0 +1,59 @@
+$font-fallback: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-base: 'Poppins', $font-fallback;
+$font-primary: $font-family-base;
+$font-secondary: 'Playfair Display', $font-fallback;
+$font-tertiary: $font-family-base;
+$font-icons: 'icomoon' !important;
+
+$fw-light: 300;
+$fw-regular: 400;
+$fw-medium: 500;
+$fw-sbold: 600;
+$fw-bold: 700;
+$fw-ebold: 900;
+
+$white: #fff;
+$black: #000;
+$beige: #f5f5dc;
+
+//Brown Shades
+$clr-945: #945e5e;
+$clr-c17: #c17777;
+$clr-c78: #c78771;
+$clr-c19: #c19a98;
+$clr-c19-alpha: rgba($clr-c78, .53);
+$clr-c79: #c79f8d;
+$clr-e2d: #e2d9d0;
+$clr-dbd: #dbd0c2;
+$clr-d1c: #d1c1b4;
+$clr-e8e: #e8e1db;
+$clr-e6d: #e6ded7;
+
+
+//Black Shades
+$clr-3b3: #3b393d;
+$clr-453: #453f42;
+$clr-4e4: #4e4647;
+$clr-3c3: #3c3c3b;
+$clr-535: #535353;
+$clr-707: #707070;
+$clr-1e2: #1e2831;
+$clr-1b1: #1b1b1b;
+$clr-616: #616161;
+$clr-252: #252525;
+$clr-373: #373737;
+
+//Pink Shades
+$clr-bfb: #bfb3ae;
+$clr-f0e: #f0ece9;
+$clr-a8a: #a8a2b2;
+$clr-a27: #a27a69;
+
+//Green Shades
+$clr-377: #377e4d;
+
+$icon-check: "\e914";
+$icon-spinner: "\e93c";
+$icon-star: "\e93d";
+
+$modal-fade-transform: scale(.8);

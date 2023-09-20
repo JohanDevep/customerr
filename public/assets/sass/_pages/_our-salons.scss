@@ -1,0 +1,159 @@
+.map-locations {
+  padding-block: 0 rem(30);
+
+  &-row {
+    display: grid;
+    grid-gap: rem(20);
+  }
+
+  &-items-grid {
+    display: grid;
+    grid-gap: rem(22);
+  }
+
+  &-item {
+    padding-block: rem(12) rem(21);
+    padding-inline: rem(20) rem(32);
+    border: rem(3) solid $clr-3c3;
+    color: $clr-1b1;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: rem(8);
+    letter-spacing: calc-font-size(3, 5);
+    font-size: calc-font-size(12, 20);
+    line-height: calc-font-size(14, 24);
+
+    &.disabled {
+      opacity: .3;
+      pointer-events: none;
+    }
+  }
+
+  &-ctas {
+    display: flex;
+    flex-direction: column;
+    gap: rem(10);
+    width: 100%;
+
+    button {
+      flex: 1;
+    }
+  }
+
+  &-item-title {
+    margin-block: 0;
+    letter-spacing: calc-font-size(3, 5);
+    font-size: calc-font-size(12, 20);
+    line-height: calc-font-size(14, 24);
+    font-weight: $fw-ebold;
+  }
+
+  &-item-address {
+    margin-block: rem(10);
+  }
+
+  &-item-timing {
+    font-size: calc-font-size(10, 14);
+    line-height: calc-line-height(14, 17);
+    margin-block: 0;
+    letter-spacing: 0;
+    display: flex;
+    align-items: center;
+    gap: rem(3);
+
+    &:before {
+      content: $icon-check;
+      font-family: $font-icons;
+      color: $clr-377;
+      font-size: calc-font-size(14, 16);
+      line-height: 1;
+    }
+  }
+
+  &-item-link {
+    text-decoration: underline;
+    white-space: nowrap;
+    font-weight: $fw-bold;
+    margin-block-start: rem(10);
+
+    &,
+    &:hover,
+    &:focus,
+    &:active {
+      color: $clr-1b1;
+    }
+  }
+
+  .form-control {
+    width: 100%;
+  }
+
+  &-map-area {
+    iframe {
+      min-block-size: rem(380);
+    }
+  }
+
+  @include media-breakpoint-down(md) {
+    > .container {
+      padding-inline: rem(34);
+    }
+
+    &-items-grid {
+      .form-control {
+        block-size: rem(35);
+      }
+    }
+
+    &-map-area {
+      iframe {
+        block-size: rem(850);
+      }
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    &-item {
+      padding-block: rem(22);
+      padding-inline: rem(32) rem(23);
+      gap: rem(10);
+      flex-direction: row;
+    }
+
+    &-ctas {
+      flex-direction: row;
+    }
+
+    &-item-address {
+      margin-block: rem(13);
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    padding-block: 0 rem(50);
+
+    &-row {
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: rem(28);
+    }
+  }
+
+  @include media-breakpoint-up(xxl) {
+    padding-block: rem(70);
+  }
+}
+
+.section-white-our-salons {
+  @include media-breakpoint-down(md) {
+    .section-white-wrapper {
+      padding-block-start: rem(25);
+    }
+
+    .section-white-content.hr-top {
+      margin-block-start: rem(12);
+      padding-block-start: rem(17);
+    }
+  }
+}

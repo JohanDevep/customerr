@@ -1,0 +1,29 @@
+{
+    "payment&Security": {
+        "text": "Paiements et Sécurité"
+    },
+    "whatTypePayment": {
+        "text": "QUELS MOYENS DE PAIEMENT ACCEPTE SOINS KARISMÄ ?"
+    },
+    "whatTypePaymentPara": {
+        "text": "Nous acceptons les paiements par carte de crédit via MasterCard, Visa, American Express, PayPal, Discover, Google Pay et Apple Pay."
+    },
+    "myCreditCard": {
+        "text": "QUAND LE PAIEMENT SERA-T-IL DÉBITÉ DE MA CARTE DE CRÉDIT?"
+    },
+    "myCreditCardPara1": {
+        "text": "Le paiement sera débité une fois que nous aurons envoyé votre commande."
+    },
+    "myCreditCardPara2": {
+        "text": "Si votre transaction par carte est approuvée, le montant total sera immédiatement réservé et une confirmation de commande sera envoyée à l'adresse e-mail fournie. Votre carte ne sera pas débitée tant que nous n'aurons pas envoyé votre commande."
+    },
+    "myCreditCardPara3": {
+        "text": "Si votre transaction par carte n'est pas approuvée, votre commande sera annulée. Veuillez contacter votre banque ou votre fournisseur de carte de crédit si vous avez des questions à ce sujet."
+    },
+    "howDoesKarismaProtect": {
+        "text": "COMMENT KARISMÄ PROTÈGE-T-IL LES INFORMATIONS DE MA CARTE DE CRÉDIT?"
+    },
+    "howDoesKarismaProtectPara": {
+        "text": "Toutes les transactions sont cryptées pour votre sécurité. SOINS KARISMÄ garantit que vos données sont en sécurité avec nous. Toutes les informations sont envoyées cryptées pour assurer une sécurité complète de toute information sensible. En savoir plus dans notre politique de confidentialité. Nous ne stockons pas vos informations de carte de crédit une fois que le paiement a été effectué."
+    }
+}

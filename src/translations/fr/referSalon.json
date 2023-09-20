@@ -1,0 +1,35 @@
+{
+    "refer_a_Salon": {
+        "text": "Recommander un salon"
+    },
+    "refer_a_SalonPara": {
+        "text": "Remplissez attentivement le formulaire pour recommander un salon. Notre équipe examinera les informations et vous contactera rapidement. Si vous avez des questions sur l'incitation à la référence, veuillez contacter notre équipe de support."
+    },
+    "firstName": {
+        "text": "Prénom"
+    },
+    "lastName": {
+        "text": "Nom de famille"
+    },
+    "salontName": {
+        "text": "Nom du salon"
+    },
+    "country": {
+        "text": "Pays"
+    },
+    "state": {
+        "text": "État"
+    },
+    "city": {
+        "text": "Ville"
+    },
+    "email": {
+        "text": "Email"
+    },
+    "phone": {
+        "text": "Téléphone"
+    },
+    "referSalon": {
+        "value": "Référez un salon"
+    }
+}

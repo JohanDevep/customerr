@@ -1,0 +1,98 @@
+{
+    "store": {
+        "text": "Store"
+    },
+    "collInspiredByYou": {
+        "text": "COLLECTIONS INSPIRED BY YOU"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "vegan": {
+        "text": "VEGAN"
+    },
+    "crueltyFree": {
+        "text": "CREULTY FREE"
+    },
+    "repairCollection": {
+        "text": "REPAIR COLLECTION"
+    },
+    "purpleCollection": {
+        "text": "PURPLE COLLECTION"
+    },
+    "menCollection": {
+        "text": "MEN COllection"
+    },
+    "collections": {
+        "text": "Collections"
+    },
+    "repairMask": {
+        "text": "REPAIR MASK"
+    },
+    "forHairTypes": {
+        "text": "FOR ALL HAIR TYPES"
+    },
+    "repairShampoo": {
+        "text": "REPAIR Shampoo"
+    },
+    "repairConditioner": {
+        "text": "REPAIR CONDITIONER"
+    },
+    "purpleMask": {
+        "text": "Purple Mask"
+    },
+    "forLightGrayHair": {
+        "text": "FOR LIGHT, GRAY HAIR"
+    },
+    "purpleConditioner": {
+        "text": "purple CONDITIONER"
+    },
+    "purpleShampoo": {
+        "text": "purple SHAMPOO"
+    },
+    "shampoo": {
+        "text": "SHAMPOO"
+    },
+    "forMen": {
+        "text": "FOR men"
+    },
+    "showerGel": {
+        "text": "SHOWER GEL"
+    },
+    "pomade": {
+        "text": "POMADE"
+    },
+    "hairSerum": {
+        "text": "HAIR SERUM"
+    },
+    "marulaOil": {
+        "text": "MARULA OIL"
+    },
+    "leaveIn": {
+        "text": "LEAVE-IN"
+    },
+    "conditioner": {
+        "text": "CONDITIONER"
+    },
+    "products": {
+        "text": "Products"
+    },
+    "soinsKarisma": {
+        "text": "SOINS KARISMÄ"
+    },
+    "tShirt": {
+        "text": "T-SHIRT"
+    },
+    "hoodie": {
+        "text": "HOODIE"
+    },
+    "bottle": {
+        "text": "BOTTLE"
+    },
+    "noteBook": {
+        "text": "NOTEBOOK"
+    },
+    "merch": {
+        "text": "Merch"
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "tabs":
+    {
+      "information": "information",
+      "payment": "payment",
+      "payment_information":"Payment Information"
+    },
+  "address": {
+    "shipping_address_title" : "SHIPPING ADDRESS",
+    "billing_address_title" : "BILLING ADDRESS",
+    "delete_billing_address" : "DELETE BILLING ADDRESS",
+    "same_as_shipping_text" : "BILLING ADDRESS SAME AS SHIPPING ADDRESS"
+  },
+  "form": {
+    "button": "CONTINUE"
+  },
+  "cart": {
+    "title" : "YOUR CART",
+    "subtotal":"SUBTOTAL",
+    "total":"TOTAL",
+    "gift_card":"Gift Card or Discount Code",
+    "total_tax_text":"INCLUDING TAXES",
+    "tax_note":"TAXES AND SHIPPING CALCULATED AT CHECKOUT",
+    "table": {
+      "column_one": "Product",
+      "column_two": "Price",
+      "column_three": "QUANTITY",
+      "column_four": "TOTAL"
+    },
+    "success": {
+      "message": "SUCCESSFUL PAYMENT",
+      "purchase_no": "purchase no.",
+      "details": "DETAILS ADDRESS",
+      "additional_information": "ADDITIONAL INFORMATION",
+      "PAYMENT": "PAYMENT"
+    }
+  }
+
+}

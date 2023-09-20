@@ -1,0 +1,40 @@
+@import "_abstract/vars";
+@import "_abstract/mixins";
+@import "_libs/bootstrap";
+
+@import "_base/icomoon";
+@import "_base/utilities";
+@import "_base/base";
+@import "_base/form";
+@import "_base/buttons";
+
+@import "_components/header";
+@import "_components/modal";
+@import "_components/accordion";
+@import "_components/banner";
+@import "_components/sections";
+@import "_components/tabs";
+@import "_components/footer";
+
+@import "_pages/auth";
+@import "_pages/home";
+@import "_pages/subscriptions";
+@import "_pages/subscription-sliders";
+@import "_pages/collection";
+@import "_pages/store";
+@import "_pages/about";
+@import "_pages/diary";
+@import "_pages/careers";
+@import "_pages/contact";
+@import "_pages/social-impact";
+@import "_pages/our-salons";
+@import "_pages/karisma-salons";
+@import "_pages/quiz";
+@import "_pages/job-application";
+@import "_pages/cart";
+@import "_pages/checkout";
+@import "_pages/legal";
+@import "_pages/not-found";
+@import "_pages/content-pages";
+
+@import "_pages/mobile";

@@ -1,0 +1,385 @@
+.modal {
+  &-backdrop {
+    background-color: $clr-373;
+
+    &.show {
+      opacity: .59;
+    }
+  }
+
+  &-accordion-content {
+    margin-block-start: rem(30);
+  }
+
+  &-content {
+    border: rem(3) solid $clr-1e2;
+    border-radius: 0;
+  }
+
+  &-header,
+  &-body {
+    padding-inline: rem(24);
+  }
+
+
+  &-header {
+    border: 0 none;
+    padding-inline-end: rem(18);
+    padding-block: rem(35) rem(14);
+
+    .btn-close {
+      color: $clr-252;
+      background: none;
+      opacity: 1;
+      font-size: calc-font-size(22, 28);
+
+      .icon {
+        font-weight: $fw-bold;
+      }
+    }
+
+    &.modal-header-fixed {
+      margin-block-end: rem(5);
+      padding-block-end: 0;
+      display: flex;
+      flex-direction: column-reverse;
+
+      .modal-title {
+        margin-block: rem(10) 0;
+        margin-inline-end: auto;
+      }
+
+      .btn-close {
+        margin-inline-start: auto;
+      }
+    }
+  }
+
+  &-body {
+    padding-block: 0 rem(80);
+  }
+
+  .modal-title {
+    font-size: calc-font-size(40, 60);
+    line-height: 1.1;
+    margin-block-end: rem(24);
+    font-style: italic;
+    font-family: $font-secondary; font-style: italic;
+    color: $clr-3c3;
+  }
+
+  .modal-subtitle {
+    font-size: calc-font-size(16, 20);
+    line-height: calc-line-height(20, 24);
+    letter-spacing: calc-font-size(1, 3);
+    text-transform: uppercase;
+    font-weight: $fw-bold;
+    margin-block: 0 rem(24);
+  }
+
+  &-success-header {
+    p:only-of-type {
+      margin-block-end: 0;
+    }
+  }
+
+  &-rating-counter {
+    display: flex;
+    align-items: center;
+    gap: rem(10);
+    font-weight: $fw-light;
+    font-size: calc-font-size(14, 16);
+    line-height: calc-line-height(16, 23);
+
+    p {
+      margin: 0;
+    }
+  }
+
+  &-list-rating,
+  &-single-definition-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+
+  &-list-rating {
+    align-items: center;
+    gap: rem(7);
+    font-size: calc-font-size(17, 15);
+  }
+
+  &-single-definition-list {
+    flex-direction: column;
+    gap: rem(7);
+    font-weight: $fw-light;
+    font-size: calc-font-size(14, 16);
+    line-height: calc-line-height(16, 23);
+
+    > li {
+      display: flex;
+      align-items: flex-start;
+      gap: rem(10);
+    }
+
+    .icon {
+      font-size: calc-font-size(17, 20);
+    }
+
+    .icon-font-sm {
+      transform: scale(.7);
+    }
+  }
+
+  &-single-video-container {
+    block-size: rem(245);
+
+    > * {
+      inline-size: 100%;
+      block-size: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+
+  &-single-media {
+    border: rem(3) solid $clr-3c3;
+    padding: rem(20) rem(30);
+    display: flex;
+    flex-direction: column;
+    gap: rem(23);
+  }
+
+  &-single-media-thumbnail {
+    display: flex;
+    justify-content: center;
+
+    img {
+      inline-size: rem(85);
+      block-size: rem(85);
+      border-radius: 50%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+
+  &-single-media-title {
+    font-size: calc-font-size(17, 20);
+    line-height: calc-line-height(20, 24);
+    letter-spacing: calc-font-size(2, 5);
+    font-weight: $fw-sbold;
+    text-transform: uppercase;
+    margin-block: 0 rem(3);
+  }
+
+  &-single-media-content {
+    font-size: rem(12);
+    line-height: calc-line-height(12, 16);
+    color: $black;
+  }
+
+
+  &-single-detail-text {
+    font-size: calc-font-size(16, 18);
+    line-height: calc-line-height(18, 25);
+    color: $black;
+    margin-block-start: rem(10);
+
+    > p {
+      &:only-child {
+        margin-block: 0;
+      }
+    }
+  }
+
+  &-single-video-container,
+  &-single-media,
+  &-single-footer,
+  &-single-product-content,
+  &-single-product-cta {
+    margin-block-start: rem(26);
+  }
+
+  @include media-breakpoint-up(sm) {
+
+    &-dialog {
+      inline-size: 90%;
+      max-inline-size: rem(860);
+    }
+
+    &-dialog-lg {
+      max-inline-size: rem(1200);
+    }
+
+    &-dialog-sm {
+      max-inline-size: rem(635);
+    }
+  }
+
+
+  @include media-breakpoint-up(md) {
+    &-header,
+    &-body {
+      padding-inline: rem(70);
+    }
+
+    &-header {
+      padding-inline-end: rem(50);
+      padding-block: rem(50) rem(14);
+    }
+
+    &-single-media {
+      flex-direction: row;
+      align-items: center;
+    }
+  }
+
+
+  //Refer Salon Modal
+  &-refer-salon {
+    .form-control {
+      width: 100%;
+    }
+
+    .form-group {
+      margin-block-end: rem(10);
+    }
+
+    .row {
+      margin-inline: rem(-5);
+    }
+
+    .col-item {
+      padding-inline: rem(5);
+    }
+
+    .modal-refer-salon-form-footer {
+      margin-block-start: rem(20);
+
+
+    }
+  }
+
+  &-refer-salon-header {
+    max-inline-size: rem(452);
+    margin-inline: auto;
+    margin-block-end: rem(32);
+    text-align: center;
+    font-size: calc-font-size(14, 16);
+    color: $clr-3c3;
+
+    .modal-title {
+      margin-block-end: rem(25);
+    }
+
+    p:only-of-type {
+      margin: 0;
+    }
+  }
+}
+
+
+.reserve-spot-form {
+  fieldset {
+    display: flex;
+    flex-direction: column;
+    gap: rem(25);
+  }
+
+  .form-control {
+    width: 100%;
+  }
+}
+
+.modal-subscription {
+
+  .modal-body {
+    padding: 0;
+  }
+
+  .modal-content {
+    position: relative;
+  }
+
+  .modal-thumbnail {
+    display: none;
+    position: absolute;
+    inset-block: 0;
+    inset-inline-end: 0;
+    inline-size: 50%;
+    border-inline-start: rem(3) solid $clr-1e2;
+
+    img {
+      inline-size: 100%;
+      block-size: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+
+  &-body {
+    padding-block: rem(15) rem(50);
+    padding-inline: rem(24);
+
+    .modal-title {
+      display: flex;
+      flex-direction: column;
+      font-size: calc-font-size(32, 60);
+      line-height: 1.3;
+
+      small {
+        font-size: calc-font-size(26, 50);
+        line-height: calc-line-height(50, 60);
+      }
+    }
+  }
+
+  &-form {
+    color: $clr-3c3;
+
+    .form-label {
+      font-size: calc-font-size(10, 12);
+      line-height: calc-line-height(12, 15);
+      margin-block: 0 rem(10);
+    }
+
+    .form-group {
+      margin-block-end: rem(30);
+    }
+
+    .form-group-text {
+      font-size: calc-font-size(14, 18);
+      line-height: calc-line-height(18, 27);
+
+      p {
+        margin-block-end: rem(30);
+      }
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    .modal-header .btn-close {
+      color: $white;
+    }
+
+    .modal-content {
+      min-block-size: 76vh;
+    }
+
+    .modal-body {
+      display: flex;
+      align-items: center;
+    }
+
+    .modal-thumbnail {
+      display: block;
+    }
+
+    &-body {
+      padding-inline: rem(60);
+      padding-block-end: rem(91);
+      max-inline-size: 50%;
+    }
+  }
+}

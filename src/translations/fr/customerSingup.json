@@ -1,0 +1,35 @@
+{
+    "firstName": {
+        "text": "Prénom"
+    },
+    "lastName": {
+        "text": "Nom de famille"
+    },
+    "email": {
+        "text": "E-mail"
+    },
+    "password": {
+        "text": "Mot de passe"
+    },
+    "ConfirmPass": {
+        "text": "Confirmez le mot de passe"
+    },
+    "agreeTo": {
+        "text": "Acceptez notre"
+    },
+    "termsCondition": {
+        "text": "Termes et conditions,"
+    },
+    "privacyPolicy": {
+        "text": "Politique de confidentialité."
+    },
+    "signUp": {
+        "value": "S'inscrire"
+    },
+    "alreadyAccount": {
+        "text": "Vous avez déjà un compte?"
+    },
+    "login": {
+        "text": "Connexion"
+    }
+}

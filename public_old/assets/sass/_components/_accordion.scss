@@ -1,0 +1,46 @@
+.accordion {
+
+  > .accordion-item {
+    &:not(:first-child) {
+      margin-block-start: rem(20);
+    }
+  }
+
+  &-header {
+    border: rem(3) solid $clr-3c3;
+  }
+
+  &-button,
+  &-button:not(.collapsed){
+    background: transparent;
+    color: $clr-1b1;
+    font-size: calc-font-size(18, 20);
+    line-height: calc-line-height(20, 24);
+    letter-spacing: calc-font-size(2, 5);
+    font-weight: $fw-bold;
+    text-transform: uppercase;
+    padding: calc-font-size(20, 29) calc-font-size(26, 32);
+    justify-content: space-between;
+    gap: rem(16);
+
+    &:after {
+      display: none;
+    }
+
+    &[aria-expanded="true"] {
+      .icon {
+        transform: rotate(-180deg);
+      }
+    }
+
+    .icon {
+      font-size: calc-font-size(32, 40);
+      line-height: 1;
+      transition: all .3s ease-in-out;
+    }
+  }
+
+  &-item {
+    border: 0 none;
+  }
+}

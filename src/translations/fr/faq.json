@@ -1,0 +1,77 @@
+{
+    "faq": {
+        "text": "FAQ"
+    },
+    "haveQuestion": {
+        "text": "VOUS AVEZ DES QUESTIONS?"
+    },
+    "highQuality": {
+        "text": "QUALITÉ SUPÉRIEURE"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICES DE BEAUTÉ ILLIMITÉS"
+    },
+    "questions": {
+        "text": "QUESTIONS?"
+    },
+    "questionsPara": {
+        "text": "La page FAQ de Soins Karismä sera le hub central où vous trouverez les réponses aux questions les plus posées que nous avons reçues. Si les réponses ci-dessous ne suffisent pas, ou si votre question n'est pas présente, nous demandons à nos clients d'accéder à la fonctionnalité de chat en bas à droite ou de nous contacter via la page de contact. Nous nous efforçons de répondre avec précision et honnêteté aux questions posées par nos clients."
+    },
+    "shipping": {
+        "text": "EXPÉDITION"
+    },
+    "shippingPara": {
+        "text": "Livraison gratuite, Conditions d'expédition, Délai de livraison, Pays d'expédition"
+    },
+    "payment&Security": {
+        "text": "PAIEMENTS ET SÉCURITÉ"
+    },
+    "payment&SecurityPara": {
+        "text": "Méthodes de paiement, sécurité"
+    },
+    "returnPolicy": {
+        "text": "POLITIQUE DE RETOUR"
+    },
+    "returnPolicyPara": {
+        "text": "Politique de retour, échange pour les produits de salon"
+    },
+    "order": {
+        "text": "Commande"
+    },
+    "orderPara": {
+        "text": "Examen de commande, Annulation de commande, Problèmes de paiement et de panier d'achat"
+    },
+    "subsPlans": {
+        "text": "PLANS D'ABONNEMENT"
+    },
+    "subsPlansPara": {
+        "text": "Abonnements, Services, Date d'expiration, Confirmation de paiement, Emplacements, Achat d'un abonnement"
+    },
+    "academy": {
+        "text": "ACADÉMIE"
+    },
+    "academyPara": {
+        "text": "Exigences, Certifications, Demande de remboursement, Contenu du cours, Inscription pour les salons Soins Karismä"
+    },
+    "becomeSalon": {
+        "text": "DEVENIR UN SALON"
+    },
+    "becomeSalonPara": {
+        "text": "Modèle de franchise, Technologie, Inscription, Recommandation d'employés"
+    },
+    "disputes&Claims": {
+        "text": "LITIGES ET RÉCLAMATIONS"
+    },
+    "disputes&ClaimsPara": {
+        "text": "Litiges et informations de contact"
+    },
+    "careLineProducts": {
+        "text": "NOS LIGNES DE SOINS ET PRODUITS"
+    },
+    "careLineProductsPara": {
+        "text": "Informations d'emballage, Conseils et recommandations pour les produits"
+    },
+    "faqs": {
+        "text": "FAQ"
+    }
+}

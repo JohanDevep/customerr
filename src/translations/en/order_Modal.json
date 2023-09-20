@@ -1,0 +1,29 @@
+{
+    "order": {
+        "text": "Order"
+    },
+    "howCanReview": {
+        "text": "HOW CAN I REVIEW MY ORDERS?"
+    },
+    "howCanReviewPara": {
+        "text": "Once you place an order, you can view its status at any time under My Account Profile. To view order history, go to my account profile and then order history. This screen will display all orders you have placed with Soins Karismä and will include order numbers and confirmation dates."
+    },
+    "howChangeOrder": {
+        "text": "HOW TO CHANGE OR CANCEL AN ORDER?"
+    },
+    "howChangeOrderPara": {
+        "text": "If the order is still being processed, it cannot be canceled."
+    },
+    "howKnowReceived": {
+        "text": "HOW WILL I KNOW THAT MY ORDER HAS BEEN RECEIVED?"
+    },
+    "howKnowReceivedPara": {
+        "text": "An order confirmation will appear as the last step in your order process. Shortly thereafter, you will receive a confirmation email with an order number and a summary of your order. If you do not receive it, please check your spam folder. If not, please email us at help@soinskarisma.com and we will review."
+    },
+    "canYouWrapGift": {
+        "text": "CAN YOU WRAP MY GIFTS FOR ME?"
+    },
+    "canYouWrapGiftPara": {
+        "text": "At this time, we do not offer the gift packaging option."
+    }
+}

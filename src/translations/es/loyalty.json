@@ -1,0 +1,111 @@
+{
+    "loyalty": {
+        "text": "Lealtad"
+    },
+    "earnReward": {
+        "text": "GANA RECOMPENSAS"
+    },
+    "highQuality": {
+        "text": "ALTA CALIDAD"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICIOS DE BELLEZA ILIMITADOS"
+    },
+    "earnStars": {
+        "text": "¡GANA ESTRELLAS Y REDIME!"
+    },
+    "earnStarsPara": {
+        "text": "Con nuestro programa de lealtad podrás ganar estrellas y comprarlas con el método de pago que desees. Redime tus estrellas por recompensas increíbles y acumúlalas mes a mes para unirte al tablero de líderes y participar por beneficios VIP."
+    },
+    "joinLoyalty": {
+        "text": "ÚNETE AL PROGRAMA DE LEALTAD"
+    },
+    "joinLoyaltyPara": {
+        "text": "Para empezar, únete ahora. También puedes unirte usando la aplicación para tener acceso a todos los beneficios del programa de recompensas."
+    },
+    "earnStar": {
+        "text": "GANA ESTRELLAS"
+    },
+    "earnStarPara": {
+        "text": "Acumula estrellas fácilmente usando tu cuenta. Usando la tarjeta Soins Karismä podrás acumular el doble de estrellas."
+    },
+    "getReward": {
+        "text": "OBTÉN RECOMPENSAS"
+    },
+    "getRewardPara": {
+        "text": "Mientras ganas estrellas, podrás redimirlas por recompensas como productos gratis, suscripciones y más. Empieza a redimir beneficios desde 50 estrellas."
+    },
+    "endlessBenefits": {
+        "text": "BENEFICIOS INFINITOS"
+    },
+    "endlessBenefitsPara": {
+        "text": "Unirse al programa de lealtad Soins Karismä significa desbloquear nuestra tarjeta y acceder a beneficios infinitos. Dependiendo de tu suscripción, podrás ganar y recolectar estrellas cada vez que tu tarjeta sea recargada."
+    },
+    "uniqueReward": {
+        "text": "RECOMPENSAS ÚNICAS"
+    },
+    "uniqueRewardPara": {
+        "text": "Acumula estrellas y redímelas por una lista infinita de recompensas: Academia, add-ons y mucho más."
+    },
+    "preloadCard": {
+        "text": "RECARGA TU TARJETA"
+    },
+    "preloadCardPara": {
+        "text": "Para ganar estrellas más rápido, recarga dinero en tu tarjeta digital usando el método de pago que prefieras"
+    },
+    "shareWin": {
+        "text": "COMPARTE Y GANA"
+    },
+    "shareWinPara": {
+        "text": "Comparte la iniciativa con tus amigos, refiere nuestras suscripciones y duplica tus estrellas."
+    },
+    "redeemFav": {
+        "text": "REDIME TUS FAVORITOS"
+    },
+    "checkThe": {
+        "text": "Consulta los"
+    },
+    "termsCondition": {
+        "text": "términos y condiciones"
+    },
+    "loyaltyProgram": {
+        "text": "del programa de lealtad aquí. Si tienes alguna inquietud, envíanos un email a info@soinskarisma.com"
+    },
+    "loyalityRedeem": {
+        "100": {
+            "id": 0,
+            "name": "100",
+            "icon": "icon icon-beauty-skin-care",
+            "title": "PRODUCTOS SOINS KARISMÄ",
+            "description": "Llévate a casa tus productos favoritos e inclúyelos en tu rutina de cuidado. Podrás reclamar dos productos individuales o una colección completa."
+        },
+        "500": {
+            "id": 1,
+            "name": "500",
+            "icon": "icon icon-badge",
+            "title": "ACADEMIA SOINS KARISMÄ",
+            "description": "Disfruta de un mes gratis de nuestra academia, aprende nuevas técnicas de belleza e interactúa con los mejores profesionales de belleza y bienestar."
+        },
+        "1000": {
+            "id": 2,
+            "name": "1000",
+            "icon": "icon icon-beauty-facial-treatment",
+            "title": "BELLEZA ILIMITADA",
+            "description": "Disfruta de un mes gratis de nuestra suscripción de belleza ilimitada, o redime dos add-ons que estén disponibles para la suscripción."
+        },
+        "2000": {
+            "id": 3,
+            "name": "2000",
+            "icon": "icon icon-lotus",
+            "title": "BIENESTAR ILIMITADO",
+            "description": "Disfruta de un mes gratis de nuestra suscripción de Bienestar ilimitado, o redime dos add-ons que estén disponibles para la suscripción."
+        },
+        "5000": {
+            "id": 4,
+            "name": "5000",
+            "icon": "icon icon-aeroplane",
+            "title": "AUTOCUIDADO ILIMITADO",
+            "description": "Disfruta de un mes gratis de nuestra suscripción de autocuidado ilimitada, o redime dos add-ons que estén disponibles para la suscripción."
+        }
+    }
+}

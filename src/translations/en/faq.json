@@ -1,0 +1,77 @@
+{
+    "faq": {
+        "text": "FAQ´S"
+    },
+    "haveQuestion": {
+        "text": "HAVE ANY QUESTIONS?"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "unlimitBeautyServ": {
+        "text": "UNLIMITED BEAUTY SERVICES"
+    },
+    "questions": {
+        "text": "QUESTIONS?"
+    },
+    "questionsPara": {
+        "text": "The Soins Karismä FAQ page will be the central hub in which you find the answers to the most asked questions we have received. If the answers listed below do not suffice, or your question is not present, we ask our clients to access the chat functionality at the bottom right or contact us via the contact page. We strive our best to answer the questions our clients have with accuracy and honesty."
+    },
+    "shipping": {
+        "text": "SHIPPING"
+    },
+    "shippingPara": {
+        "text": "Free shipping, Shipping conditions, Delivery delay, Shipping countries"
+    },
+    "payment&Security": {
+        "text": "PAYMENTS AND SECURITY"
+    },
+    "payment&SecurityPara": {
+        "text": "Payment methods, security"
+    },
+    "returnPolicy": {
+        "text": "RETURN POLICY"
+    },
+    "returnPolicyPara": {
+        "text": "Return policy, exchange for salon products"
+    },
+    "order": {
+        "text": "Order"
+    },
+    "orderPara": {
+        "text": "Order review, Cancel an order, Checkout and shopping cart problems"
+    },
+    "subsPlans": {
+        "text": "SUBSCRIPTION PLANS"
+    },
+    "subsPlansPara": {
+        "text": "Subscriptions, Services, Expiration date, Payment confirmation, Locations, Purchase of subscription"
+    },
+    "academy": {
+        "text": "ACADEMY"
+    },
+    "academyPara": {
+        "text": "Requirements, Certifications, Request for refund, Course content, Registration for Soins Karismä salons"
+    },
+    "becomeSalon": {
+        "text": "BECOMING A SALON"
+    },
+    "becomeSalonPara": {
+        "text": "Franchise model, Technology, Registration, Employees recommendation"
+    },
+    "disputes&Claims": {
+        "text": "DISPUTES AND CLAIMS"
+    },
+    "disputes&ClaimsPara": {
+        "text": "Disputes and Contact information"
+    },
+    "careLineProducts": {
+        "text": "OUR CARE LINES AND PRODUCTS"
+    },
+    "careLineProductsPara": {
+        "text": "Packaging information, Tips and recommendations for products"
+    },
+    "faqs": {
+        "text": "Faqs"
+    }
+}

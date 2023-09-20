@@ -1,0 +1,257 @@
+{
+    "aboutUs": {
+        "text": "About Us"
+    },
+    "innovativeBrand": {
+        "text": "AN INNOVATIVE BRAND"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "unlimitedBeauty": {
+        "text": "UNLIMITED BEAUTY SERVICES"
+    },
+    "whoAreWe": {
+        "text": "WHO ARE WE?"
+    },
+    "whoAreWePara": {
+        "text": "At Soins Karismä we believe everyone deserve to feel and look beautiful without the high price tags, this is why we are redefining the beauty industry by empowering professionals and consumers through an innovative business model.Our goal is to provide an unforgettable experience to consumers with high quality services through a monthly subscription plan."
+    },
+    "whoAreWePara1": {
+        "text": "We wanted to shine a different light within the beauty industry because we believe you should take care of yourself month to month with high quality and affordable beauty services."
+    },
+    "whoAreWePara2": {
+        "text": "Not only that, we want to offer our beauty professionals the opportunity to focus on their passions and strengths while we take care of the rest!"
+    },
+    "karismaInspiredYou": {
+        "text": "SOINS KARISMÄ - INSPIRED BY YOU!"
+    },
+    "meetFounders": {
+        "text": "MEET SOINS KARISMÄ FOUNDER’S"
+    },
+    "meetFoundersPara": {
+        "text": "Our humble beginnings started in Montreal Quebec , and we have worked to grow exponentially and have our vision and mission worldwide. Our mission is to include a patented technology that continuously changes for what is to come from the beauty industry. We are inclusive and believe that the beauty industry also deserves a change as feeling beautiful is universal and everyone deserves to feel beautiful at a reasonable price."
+    },
+    "yannick": {
+        "text": "YANNICK SAVAGE"
+    },
+    "yannickRank": {
+        "text": "PRESIDENT"
+    },
+    "melissa": {
+        "text": "MELISSA PICHE"
+    },
+    "melissaRank": {
+        "text": "HUMAN RESOURCES DIRECTOR"
+    },
+    "michel": {
+        "text": "MICHEL CUERO"
+    },
+    "michelRank": {
+        "text": "VICE-PRESIDENT"
+    },
+    "seema": {
+        "text": "SEEMA"
+    },
+    "seemaRank": {
+        "text": "Co-Founder"
+    },
+    "gianni": {
+        "text": "GIANNI"
+    },
+    "gianniRank": {
+        "text": "Co-Founder"
+    },
+    "mariajose": {
+        "text": "MARIAJOSÉ TARAZONA"
+    },
+    "mariajoseRank": {
+        "text": "CREATIVE DIRECTOR"
+    },
+    "luis": {
+        "text": "LUIS SANCHEZ"
+    },
+    "luisRank": {
+        "text": "HEAD OF TECHNOLOGY"
+    },
+    "fatima": {
+        "text": "FATIMA"
+    },
+    "fatimaRank": {
+        "text": "BUSINESS DEVELOPMENT DIRECTOR"
+    },
+    "ricardoC": {
+        "text": "RICARDO CASTAÑO"
+    },
+    "ricardoCRank": {
+        "text": "BACK-END DEVELOPER"
+    },
+    "daniel": {
+        "text": "DANIEL QUEVEDO"
+    },
+    "danielRank": {
+        "text": "UX/UI DESIGNER"
+    },
+    "ada": {
+        "text": "ADA"
+    },
+    "adaRank": {
+        "text": "SAINT-LEONARD MANAGER"
+    },
+    "vaibhav": {
+        "text": "VAIBHAV BIRADAR"
+    },
+    "vaibhavRank": {
+        "text": "DEV OPS"
+    },
+    "yvena": {
+        "text": "YVENA HENRI"
+    },
+    "yvenaRank": {
+        "text": "SALON OWNER MASCOUCHE"
+    },
+    "andres": {
+        "text": "ANDRES ROA"
+    },
+    "andresRank": {
+        "text": "BI ANALYST"
+    },
+    "sarahL": {
+        "text": "SARAH L"
+    },
+    "sarahLRank": {
+        "text": "HEAD OF CUSTOMER SERVICE"
+    },
+    "amanda": {
+        "text": "AMANDA"
+    },
+    "amandaRank": {
+        "text": "CSR"
+    },
+    "ricardo": {
+        "text": "RICARDO GOMEZ"
+    },
+    "ricardoRank": {
+        "text": "CSR"
+    },
+    "angie": {
+        "text": "Angie P"
+    },
+    "angieRank": {
+        "text": "CSR"
+    },
+    "unknown": {
+        "text": "-"
+    },
+    "unknownRank": {
+        "text": "GRAPHIC DESIGNER"
+    },
+    "jade": {
+        "text": "JADE"
+    },
+    "jadeRank": {
+        "text": "CSR"
+    },
+    "sarahB": {
+        "text": "SARAH BOUTOUILA"
+    },
+    "sarahBRank": {
+        "text": "INTERN"
+    },
+    "headOfficeTeam": {
+        "text": "Head Office Team"
+    },
+    "headOfficeTeam1": {
+        "text": "Head Office Team"
+    },
+    "our": {
+        "text": "Our"
+    },
+    "professionals": {
+        "text": "Professionals"
+    },
+    "talent": {
+        "text": "TALENT"
+    },
+    "talentPara": {
+        "text": "Our professionals are highly trained and have more than 10 years of experience in the beauty industry. You will find the best professional talent in our salons; you will experience a unique moment!"
+    },
+    "integrity": {
+        "text": "INTEGRITY"
+    },
+    "integrityPara": {
+        "text": "Our professionals are responsible and ethical people willing to provide you with the best service. Each member of our team will treat you with respect and honesty."
+    },
+    "growth": {
+        "text": "GROWTH"
+    },
+    "growthPara": {
+        "text": "Our priority is to support the growth of our professionals, we have a circular model that provides all the necessary tools for professionals to be aware of the latest trends in the industry."
+    },
+    "leicaVieux": {
+        "text": "LEICA VIEUX"
+    },
+    "leicaVieuxRank": {
+        "text": "ESTHETICIAN"
+    },
+    "leicaVieuxPara": {
+        "text": "With many years in the beauty industry, Leica is certified in aesthetic care. Friendly and detail-oriented, she loves taking care of her clients and making sure they receive quality service. What she enjoys most about her profession is seeing that her clients are satisfied with her services."
+    },
+    "keyla": {
+        "text": "KEYLA"
+    },
+    "keylaRank": {
+        "text": "ESTHETICIAN"
+    },
+    "keylaPara": {
+        "text": "Keyla se ha especializado en servicios estéticos. Cada día recibe a sus clientes con una sonrisa. A través de sus servicios, busca transmitir buena energía a sus clientes. Keyla se centra en ofrecer servicios de calidad que hagan que sus clientes se sientan felices y seguros de sí mismos."
+    },
+    "successStory": {
+        "text": "SUCCESS STORIES"
+    },
+    "values": {
+        "text": "Values"
+    },
+    "diversity": {
+        "text": "DIVERSITY"
+    },
+    "inclusion": {
+        "text": "INCLUSION"
+    },
+    "diversityPara": {
+        "text": "We embrace diversity and inclusion in our workplace and in our community. Progression as a whole is a key element that we hold close to our hearts here at Soins Karismä. As a conscious brand, we create an environment where everyone feels at home and welcome."
+    },
+    "stability": {
+        "text": "STABILITY"
+    },
+    "adaptability": {
+        "text": "ADAPTABILITY"
+    },
+    "stabilityPara": {
+        "text": "Soins Karismä prides itself on offering stability and an adaptable environment for their salons, employees, and customers. We create stability through our innovative offer and our strong community."
+    },
+    "respect": {
+        "text": "RESPECT"
+    },
+    "modesty": {
+        "text": "MODESTY"
+    },
+    "respectPara": {
+        "text": "These values are perhaps the most important at Soins Karismä. We expect everyone to treat and think of individuals respectfully. No one is better than another so modesty is key in our work environments and our media groups."
+    },
+    "theSoinsKarisma": {
+        "text": "THE SOINS KARISMÄ"
+    },
+    "culture": {
+        "text": "CULTURE"
+    },
+    "culturePara": {
+        "text": "Soins Karismä is a conscious brand that is responsive to people’s needs, moods and culture and takes responsibility by helping people, communities and the planet. We take action across all aspects of business; drive action internally and externally; and have authentic ‘conscious-ness’ in our DNA. We embrace various key dimensions as a brand: habitual, empathy, reform, multisensory, collectivism and morality. We are a brand inspired by the community to empower individuals for who they are."
+    },
+    "findSalon": {
+        "value": "FIND A SALON"
+    },
+    "bottomPara": {
+        "text": "YOU HAVE TO LOVE YOURSELF AND TAKE CARE OF YOURSELF, BECAUSE THAT’S WHEN THE BEST THING HAPPENS 'TINA TURNER' "
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "store": {
+        "text": "Tienda"
+    },
+    "collInspiredByYou": {
+        "text": "COLECCIONES INSPIRADAS EN TI"
+    },
+    "highQuality": {
+        "text": "ALTA CALIDAD"
+    },
+    "vegan": {
+        "text": "VEGANO"
+    },
+    "crueltyFree": {
+        "text": "LIBRE DE CRUELDAD"
+    },
+    "repairCollection": {
+        "text": "COLECCIÓN DE REPARACIÓN"
+    },
+    "purpleCollection": {
+        "text": "COLECCIÓN PÚRPURA"
+    },
+    "menCollection": {
+        "text": "COLECCIÓN HOMBRE"
+    },
+    "collections": {
+        "text": "COLECCIONES"
+    },
+    "repairMask": {
+        "text": "MASCARILLA REPARADORA"
+    },
+    "forHairTypes": {
+        "text": "TODO TIPO DE CABELLO"
+    },
+    "repairShampoo": {
+        "text": "SHAMPOO REPARADOR"
+    },
+    "repairConditioner": {
+        "text": "ACONDICIONADOR REPARADOR"
+    },
+    "purpleMask": {
+        "text": "MASCARILLA PÚRPURA"
+    },
+    "forLightGrayHair": {
+        "text": "CABELLO RUBIO/GRIS"
+    },
+    "purpleConditioner": {
+        "text": "ACONDICIONADOR PÚRPURA"
+    },
+    "purpleShampoo": {
+        "text": "SHAMPOO PÚRPURA"
+    },
+    "shampoo": {
+        "text": "SHAMPOO"
+    },
+    "forMen": {
+        "text": "PARA HOMBRE"
+    },
+    "showerGel": {
+        "text": "GEL DE DUCHA"
+    },
+    "pomade": {
+        "text": "POMADA"
+    },
+    "hairSerum": {
+        "text": "SUERO DE"
+    },
+    "marulaOil": {
+        "text": "ELIXIR"
+    },
+    "leaveIn": {
+        "text": "SIN ENJUAGUE"
+    },
+    "conditioner": {
+        "text": "ACONDICIONADOR"
+    },
+    "products": {
+        "text": "PRODUCTOS"
+    },
+    "soinsKarisma": {
+        "text": "SOINS KARISMÄ"
+    },
+    "tShirt": {
+        "text": "CAMISETA"
+    },
+    "hoodie": {
+        "text": "SUDADERA"
+    },
+    "bottle": {
+        "text": "BOTELLA"
+    },
+    "noteBook": {
+        "text": "COMPUTADORA PORTÁTIL"
+    },
+    "merch": {
+        "text": "MERCH"
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "reviews": {
+        "text": "(120 AVIS)"
+    },
+    "unlimitedWellness": {
+        "text": "Bien-être illimité"
+    },
+    "subscriptionPlan": {
+        "text": "PLAN D'ABONNEMENT"
+    },
+    "Price": {
+        "text": "500,00 $"
+    },
+    "comingSoon": {
+        "text": "PROCHAINEMENT DISPONIBLE"
+    },
+    "benefits": {
+        "value": "AVANTAGES"
+    },
+    "completeWellness": {
+        "text": "Bien-être complet — "
+    },
+    "completeWellnessPara": {
+        "text": "Tous les soins de beauté et de bien-être dont vous avez besoin dans un abonnement unique ! Profitez chaque mois de services illimités avec les meilleurs professionnels."
+    },
+    "advanceTechnology": {
+        "text": "Technologie avancée — "
+    },
+    "advanceTechnologyPara": {
+        "text": "Accédez à notre plateforme unique où vous pouvez réserver, annuler ou modifier des rendez-vous en toute simplicité. Communiquez avec les salons de beauté et les centres de bien-être."
+    },
+    "cancellation": {
+        "text": "Annulation - "
+    },
+    "cancellationPara": {
+        "text": "Aucun frais d'annulation pour l'abonnement ! Cependant, les places sont limitées, alors réservez dès maintenant et profitez-en !"
+    },
+    "getNow": {
+        "value": "OBTENEZ MAINTENANT"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICES DE BEAUTÉ ILLIMITÉS"
+    },
+    "unlimitWellnessServ": {
+        "text": "SERVICES DE BIEN-ÊTRE ILLIMITÉS"
+    },
+    "travelExperience": {
+        "text": "EXPÉRIENCE DE VOYAGE"
+    },
+    "hairTreat": {
+        "text": "Traitement capillaire"
+    },
+    "skinCare": {
+        "text": "Soins de peau"
+    },
+    "hairCare": {
+        "text": "Soin de cheveux"
+    },
+    "permanentMake": {
+        "text": "Maquillage permanente"
+    },
+    "nails": {
+        "text": "les ongles"
+    },
+    "coloration": {
+        "text": "Coloration"
+    },
+    "makeup": {
+        "text": "Se maquiller"
+    },
+    "hairCut": {
+        "text": "La Coupe de cheveux"
+    },
+    "hairCut2": {
+        "text": "La Coupe de cheveux"
+    },
+    "zumba": {
+        "text": "Zumba"
+    },
+    "pilates": {
+        "text": "Pilates"
+    },
+    "yoga": {
+        "text": "Yoga"
+    },
+    "hiit": {
+        "text": "Frapper"
+    },
+    "functional": {
+        "text": "fonctionnel"
+    },
+    "functionalTraining": {
+        "text": "formation fonctionnelle"
+    },
+    "soon": {
+        "text": "bientôt"
+    },
+    "ComingSoon": {
+        "text": "À venir"
+    },
+    "beauty": {
+        "text": "Beauté"
+    },
+    "wellness": {
+        "text": "Bien-être"
+    },
+    "travel": {
+        "text": "Voyage"
+    },
+    "unlimitCareServ": {
+        "text": "SERVICES DE SOINS ILLIMITÉS"
+    },
+    "unlimitCareServPara": {
+        "text": "Avec l'adhésion, vous aurez la possibilité de choisir parmi tous nos services proposés. Vous bénéficierez de services de soins illimités, qu'il s'agisse de traitements capillaires ou esthétiques. Choisissez le salon Soins Karismä le plus proche et planifiez votre rendez-vous ! Offrez-vous des soins appropriés chaque mois."
+    },
+    "unlimitWellnessServices": {
+        "text": "SERVICES DE BIEN-ÊTRE ILLIMITÉS"
+    },
+    "unlimitWellnessServicesPara": {
+        "text": "Profitez de la variété de services de bien-être illimités chaque mois avec cette abonnement, prenez soin de votre santé et de votre corps tout en vous amusant, planifiez les cours que vous préférez et participez à des ateliers de bien-être, les options sont infinies !"
+    },
+    "karismaTravelExperience": {
+        "text": "EXPÉRIENCE DE VOYAGE SOINS KARISMÄ"
+    },
+    "karismaTravelExperiencePara": {
+        "text": "Voyagez dans les villas Soins Karismä à travers le monde chaque mois. Tout ce que vous avez à faire est de réserver votre place pour le voyage de vos rêves. Vous aurez accès à des services de beauté et des cours de bien-être pour rendre votre voyage inoubliable !"
+    },
+    "ourDestination": {
+        "text": "ACCÈS EXCLUSIF À NOS DESTINATIONS"
+    },
+    "allNights": {
+        "text": "SÉJOUR TOUT COMPRIS DE 5 JOURS, 4 NUITS"
+    },
+    "wellnessClasses": {
+        "text": "INSTRUCTEURS ET COURS DE BIEN-ÊTRE"
+    },
+    "beautyTraveling": {
+        "text": "SERVICES DE BEAUTÉ EN VOYAGE"
+    },
+    "supportStaff": {
+        "text": "PERSONNEL DE SOUTIEN (CHEF, BARMAID)"
+    },
+    "airportPickUp": {
+        "text": "PRISE EN CHARGE À L'AÉROPORT"
+    },
+    "about": {
+        "text": "À propos"
+    },
+    "unlimitSubscription": {
+        "text": "ABONNEMENT DE SOINS PERSONNELS ILLIMITÉS"
+    },
+    "unlimitSubscriptionPara": {
+        "text": "Soins Karismä a voulu révolutionner la façon dont nous voyons les services de soins personnels. Les services mensuels peuvent être financièrement pesants. C'est pourquoi nous offrons des services de beauté, des services de bien-être et la possibilité de voyager pour un prix fixe chaque mois ! Venez autant de fois que vous le souhaitez dans n'importe quel salon et centre de bien-être Soins Karismä à travers le monde, réservez votre expérience de voyage et connectez-vous avec une communauté unique. Réservez votre abonnement car les places sont limitées ! Nous avons tout ce dont vous avez besoin. Choisissez votre salon, centre de bien-être et programmez votre voyage, le tout depuis notre plateforme !"
+    },
+    "inspiredByYou": {
+        "text": "INSPIRÉ PAR VOUS !"
+    },
+    "bestExperience": {
+        "text": "LA MEILLEURE EXPÉRIENCE !"
+    },
+    "bestExperiencePara": {
+        "text": "Voyager était impossible pour moi, c'était trop cher, mais maintenant avec cet abonnement, je peux voyager avec des gens incroyables que j'ai rencontrés grâce à Soins Karismä. Les villas sont incroyables et très confortables, c'était la meilleure expérience."
+    },
+    "authorName": {
+        "text": "MARIE LI"
+    },
+    "myDreamTrip": {
+        "text": "MON VOYAGE DE RÊVE"
+    },
+    "myDreamTripPara": {
+        "text": "Je pensais devoir économiser de l'argent pendant des années pour voir un endroit spectaculaire, mais Soins Karismä me donne l'opportunité de voyager chaque mois et de rencontrer des gens incroyables ! Ma partie préférée était de faire du yoga face à la mer !"
+    },
+    "authorName1": {
+        "text": "JESSY LARIVIÈRE"
+    },
+    "uniqueOffer": {
+        "text": "OFFRE UNIQUE"
+    },
+    "uniqueOfferPara": {
+        "text": "Cet abonnement comprend tout ce dont j'ai besoin. C'est incroyable que pour seulement 500 $ par mois, je puisse voyager et prendre soin de moi avec des services de beauté et de bien-être. C'est une offre unique !"
+    },
+    "authorName2": {
+        "text": "MANON TREMBLAY"
+    },
+    "ourWellnessCenters": {
+        "text": "NOS CENTRES DE BIEN-ÊTRE"
+    },
+    "chooseYourSubs": {
+        "text": "CHOISISSEZ VOTRE ABONNEMENT"
+    },
+    "chooseYourSubsPara": {
+        "text": "Nous avons tout ce dont vous avez besoin ! Profitez de services de beauté et de bien-être illimités et d'une expérience de voyage mois après mois avec les meilleurs professionnels. Venez autant de fois que vous le souhaitez dans n'importe quel salon et centre de bien-être Soins Karismä à travers le monde, réservez votre expérience de voyage et connectez-vous avec une communauté unique. Choisissez l'abonnement qui vous convient le mieux et réservez votre place car les places sont limitées !"
+    },
+    "unlimited": {
+        "text": "illimité"
+    },
+    "90Price": {
+        "text": "$90.00/"
+    },
+    "month": {
+        "text": "MOIS"
+    },
+    "joinWaitlist": {
+        "value": "S'INSCRIRE SUR LA LISTE D'ATTENTE"
+    },
+    "selfCare": {
+        "text": "soins personnels"
+    },
+    "180Price": {
+        "text": "$180.00/"
+    },
+    "500Price": {
+        "text": "$500.00/"
+    }
+}

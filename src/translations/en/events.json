@@ -1,0 +1,53 @@
+{
+    "events": {
+        "text": "Events"
+    },
+    "exploreWithUs": {
+        "text": "EXPLORE WITH US!"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "unlimitBeautyServ": {
+        "text": "UNLIMITED BEAUTY SERVICES"
+    },
+    "event&More": {
+        "text": "Events & More"
+    },
+    "event&MorePara": {
+        "text": "Soins Karismä wants to give back to the community. We create and plan events for the general public, VIP clients and salons in order to share a wonderful experience. As an established company, we look forward to showing our community what it means to be a family. As the year goes by please keep an eye for events and more!"
+    },
+    "all": {
+        "text": "All"
+    },
+    "lorem": {
+        "text": "Lorem"
+    },
+    "beauty": {
+        "text": "Beauty"
+    },
+    "hairCare": {
+        "text": "Hair Care"
+    },
+    "loremIpsum": {
+        "text": "Lorem ipsum dolor sit"
+    },
+    "date": {
+        "text": "May 20, 2023"
+    },
+    "time": {
+        "text": "20:30"
+    },
+    "location": {
+        "text": "Lorem Ipsum"
+    },
+    "singleBlogPara": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec erat ut lacus bibendum sollicitudin vitae a mauris. Curabitur luctus mauris ac sapien pulvinar lobortis. Proin a luctus tellus, sit amet tincidunt lorem."
+    },
+    "learnMore": {
+        "value": "Learn More"
+    },
+    "loadMore": {
+        "value": "Load More"
+    }
+}

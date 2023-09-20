@@ -1,0 +1,68 @@
+{
+    "blogs": {
+        "text": "Blogs"
+    },
+    "newsArticles": {
+        "text": "NEWS, ARTICLES & MORE"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "unlimitBeautyServ": {
+        "text": "UNLIMITED BEAUTY SERVICES"
+    },
+    "update&More": {
+        "text": "UPDATES & MORE"
+    },
+    "update&MorePara": {
+        "text": "Our blog section is reserved for our client readers who want to learn more about the updates and news within the company. As a reader you should expect to see weekly and monthly updates on new salon openings, events, and product releases. Sit back, and enjoy the reading!"
+    },
+    "all": {
+        "text": "All"
+    },
+    "hair": {
+        "text": "Hair"
+    },
+    "beauty": {
+        "text": "Beauty"
+    },
+    "hairCare": {
+        "text": "Hair Care"
+    },
+    "selfCare": {
+        "text": "Self Care"
+    },
+    "hairBlogHeading": {
+        "text": "All you need to know about keratin treatment: Do’s and Don'ts"
+    },
+    "hairBlogHeadingPara": {
+        "text": "There are a lot of misconceptions when it comes to keratin and what it does for your hair. We’re here to lay out the truth, plain and simple so you can feel confident and informed when you decide to schedule your appointment for keratin treatment with our professionals."
+    },
+    "readMore": {
+        "value": "Read More"
+    },
+    "nails": {
+        "text": "Nails"
+    },
+    "nailsBlogHeading": {
+        "text": "How to take care of your Acrylic Nails"
+    },
+    "nailsBlogHeadingPara": {
+        "text": "Acrylic nails allow the manicure to last weeks, giving an elegant effect that we love! Since acrylic nails are artificial nail extensions that are placed over the natural nail, it will hide short and weak nails. However, a lot of people have mistakenly thought that it is maintenance-free. These artificial nails actually do need some loving care."
+    },
+    "eyebrows": {
+        "text": "EYEBROWS"
+    },
+    "aesthetics": {
+        "text": "AESTHETICS"
+    },
+    "eyebrowsBlogHeading": {
+        "text": "Microblading or Microshading?"
+    },
+    "eyebrowsBlogHeadingPara": {
+        "text": "Nowadays, there are many beauty trends for eyebrows. Some people use makeup techniques to fill in their eyebrows and give them a different effect every day, however, for other people it can be a time consuming task that does not give the best result."
+    },
+    "loadMore": {
+        "value": "Load More"
+    }
+}

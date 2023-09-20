@@ -1,0 +1,874 @@
+//Subscription Detail banner
+.single-item-banner {
+  &-subscription {
+
+    .single-item-banner-rating-wrapper { margin-block-end: rem(-15); }
+
+    .single-item-banner-visual {
+      max-inline-size: 86.2%;
+      block-size: 100%;
+
+      img {
+        block-size: 100%;
+        object-fit: cover;
+        object-position: center;
+        border-top-left-radius: rem(700);
+        border-top-right-radius: rem(700);
+      }
+    }
+
+    .single-item-banner-detail {
+      padding-block-end: rem(35);
+    }
+
+    .single-item-banner-header {
+      margin-block-end: rem(23);
+    }
+
+    .single-item-banner-title {
+      font-size: calc-font-size(50, 85);
+      line-height: calc-line-height(91, 121);
+      letter-spacing: 0;
+      text-transform: none;
+    }
+
+    .single-item-banner-category {
+      font-size: calc-font-size(24, 31);
+      line-height: calc-line-height(31, 37);
+      letter-spacing: calc-font-size(3, 9.3);
+    }
+
+    .single-item-banner-custom-tabs {
+      margin-block: rem(23) rem(56)
+    }
+
+    .single-item-banner-cta-list {
+      display: block;
+      width: 100%;
+    }
+
+    .single-item-banner-footer-cta {
+      inline-size: 100%;
+      max-inline-size: rem(450);
+      margin-inline: auto;
+    }
+
+    @include media-breakpoint-up(lg) { padding-block-end: 0 !important; }
+
+    @include media-breakpoint-down(lg) {
+      .single-item-banner-visual { max-inline-size: 100%; }
+
+      .single-item-banner-detail { margin-block-start: rem(30); }
+    }
+  }
+}
+
+//Subscription Carousel
+.subscription-carousel {
+  &-section {
+    padding-block-start: rem(65);
+    background-color: $clr-e2d;
+  }
+
+  &-custom-tabs {
+    .nav-tabs {
+      margin-inline: auto;
+      max-inline-size: rem(860);
+      justify-content: space-between;
+      margin-block-end: rem(20);
+
+      .nav-link {
+        font-size: calc-font-size(16, 31);
+        line-height: calc-line-height(31, 47);
+        letter-spacing: calc-font-size(3, 9.3);
+      }
+    }
+
+    //.tab-pane {
+    //  &.active {
+    //    min-block-size: rem(700);
+    //  }
+    //}
+  }
+
+  @include media-breakpoint-up(md) {
+    &-custom-tabs {
+      .nav-tabs {
+        //inline-size: 65%;
+        inline-size: max-content;
+        gap: rem(60)
+      }
+    }
+  }
+}
+
+//Services Cards
+.subscription-bleed-cards {
+  position: relative;
+  z-index: 2;
+  margin-block-start: rem(-50);
+  background-image: linear-gradient(to bottom, transparent 0, transparent 50px, $clr-f0e 50px, $clr-f0e 100%);
+
+  @include media-breakpoint-up(xl) {
+    margin-block-start: rem(-80);
+    background-image: linear-gradient(to bottom, transparent 0, transparent 80px, $clr-f0e 80px, $clr-f0e 100%);
+  }
+
+  @include media-breakpoint-up(xxl) {
+    margin-block-start: rem(-100);
+    background-image: linear-gradient(to bottom, transparent 0, transparent 100px, $clr-f0e 100px, $clr-f0e 100%);
+  }
+  @include media-breakpoint-up(x3l) {
+    margin-block-start: rem(-140);
+    background-image: linear-gradient(to bottom, transparent 0, transparent 140px, $clr-f0e 140px, $clr-f0e 100%);
+  }
+}
+
+//Section White
+.section-white {
+
+  @include media-breakpoint-up(lg) {
+    &-price-plan-top {
+      padding-block-end: rem(90);
+    }
+  }
+
+  @include media-breakpoint-up(xl) {
+    &-price-plan-top {
+      padding-block-end: rem(122);
+    }
+  }
+
+  @include media-breakpoint-up(xxl) {
+    &-subscription-detail {
+      &.detail-1 .section-white-wrapper {
+        padding-block-end: rem(108);
+      }
+    }
+  }
+}
+
+//Price Plans
+.price-plans {
+  &-section {
+    background-image: linear-gradient(to bottom, $white 0%, $white 90px, $clr-f0e 90px, $clr-f0e 100%);
+
+    &.pb-lg {
+      padding-block-end: rem(70);
+    }
+  }
+
+  &-black-block {
+    text-align: center;
+    padding-block: rem(30) rem(15);
+    padding-inline: rem(46);
+    color: $white;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &-grid-item {
+    box-shadow: 0 rem(3) rem(20) rgba($black, .13);
+    display: flex;
+    flex-direction: column;
+  }
+
+  &-wrapper {
+    .black-block-icon {
+      padding-block-end: rem(40);
+      margin-block-end: rem(30);
+      position: relative;
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      &,
+      .icon {
+        line-height: 1;
+      }
+
+      .icon {
+        font-size: calc-font-size(80, 180);
+      }
+
+      .icon-lotus {
+        font-size: calc-font-size(48, 131);
+      }
+
+      .icon-aeroplane {
+        font-size: calc-font-size(65, 137);
+      }
+
+      &:before {
+        content: '';
+        inline-size: rem(48);
+        block-size: rem(4);
+        background-color: $white;
+        border-radius: rem(48);
+        position: absolute;
+        inset-block-end: 0;
+        inset-inline-start: 50%;
+        transform: translateX(-50%);
+      }
+    }
+
+    .black-block-title {
+      text-align: center;
+      text-transform: uppercase;
+      font-weight: $fw-bold;
+      margin-block-end: rem(15);
+      font-size: calc-font-size(15, 30);
+      line-height: calc-font-size(18, 36);
+      letter-spacing: calc-font-size(4.5, 9);
+    }
+
+    .black-card-package-plan {
+      font-size: calc-font-size(14, 28);
+      letter-spacing: calc-font-size(4.2, 8.4);
+      line-height: 1.4;
+      margin-block: 0;
+
+      small {
+        font-size: calc-font-size(8, 16);
+        letter-spacing: calc-font-size(2.4, 4.8);
+      }
+    }
+
+    .price-plans-legal-text {
+      margin: 0 auto;
+      font-size: rem(10);
+      line-height: 1.2;
+      letter-spacing: calc-font-size(.5, 1.5);
+      max-inline-size: rem(375);
+      margin-block-end: auto;
+    }
+
+    .price-plans-footer {
+      margin-block-start: rem(65);
+
+      button {
+        margin-inline: auto;
+        display: inline-block;
+        inline-size: 100%;
+      }
+    }
+  }
+
+  &-white-block {
+    padding-block: rem(38) rem(41);
+    padding-inline: 20%;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: $fw-bold;
+    color: $black;
+    background-color: $white;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+
+
+    .disabled {
+      user-select: none;
+      cursor: not-allowed;
+      pointer-events: none;
+      opacity: .1;
+    }
+  }
+
+  &-details-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    font-size: calc-font-size(14, 20);
+    line-height: calc-font-size(17, 24);
+    letter-spacing: calc-font-size(2.1, 4);
+    margin-block-end: rem(30);
+    gap: rem(28);
+  }
+
+  @include media-breakpoint-down(md) {
+    &-grid {
+      gap: rem(30);
+      padding-inline: 8%;
+      position: relative;
+
+      &:before,
+      &:after {
+        position: absolute;
+        content: '';
+        inline-size: rem(2);
+        background-color: $clr-707;
+        inset-block: rem(90) 0;
+      }
+
+      &:before { inset-inline-start: 1.5%; }
+      &:after { inset-inline-end: 1.5%; }
+    }
+
+    &-grid-item {
+      &.state-inactive {
+      .price-plans-details-list,
+      .price-plans-legal-text {
+        display: none;
+      }
+
+      .price-plans-white-block {
+        background-color: $clr-3c3;
+        padding-block: rem(2) rem(13);
+        margin-block-start: rem(-2);
+      }
+
+      .price-plans-footer {
+        margin-block-start: 0;
+
+        .btn-dark { display: none; }
+      }
+    }
+
+
+      &.state-active {
+        .price-plans-black-block {
+          padding-block: rem(30)
+        }
+
+        .price-plans-details-list,
+        .price-plans-legal-text {
+          display: flex;
+        }
+
+        .price-plans-footer {
+          margin-block-start: 0;
+
+          .btn-hidden { display: none; }
+        }
+
+        .black-block-icon {
+          .icon { font-size: rem(100); }
+          .icon-lotus { font-size: rem(64); }
+          .icon-aeroplane { font-size: rem(83); }
+        }
+      }
+    }
+
+    &-wrapper {
+      .block-block-title {
+        margin-block-end: rem(5);
+      }
+
+      .black-block-icon {
+        margin-block-end: rem(17);
+        padding-block-end: rem(21);
+      }
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    &-black-block {
+      padding-block: rem(80);
+      padding-inline: rem(24);
+    }
+
+    &-white-block {
+      padding-block: rem(40);
+      padding-inline: rem(20);
+    }
+
+    &-details-list {
+      gap: rem(50);
+      margin-block-end: rem(35);
+    }
+
+    &-wrapper {
+      .price-plans-footer {
+        .btn-hidden { display: none !important; }
+      }
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    &-section {
+      .container {
+        padding-inline: 0;
+      }
+    }
+
+    &-black-block {
+      min-block-size: rem(540);
+    }
+
+    &-wrapper {
+      .price-plans-footer {
+        button {
+          inline-size: initial;
+        }
+      }
+    }
+
+    &-white-block {
+      padding-inline: rem(35);
+    }
+  }
+
+  @include media-breakpoint-up(xxl) {
+    &-grid {
+      gap: rem(58);
+    }
+
+    &-white-block {
+      padding-inline: rem(65);
+    }
+  }
+}
+
+//Black card with left right borders
+.black-card-item-review {
+  padding-block: rem(60) rem(45);
+  padding-inline: rem(24);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+  .list-black-card-rating {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 rem(40) 0;
+    font-size: calc-font-size(26, 30);
+    display: flex;
+    gap: rem(12);
+    justify-content: center;
+
+    li,
+    .icon { line-height: 1; }
+  }
+
+  .black-card-title {
+    margin-block-end: rem(35);
+    font-weight: $fw-bold;
+    font-size: calc-font-size(18, 25);
+    line-height: calc-line-height(25, 30);
+    letter-spacing: calc-font-size(2, 7.5);
+  }
+
+  .black-card-content-wrapper {
+    margin-block-end: rem(17);
+    max-inline-size: rem(405);
+    margin-inline: auto;
+    font-weight: $fw-light;
+
+    p {
+      &:last-child { margin-block: 0; }
+    }
+  }
+
+  .black-card-item-review-author {
+    font-weight: $fw-sbold;
+    font-size: calc-font-size(16, 20);
+    line-height: calc-line-height(20, 24);
+    letter-spacing: calc-font-size(1, 3);
+    text-transform: uppercase;
+    margin-block: auto 0;
+
+    &:before {
+      content: '-';
+      color: $white;
+      margin-inline-end: rem(3)
+    }
+  }
+}
+
+
+.black-card-item-subscription-service {
+  gap:rem(38);
+  padding-block: rem(68) rem(40);
+  padding-inline: rem(33);
+  text-align: center;
+
+  .black-card-item-icon {
+    position: relative;
+    padding-block-end: rem(25);
+    margin-block-end: rem(33);
+    font-size: calc-font-size(55, 73);
+    line-height: 1;
+
+    &:after {
+      content: '';
+      block-size: rem(4);
+      inline-size: rem(48);
+      border-radius: rem(48);
+      background-color: $white;
+      position: absolute;
+      inset-block-end: 0;
+      inset-inline-start: 50%;
+      transform: translateX(-50%);
+    }
+  }
+
+  .black-card-title {
+    margin-block-end: rem(30);
+    font-weight: $fw-bold;
+    font-size: calc-font-size(20, 28);
+    line-height: calc-line-height(28, 34);
+    letter-spacing: calc-font-size(3, 8.4);
+  }
+
+  .black-card-content-wrapper {
+    max-inline-size: rem(445);
+    margin-inline: auto;
+    font-weight: $fw-light;
+
+    p {
+      &:last-child { margin-block: 0; }
+    }
+  }
+}
+
+
+//Subscription Products Slider
+.subscription-products-slider-wrapper {
+  padding-block: rem(140) rem(165);
+
+  .product-slider-item {
+    img {
+      inline-size: 100%;
+      block-size: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+}
+
+.owl-slider {
+  position: relative;
+
+  .owl-nav button {
+    position: absolute;
+    inset-block-start: 50%;
+    transform: translateY(-50%);
+    line-height: 1;
+    z-index: 2;
+
+    .icon {
+      font-size: rem(40);
+      color: $clr-3c3;
+    }
+
+    &.owl-next {
+      inset-inline-end: rem(-30);
+    }
+    &.owl-prev {
+      inset-inline-start: rem(-30);
+    }
+
+    @include media-breakpoint-up(md) {
+      &.owl-next {
+        inset-inline-end: rem(-60);
+      }
+      &.owl-prev {
+        inset-inline-start: rem(-60);
+      }
+    }
+  }
+}
+
+//Subscriptins Travel Services
+.subscription-travel-services {
+
+  &-wrapper {
+    padding-block: rem(135) rem(86);
+  }
+
+  &-grid {
+    display: grid;
+    grid-row-gap: rem(80);
+    grid-column-gap: rem(24);
+  }
+
+  &-item {
+    display: flex;
+    flex-direction: column;
+    gap: rem(11);
+    align-items: center;
+
+    .travel-service-icon-wrapper {
+      min-inline-size: rem(232);
+      max-inline-size: rem(232);
+      block-size: rem(232);
+      border-radius: 50%;
+      background-color: $white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      &,
+      .icon { line-height: 1; }
+
+      .icon {
+        color: $black;
+        font-size: calc-font-size(90, 127);
+      }
+    }
+
+    .travel-service-text {
+      margin: 0;
+      font-weight: $fw-bold;
+      font-size: calc-font-size(16, 20);
+      line-height: calc-line-height(20, 24);
+      letter-spacing: calc-font-size(2, 4);
+      color: $clr-3c3;
+      max-inline-size: rem(312);
+      text-align: center;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    &-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    &-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+}
+
+
+@include media-breakpoint-down(md) {
+  .single-item-banner-subscription {
+    &.single-item-banner-wrapper {
+      padding-block-start: 0;
+    }
+
+    > .container {
+      padding-inline: rem(12) !important;
+
+      > .row > *:first-child{ padding-inline: 0; }
+    }
+
+    .list-item-check-list  {
+      font-size: rem(12);
+      line-height: 1.2;
+    }
+
+    .single-item-banner {
+
+      &-visual {
+        max-inline-size: 100%;
+        block-size: rem(450);
+        margin-block-end: 0;
+
+        img {
+          max-inline-size: initial;
+          inline-size: 100%;
+        }
+      }
+
+      &-custom-tabs {
+        margin-block-end: rem(25);
+      }
+
+      &-detail {
+        padding-block: rem(16) 0;
+        padding-inline: rem(16);
+      }
+
+      &-rating-wrapper {
+        margin-block-end: 0;
+      }
+
+      &-title {
+        font-size: rem(32);
+        line-height: 1.2;
+        margin-block-end: rem(3);
+      }
+
+      &-category {
+        font-size: rem(12);
+        line-height: 1.5;
+        letter-spacing: rem(3.6);
+        margin-block-end: rem(8);
+      }
+
+      &-price {
+        font-size: rem(26);
+        line-height: rem(40);
+        letter-spacing: rem(7.8);
+        margin-block-end: rem(6);
+      }
+
+      &-btn-group {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-block-end: rem(27);
+
+        .btn-group-title {
+          font-size: rem(15);
+          line-height: rem(23);
+          letter-spacing: rem(4);
+          margin-block-end: 0;
+        }
+
+        .btn-group-wrapper { display: none; }
+
+        .btn-group-select { display: block; }
+      }
+    }
+  }
+
+  .subscription-carousel-section {
+    padding-block-start: rem(45);
+  }
+
+  .black-card-item-subscription-service {
+    padding-block: rem(24);
+    padding-inline: rem(18);
+
+    .black-card {
+      &-item-icon {
+        padding-block-end: rem(11);
+        margin-block-end: rem(18);
+        font-size: rem(28);
+      }
+
+      &-title {
+        font-size: rem(16);
+        line-height: rem(19);
+        letter-spacing: rem(4.8);
+        margin-block-end: rem(9);
+      }
+
+      &-content-wrapper {
+        font-size: rem(12);
+        line-height: 1.5;
+      }
+    }
+  }
+
+  .subscription-travel-services {
+
+    &-wrapper {
+      padding-block: rem(44) rem(82);
+
+      .travel-service-icon-wrapper {
+        min-inline-size: rem(140);
+        max-inline-size: rem(140);
+        block-size: rem(140);
+
+        .icon {
+          font-size: rem(64);
+        }
+      }
+    }
+
+    &-grid {
+      grid-row-gap: rem(40);
+    }
+
+    &-item .travel-service-text {
+      letter-spacing: rem(4.8);
+    }
+  }
+
+  .section-content-bordered-product-slider {
+    .owl-nav { display: none; }
+  }
+
+  .subscription-products-slider-wrapper {
+    padding-block: rem(52) rem(72);
+  }
+
+  .subscription-detail-section-white-bleed-cards {
+    &.section-content-bordered-bg {
+      background: linear-gradient(to bottom, transparent 0, transparent #{rem(72)},$clr-f0e #{rem(72)}, $clr-f0e 50%);
+    }
+
+    .section-content-bordered {
+      &:before,
+      &:after {
+        inset-block: rem(72) 0;
+      }
+    }
+
+    .black-card-item {
+      padding: rem(48) rem(38);
+
+      .list-black-card-rating {
+        font-size: rem(22);
+        gap: rem(8);
+        margin-block-end: rem(27);
+      }
+
+      .black-card-title {
+        font-size: rem(14);
+        line-height: rem(17);
+        letter-spacing: rem(4.8);
+        margin-block-end: rem(16);
+      }
+
+      .black-card-content-wrapper {
+        margin-block-end: rem(16);
+        font-size: rem(12);
+        line-height: rem(18);
+      }
+
+      .black-card-item-review-author {
+        font-size: rem(10);
+        line-height: rem(12);
+        letter-spacing: rem(1.5);
+      }
+    }
+  }
+
+  .subscription-bleed-cards {
+    background: linear-gradient(to bottom, transparent 0, transparent #{rem(50)},$clr-f0e #{rem(50)}, $clr-f0e 50%);
+
+    .black-card-grid {
+      @include borderedSection;
+
+      &:before,
+      &:after { inset-block: rem(50) 0; }
+    }
+  }
+
+  .section-white-subscription-detail {
+    &.detail-1 {
+      .section-white-wrapper {
+        padding-block: rem(63) rem(33);
+      }
+
+      .section-white-content {
+        max-inline-size: 73%;
+        margin-inline: auto;
+      }
+    }
+
+    &.detail-2 {
+      .section-white-wrapper {
+        padding-block-end: rem(55);
+      }
+
+      .section-white-content {
+        max-inline-size: 73%;
+        margin-inline: auto;
+
+        &.hr-bottom {
+          margin-block-end: 0;
+          padding-block: rem(40);
+        }
+      }
+    }
+  }
+
+  .subscription-detail-price-plans {
+    &.pb-lg {
+      padding-block-end: 0;
+    }
+
+    .price-plans-grid { padding-block-end: rem(35); }
+  }
+}

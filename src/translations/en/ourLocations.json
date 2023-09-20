@@ -1,0 +1,35 @@
+{
+    "ourLocations": {
+        "text": "Our Locations"
+    },
+    "inspiredByYou": {
+        "text": "INSPIRED BY YOU!"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "unlimitBeautyServ": {
+        "text": "UNLIMITED BEAUTY SERVICES"
+    },
+    "findA": {
+        "text": "FIND A"
+    },
+    "karismaSalon": {
+        "text": "KARISMÄ SALON"
+    },
+    "karismaSalonPara": {
+        "text": "Soins Karismä offers you a wide variety of salons across your region. Our goal is to allow you to take advantage of our services and products no matter where you are in the country or world. Finding a Soins Karismä salon is an easy process, either scroll down below or use your profile in our application to view the nearest salons in your area. Each salon offers its respective services so make sure to verify what you need before commuting to the nearest location."
+    },
+    "salons": {
+        "text": "Salons"
+    },
+    "wellnessCenters": {
+        "text": "Wellness Centers"
+    },
+    "salonDetails": {
+        "text": "SALON DETAILS"
+    },
+    "cityState": {
+        "text": "city & state or zip"
+    }
+}

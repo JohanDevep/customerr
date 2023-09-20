@@ -1,0 +1,89 @@
+{
+    "subsPlan": {
+        "text": "Plans d'abonnement"
+    },
+    "howPlanWorks": {
+        "text": "COMMENT FONCTIONNE LE PLAN D'ABONNEMENT?"
+    },
+    "howPlanWorksPara": {
+        "text": "Avec notre formule d'abonnement, vous pourrez accéder à un nombre illimité de services de beauté pour un coût réduit. Pour 90 dollars par mois seulement, vous pourrez programmer les services que vous souhaitez. Vous aurez accès à tous les salons qui sont sous la franchise Soins Karismä. Avec ce modèle d'abonnement, nous voulons créer une expérience innovante et confortable qui révolutionnera l'industrie de la beauté."
+    },
+    "whatServices": {
+        "text": "QUELS SONT LES SERVICES PROPOSÉS PAR SOINS KARISMÄ?"
+    },
+    "whatServicesPara": {
+        "text": "Pour les clients, voici les différents services qu'ils pourront recevoir dans les différents salons Soins Karismä"
+    },
+    "whatServicesitem1": {
+        "text": "Coiffure"
+    },
+    "whatServicesitem2": {
+        "text": "Coloration"
+    },
+    "whatServicesitem3": {
+        "text": "Épilation des sourcils"
+    },
+    "whatServicesitem4": {
+        "text": "Extension des cils"
+    },
+    "whatServicesitem5": {
+        "text": "Manucure et pédicure"
+    },
+    "whatServicesitem6": {
+        "text": "Soins du visage"
+    },
+    "whatServicesitem7": {
+        "text": "Microneedling"
+    },
+    "whatServicesitem8": {
+        "text": "Peeling chimique"
+    },
+    "whatServicesitem9": {
+        "text": "Épilation au laser"
+    },
+    "whatServicesitem10": {
+        "text": "Electrostimulation"
+    },
+    "whatServicesitem11": {
+        "text": "Traitements capillaires"
+    },
+    "whatServicesitem12": {
+        "text": "Microblading"
+    },
+    "HowLongCan": {
+        "text": "COMBIEN DE TEMPS PUIS-JE ACHETER L'ABONNEMENT?"
+    },
+    "HowLongCanPara": {
+        "text": "Vous pouvez souscrire un abonnement d'un mois ou d'un an. Nous recommandons un abonnement d'un an, afin que vous puissiez bénéficier des services de manière continue et garantir votre place. Le nombre de places est limité pour cet abonnement."
+    },
+    "allSalonsOffer": {
+        "text": "TOUS LES SALONS PROPOSENT LES MÊMES SERVICES?"
+    },
+    "allSalonsOfferPara": {
+        "text": "Certains salons offrent des services différents des autres. Pour connaître les services offerts par chaque salon, veuillez consulter le formulaire de votre plan d'abonnement."
+    },
+    "isItNecessary": {
+        "text": "EST-IL NÉCESSAIRE D'AVOIR LA POSSIBILITÉ DE PRENDRE LE SERVICE?"
+    },
+    "isItNecessaryPara": {
+        "text": "Oui, nous vous recommandons de prendre rendez-vous. De cette manière, les professionnels du salon peuvent se préparer à vous fournir le meilleur service et la meilleure expérience possible."
+    },
+    "canIAccess": {
+        "text": "PUIS-JE ACCÉDER À LA PLATEFORME DEPUIS MON TÉLÉPHONE PORTABLE?"
+    },
+    "canIAccessPara": {
+        "text": "Bien sûr, vous pouvez accéder à l'application mobile ou à la plateforme en ligne."
+    },
+    "expirationSubscription": {
+        "text": "EXPIRATION DE MON ABONNEMENT"
+    },
+    "expirationSubscriptionPara": {
+        "text" : "Si vous avez payé l'abonnement mensuel, vous disposez de 30 jours pour l'utiliser, à partir du moment où le paiement est confirmé."
+    },
+    "paymentConfirmation": {
+        "text" : "CONFIRMATION DU PAIEMENT DE L'ABONNEMENT"
+    },
+    "paymentConfirmationPara": {
+        "text" : "Vous recevrez une confirmation de paiement par courriel. Vous pouvez commencer à planifier votre rendez-vous à partir du tableau de bord du client."
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "company": {
+        "text": "Company",
+        "careers": {
+            "value": "Careers"
+        },
+        "becomeSalon": {
+            "value": "Become A Salon"
+        },
+        "reviews": {
+            "value": "Reviews"
+        },
+        "contactUs": {
+            "value": "Contact US"
+        },
+        "sustainability": {
+            "value": "Sustainability"
+        },
+        "loyalty": {
+            "value": "Loyalty"
+        },
+        "investorRelation": {
+            "value": "Investor Relation"
+        },
+        "socialImpact": {
+            "value": "Social Impact"
+        }
+    },
+
+    "resources": {
+        "text": "RESOURCES",
+        "ourLocations": {
+            "value": "Our Locations"
+        },
+        "blogs": {
+            "value": "Blogs"
+        },
+        "karismaCommunity": {
+            "value": "Soins Karisma Community"
+        },
+        "events": {
+            "value": "Events"
+        },
+        "newsRoom": {
+            "value": "Newsroom"
+        },
+        "academy": {
+            "value": "Academy"
+        }
+    },
+
+    "partners": {
+        "text": "PARTNERS",
+        "affiliate": {
+            "value": "Affiliate"
+        },
+        "supplierNetwork": {
+            "value": "Supplier Network"
+        },
+        "becomePartner": {
+            "value": "Become A Partner"
+        },
+        "toolkit": {
+            "value": "Toolkit"
+        },
+        "jobApplication": {
+            "value": "Job Application"
+        }
+    },
+
+    "customerServ": {
+        "text": "COSTUMER SERVICE",
+        "faq": {
+            "value": "FAQ´S"
+        },
+        "returnPolicy": {
+            "value": "Return Policy"
+        }
+    },
+
+    "legal": {
+        "text": "LEGAL",
+        "privacyPolicy": {
+            "value": "Privacy Policy"
+        },
+        "termsCondition": {
+            "value": "Terms And Conditions"
+        }
+    },
+    "inspiredByYou": {
+        "text": "INSPIRED BY YOU!"
+    },
+    "inspiredByYouPara": {
+        "text": "Connecting customers to quality salons for an unforgettable"
+    },
+    "allRightsReserved": {
+        "text": "2022 ©SOINS KARISMÄ INC. All Rights Reserved."
+    }
+}

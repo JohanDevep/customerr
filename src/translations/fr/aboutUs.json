@@ -1,0 +1,257 @@
+{
+    "aboutUs": {
+        "text": "À propos de nous"
+    },
+    "innovativeBrand": {
+        "text": "UNE MARQUE INNOVANTE"
+    },
+    "highQuality": {
+        "text": "HAUTE QUALITÉ"
+    },
+    "unlimitedBeauty": {
+        "text": "SERVICES DE BEAUTÉ ILLIMITÉS"
+    },
+    "whoAreWe": {
+        "text": "QUI SOMMES-NOUS?"
+    },
+    "whoAreWePara": {
+        "text": "Chez Soins Karisma, l'industrie de la beauté et du bien-être se réinvente depuis la création de sa nouvelle technologie d'avant garde."
+    },
+    "whoAreWePara1": {
+        "text": "Ambitieuse de faire vivre des expériences uniques et exclusives à ses membres, la compagnie ancre son modèle d'affaire dans l'optique de faire passer leur bien-être au premier plan."
+    },
+    "whoAreWePara2": {
+        "text": "Sensible à l'émancipation de ses membres, Soins Karisma tient à leur offrir l'exclusivité de ses services de soins illimités grâce à son système d'abonnements accessibles à tous. Prendre du temps pour soi n'aura jamais été aussi facile."
+    },
+    "karismaInspiredYou": {
+        "text": "SOINS KARISMÄ - INSPIRÉ PAR VOUS!"
+    },
+    "meetFounders": {
+        "text": "RENCONTREZ LES FONDATEURS DE SOINS KARISMÄ"
+    },
+    "meetFoundersPara": {
+        "text": "La compagnie technologique Soins Karismä est née en 2021 à Montréal dans la province de Québec au Canada. C’est une jeune compagnie qui a été pensée par deux entrepreneurs, Yannick Savage et Michel Cuero, ils se sont tout d’abord lancés dans la vente de produits capillaires pour les femmes et les hommes et ont finalement fondé leur modèle d'affaires sur l’abonnement en apportant un nouveau regard sur l’industrie de la beauté et du bien-être."
+    },
+    "yannick": {
+        "text": "YANNICK SAVAGE"
+    },
+    "yannickRank": {
+        "text": "PRÉSIDENTE"
+    },
+    "melissa": {
+        "text": "MELISSA PICHE"
+    },
+    "melissaRank": {
+        "text": "DIRECTEUR DES RESSOURCES HUMAINES"
+    },
+    "michel": {
+        "text": "MICHEL CUERO"
+    },
+    "michelRank": {
+        "text": "VICE-PRÉSIDENTE"
+    },
+    "seema": {
+        "text": "SEEMA"
+    },
+    "seemaRank": {
+        "text": "Co-fondateur"
+    },
+    "gianni": {
+        "text": "GIANNI"
+    },
+    "gianniRank": {
+        "text": "Co-fondateur"
+    },
+    "mariajose": {
+        "text": "MARIAJOSÉ TARAZONA"
+    },
+    "mariajoseRank": {
+        "text": "DIRECTEUR CRÉATIF"
+    },
+    "luis": {
+        "text": "LUIS SANCHEZ"
+    },
+    "luisRank": {
+        "text": "RESPONSABLE DE LA TECHNOLOGIE"
+    },
+    "fatima": {
+        "text": "FATIMA"
+    },
+    "fatimaRank": {
+        "text": "DIRECTEUR DU DÉVELOPPEMENT COMMERCIAL"
+    },
+    "ricardoC": {
+        "text": "RICARDO CASTAÑO"
+    },
+    "ricardoCRank": {
+        "text": "DÉVELOPPEUR BACK-END"
+    },
+    "daniel": {
+        "text": "DANIEL QUEVEDO"
+    },
+    "danielRank": {
+        "text": "CONCEPTEUR UX/UI"
+    },
+    "ada": {
+        "text": "ADA"
+    },
+    "adaRank": {
+        "text": "GÉRANT SAINT-LÉONARD"
+    },
+    "vaibhav": {
+        "text": "VAIBHAV BIRADAR"
+    },
+    "vaibhavRank": {
+        "text": "DÉVELOPPEUR"
+    },
+    "yvena": {
+        "text": "YVENA HENRI"
+    },
+    "yvenaRank": {
+        "text": "PROPRIÉTAIRE DE SALON MASCOUCHE"
+    },
+    "andres": {
+        "text": "ANDRES ROA"
+    },
+    "andresRank": {
+        "text": "ANALYSTE BI"
+    },
+    "sarahL": {
+        "text": "SARAH L"
+    },
+    "sarahLRank": {
+        "text": "RESPONSABLE SERVICE CLIENTS"
+    },
+    "amanda": {
+        "text": "AMANDA"
+    },
+    "amandaRank": {
+        "text": "AGENT DE SERVICE À LA CLIENTÈLE"
+    },
+    "ricardo": {
+        "text": "RICARDO GOMEZ"
+    },
+    "ricardoRank": {
+        "text": "AGENT DE SERVICE À LA CLIENTÈLE"
+    },
+    "angie": {
+        "text": "Angie P"
+    },
+    "angieRank": {
+        "text": "AGENT DE SERVICE À LA CLIENTÈLE"
+    },
+    "unknown": {
+        "text": "-"
+    },
+    "unknownRank": {
+        "text": "DESIGNER GRAPHIQUE"
+    },
+    "jade": {
+        "text": "JADE"
+    },
+    "jadeRank": {
+        "text": "AGENT DE SERVICE À LA CLIENTÈLE"
+    },
+    "sarahB": {
+        "text": "SARAH BOUTOUILA"
+    },
+    "sarahBRank": {
+        "text": "INTERNE"
+    },
+    "headOfficeTeam": {
+        "text": "Équipe du siège social"
+    },
+    "headOfficeTeam1": {
+        "text": "Équipe du siège social"
+    },
+    "our": {
+        "text": "Notre"
+    },
+    "professionals": {
+        "text": "Professionnels"
+    },
+    "talent": {
+        "text": "TALENT"
+    },
+    "talentPara": {
+        "text": "Chez Soins Karismä, nos professionnels de la beauté sont engagés consciencieusement, nous souhaitons à la fois donnez la chance à de jeunes professionnels passionnés de pouvoir s’épanouir dans une environnent favorisant l’émancipation professionnelle et personnelle et nous souhaitons aussi faire vivre une nouvelle expérience en salon aux experts de la beauté."
+    },
+    "integrity": {
+        "text": "INCLUSION"
+    },
+    "integrityPara": {
+        "text": "Nos professionnels de la beauté sont le reflet des valeurs que nous voulons transmettre dont l’inclusion. Ouvert d’esprit et conscient de la singularité de chaque clients et du talent de chacun de nos professionnels, nos clients membres bénéficient de services unique et haut de gamme."
+    },
+    "growth": {
+        "text": "CROISSANCE"
+    },
+    "growthPara": {
+        "text": "Une fois nos professionnels de la beauté engagés, ils se doivent de refléter l’image de Soins Karsimä et d’être en harmonie avec ses valeurs. Nous sommes conscients de la particularité, du talent et de la contribution à la croissance de la compagnie de tous nos employés."
+    },
+    "leicaVieux": {
+        "text": "LEICA VIEUX"
+    },
+    "leicaVieuxRank": {
+        "text": "ESTHÉTICIENNE"
+    },
+    "leicaVieuxPara": {
+        "text": "Avec de nombreuses années dans l'industrie de la beauté, Leica est certifié en soins esthétiques. Sympathique et soucieuse du détail, elle aime prendre soin de ses clients et s'assurer qu'ils reçoivent un service de qualité. Ce qu'elle apprécie le plus dans son métier, c'est de voir que ses clients sont satisfaits de ses services."
+    },
+    "keyla": {
+        "text": "KEYLA"
+    },
+    "keylaRank": {
+        "text": "ESTHÉTICIEN"
+    },
+    "keylaPara": {
+        "text": "Keyla s'est spécialisée dans les services esthétiques. Chaque jour, elle accueille ses clients avec le sourire. Par ses services, elle cherche à transmettre une bonne énergie à ses clients. Keyla se concentre sur la fourniture de services de qualité qui rendent ses clients heureux et confiants."
+    },
+    "successStory": {
+        "text": "réussites"
+    },
+    "values": {
+        "text": "Valeurs"
+    },
+    "diversity": {
+        "text": "DIVERSITÉ"
+    },
+    "inclusion": {
+        "text": "INCLUSION"
+    },
+    "diversityPara": {
+        "text": "Nous embrassons la diversité et l'inclusion sur notre lieu de travail et dans notre communauté. La progression dans son ensemble est un élément clé qui nous tient à cœur chez Soins Karismä. En tant que marque consciente, nous créons un environnement où chacun se sent chez soi et bienvenu."
+    },
+    "stability": {
+        "text": "STABILITÉ"
+    },
+    "adaptability": {
+        "text": "ADAPTABILITÉ"
+    },
+    "stabilityPara": {
+        "text": "Soins Karismä est fière d'offrir une stabilité et un environnement adaptable à ses salons, ses employés et ses clients. Nous créons de la stabilité grâce à notre offre innovante et à notre forte communauté.."
+    },
+    "respect": {
+        "text": "RESPECT"
+    },
+    "modesty": {
+        "text": "MODESTE"
+    },
+    "respectPara": {
+        "text": "Ces valeurs sont peut-être les plus importantes chez Soins Karismä. Nous attendons de chacun qu'il traite et considère les individus avec respect. Personne n'est meilleur qu'un autre et la modestie est donc essentielle dans nos environnements de travail et nos groupes de médias."
+    },
+    "theSoinsKarisma": {
+        "text": "LA CULTURE"
+    },
+    "culture": {
+        "text": "SOINS KARISMÄ"
+    },
+    "culturePara": {
+        "text": "Soins Karismä est une marque consciente et responsable pensée pour répondre aux besoins de beaucoup de personnes et particulièrement pour les femmes. La jeune compagnie technologique veut donner de la légèreté à chaque individue en leur donnant accès à des services de soins, de beauté et de bien-être grâce à son modèle d’affaire fondé sur l’abonnement à prix fixe. Tous les aspects des activités de Soins Karismä sont pris en mesure afin de permettre à ses professionnels de la beauté de consacrer leur activité à leur savoir-faire et leur passion. Soins Karismä est une marque qui s’inspire de ses clients afin de donner du pouvoir à chaque individu en leur offrant une expérience unique."
+    },
+    "findSalon": {
+        "value": "TROUVER UN SALON"
+    },
+    "bottomPara": {
+        "text": "IL FAUT S'AIMER ET PRENDRE SOIN DE SOI, CAR C'EST À CE MOMENT-LÀ QUE LES MEILLEURES CHOSES ARRIVENT 'TINA TURNER' "
+    }
+}

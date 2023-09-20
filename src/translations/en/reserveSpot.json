@@ -1,0 +1,11 @@
+{
+    "reserveYourSpot": {
+        "text": "Reserve your spot"
+    },
+    "email": {
+        "text": "Email"
+    },
+    "joinWaitList": {
+        "value": "Join Waitlist"
+    }
+}

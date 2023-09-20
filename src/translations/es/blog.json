@@ -1,0 +1,68 @@
+{
+    "blogs": {
+        "text": "Blogs"
+    },
+    "newsArticles": {
+        "text": "ARTÍCULOS Y MÁS"
+    },
+    "highQuality": {
+        "text": "ALTA CALIDAD"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICIOS DE BELLEZA ILIMITADOS"
+    },
+    "update&More": {
+        "text": "ACTUALIZACIONES Y MÁS"
+    },
+    "update&MorePara": {
+        "text": "Nuestra sección de blog está reservada para los clientes lectores que deseen obtener más información sobre las actualizaciones y noticias dentro de la empresa. Como lector, podrás ver actualizaciones semanales y mensuales sobre nuevas aperturas de salones, eventos y lanzamientos de productos. ¡Siéntate y disfruta de la lectura!"
+    },
+    "all": {
+        "text": "TODOS"
+    },
+    "hair": {
+        "text": "CABELLO"
+    },
+    "beauty": {
+        "text": "BELLEZA"
+    },
+    "hairCare": {
+        "text": "TRATAMIENTOS"
+    },
+    "selfCare": {
+        "text": "AMOR PROPIO"
+    },
+    "hairBlogHeading": {
+        "text": "Todo lo que necesitas saber sobre la Keratina: ¿Qué hacer y qué no hacer?"
+    },
+    "hairBlogHeadingPara": {
+        "text": "Hay muchos conceptos erróneos cuando se trata de la Keratina y lo que hace por tu cabello. Estamos aquí para exponer la verdad, simple y llanamente para que puedas sentirte segura e informada cuando decidas programar tu cita para el tratamiento de Keratina con nuestros profesionales."
+    },
+    "readMore": {
+        "value": "Leer más"
+    },
+    "nails": {
+        "text": "UÑAS"
+    },
+    "nailsBlogHeading": {
+        "text": "¿Cómo cuidar tus uñas acrílicas?"
+    },
+    "nailsBlogHeadingPara": {
+        "text": "Las uñas acrílicas permiten que el manicure dure semanas, ¡da un efecto elegante que todas amamos! Dado que las uñas acrílicas son extensiones artificiales que se colocan sobre las uñas naturales, esconden las uñas cortas y débiles. Sin embargo, muchas personas erróneamente creen que estas uñas no requieren mantenimiento. Estas uñas acrílicas necesitan ciertos cuidados."
+    },
+    "eyebrows": {
+        "text": "CEJAS"
+    },
+    "aesthetics": {
+        "text": "ESTÉTICA"
+    },
+    "eyebrowsBlogHeading": {
+        "text": "¿Microblading o Microshading?"
+    },
+    "eyebrowsBlogHeadingPara": {
+        "text": "Hoy en día, existen muchas tendencias de belleza para las cejas. Algunas personas utilizan técnicas de maquillaje para rellenar sus cejas y darles un efecto diferente cada día. Sin embargo, para otras personas puede ser una tarea que consume mucho tiempo y no da el mejor resultado."
+    },
+    "loadMore": {
+        "value": "CARGAR"
+    }
+}

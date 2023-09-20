@@ -1,0 +1,368 @@
+{
+    "terms&Condition": {
+        "text": "Términos y Condiciones"
+    },
+    "haveQuestion": {
+        "text": "¿TIENES ALGUNA PREGUNTA?"
+    },
+    "highQuality": {
+        "text": "ALTA CALIDAD"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICIOS DE BELLEZA ILIMITADOS"
+    },
+    "termsConditionUse": {
+        "text": "TÉRMINOS Y CONDICIONES DE USO"
+    },
+    "termsConditionUsePara1": {
+        "text": "Le rogamos que lea atentamente las presentes Condiciones de uso (las “Condiciones”), ya que rigen el uso que usted haga de (lo que incluye el acceso a) los servicios personalizados de Soins Karisma para servicios de belleza ilimitados y otros contenidos, incluidos todos nuestros sitios web y aplicaciones de software que incorporan o enlazan con estas Condiciones (colectivamente, el “servicio Soins Karisma”) y cualquier foto, vídeo u otro material que se ponga a disposición a través de la plataforma Soins Karisma (el “Contenido”)."
+    },
+    "termsConditionUsePara2": {
+        "text": "El uso del Servicio Soins Karisma puede estar sujeto a términos y condiciones adicionales presentados por Soins karisma inc, que se incorporan por la presente a estas Condiciones.Al registrarse o utilizar de cualquier otro modo el Servicio Soins Karisma, el usuario acepta las presentes Condiciones. Si no está de acuerdo con estas Condiciones, no debe utilizar el Servicio Soins Karisma ni acceder a ningún servicio o plataforma de Soins Karisma."
+    },
+    "termsConditionUsePara3": {
+        "text": "ESTAS CONDICIONES CONTIENEN UNA DISPOSICIÓN DE ARBITRAJE OBLIGATORIO QUE, COMO SE ESTABLECE EN LA SECCIÓN 6 A CONTINUACIÓN, REQUIERE EL USO DEL ARBITRAJE DE FORMA INDIVIDUAL PARA RESOLVER DISPUTAS, EN LUGAR DE JUICIOS CON JURADO O CUALQUIER OTRO PROCEDIMIENTO JUDICIAL, O ACCIONES COLECTIVAS DE CUALQUIER TIPO. "
+    },
+    "legalNotice": {
+        "text": "AVISO LEGAL"
+    },
+    "legalNoticePara1": {
+        "text": "El sitio web de Soins Karismä ha sido editado por desarrolladores y diseñadores UX empleados por la empresa. El sitio web ha sido redactado por los responsables de las divisiones de marketing y comunicación."
+    },
+    "legalNoticePara2": {
+        "text": "La sede de Soins Karismä se encuentra en 249 Rue Saint-Jacques, Montreal, QC, Canadá."
+    },
+    "legalNoticePara3": {
+        "text": "El sitio web de Karismä está alojado en la plataforma Google Cloud."
+    },
+    "legalNoticePara4": {
+        "text": "Simply Book Me es el sistema de reservas en el que el servicio de atención al cliente programa las citas de cada socio."
+    },
+    "legalNoticePara5": {
+        "text": "Stripe es la plataforma de pago que permite a los miembros realizar transacciones seguras."
+    },
+    "legalNoticePara6": {
+        "text": "Los afiliados y el servicio de atención al cliente pueden chatear en la plataforma Trengo y en las redes sociales: Facebook, Instagram."
+    },
+    "legalNoticePara7": {
+        "text": "Para ponerse en contacto con la oficina central, los clientes pueden llamar al +1 (514)665-7059 o enviar un correo electrónico a la dirección (michel@soinskarisma.com)"
+    },
+    "serviceProvider": {
+        "text": "PROVEEDOR DE SERVICIOS"
+    },
+    "serviceProviderPara": {
+        "text": "Las presentes Condiciones se establecen entre usted y Soins Karisma Inc, 249 Rue Saint-Jacques, Montréal, QC H2Y 1M6"
+    },
+    "preamble": {
+        "text": "PREÁMBULO"
+    },
+    "preamblePara1": {
+        "text": "Soins Karismä da gran importancia a la relación con sus clientes, la transparencia y la honestidad sobre sus motivaciones y modelo de negocio son necesarias para una empresa joven que aporta un concepto totalmente nuevo en el mercado de la belleza y el bienestar."
+    },
+    "preamblePara2": {
+        "text": "Por este motivo, ponemos a su disposición nuestras Condiciones de uso, incluida nuestra Política de privacidad, con el fin de informar a nuestros clientes sobre la información que recopilamos, cómo la utilizamos, a quién podemos transmitirla y cómo acceder a ella."
+    },
+    "preamblePara3": {
+        "text": "Tratamos todos sus datos personales de forma confidencial. Se almacenan en un servidor seguro y cumplimos la legislación sobre protección de datos y del consumidor."
+    },
+    "ageRequirement": {
+        "text": "REQUISITOS DE EDAD Y ELIGILIDAD"
+    },
+    "ageRequirementPara": {
+        "text": "AL UTILIZAR EL SERVICIO SOINS KARISMA, USTED AFIRMA QUE TIENE 18 AÑOS O MÁS PARA ACEPTAR ESTAS CONDICIONES O, SI NO LOS TIENE, QUE TIENE 13 AÑOS O MÁS Y HA OBTENIDO EL CONSENTIMIENTO DE SUS PADRES O TUTORES PARA ACEPTAR ESTAS CONDICIONES. Además, para poder utilizar el Servicio Soins Karisma y acceder a cualquier Plataforma, usted declara que: reside en Canadá, y que cualquier información de registro y de cuenta que envíe a Soins Karisma es verdadera, precisa y completa, y se compromete a mantenerla así en todo momento."
+    },
+    "soinsKarismaService": {
+        "text": "Servicios prestados por Soins Karismä"
+    },
+    "soinsKarismaServiceHeading": {
+        "text": "Soins Karismä - Opciones de servicio"
+    },
+    "soinsKarismaServicePara1": {
+        "text": "En Soins Karismä ofrecemos muchas opciones de servicio. Algunas opciones de servicio son gratuitas, mientras que otras requieren un pago para poder acceder a ellas (las “Suscripciones de pago”). También podemos ofrecer planes promocionales especiales, afiliaciones o servicios, incluyendo ofertas de productos y servicios de terceros. No nos hacemos responsables de los productos y servicios prestados por dichos terceros"
+    },
+    "soinsKarismaServicePara2": {
+        "text": "Pruebas"
+    },
+    "soinsKarismaServicePara3": {
+        "text": "De vez en cuando, nosotros u otros en nuestro nombre podemos ofrecer pruebas de las Suscripciones de Pago durante un período determinado sin pago o a un precio reducido (una “Prueba”). Al utilizar un Servicio de Soins Karismä a través de una Prueba, usted acepta las Condiciones de la Oferta Promocional Premium de Soins Karismä."
+    },
+    "soinsKarismaServicePara4": {
+        "text": "Aplicaciones de terceros, dispositivos y software de código abierto"
+    },
+    "soinsKarismaServicePara5": {
+        "text": "El servicio de Soins Karismä puede integrarse o interactuar con aplicaciones, sitios web y servicios de terceros (Aplicaciones de terceros) y computadoras personales, teléfonos móviles, tabletas, dispositivos portátiles, parlantes y otros de terceros. dispositivos (“Dispositivos”). Su uso de tales Aplicaciones y Dispositivos de Terceros puede estar sujeto a términos, condiciones y políticas adicionales que le proporcione el tercero correspondiente. Soins Karisma no garantiza que las Aplicaciones y Dispositivos de Terceros sean compatibles con el Servicio de Soins Karisma."
+    },
+    "soinsKarismaServicePara6": {
+        "text": "Limitaciones y modificaciones del servicio"
+    },
+    "soinsKarismaServicePara7": {
+        "text": "Hacemos todos los esfuerzos razonables para mantener el Servicio Soins Karisma operativo y brindarle una experiencia de inmersión personalizada. Sin embargo, nuestras ofertas de servicios y su disponibilidad pueden cambiar de vez en cuando, sin responsabilidad para usted; Por ejemplo:"
+    },
+    "soinsKarismaServicePara8": {
+        "text": "Los Servicios de Soins Karismä pueden experimentar interrupciones temporales debido a dificultades técnicas, mantenimiento o pruebas, o actualizaciones, incluidas las necesarias para reflejar los cambios en las leyes y los requisitos reglamentarios pertinentes."
+    },
+    "soinsKarismaServicePara9": {
+        "text": "Nuestro objetivo es evolucionar y mejorar el Servicio Soins Karismä constantemente, y podemos modificar, suspender o detener (permanente o temporalmente) la prestación total o parcial del Servicio Soins Karismä (incluidas funciones, características, planes de suscripción y ofertas promocionales particulares);"
+    },
+    "soinsKarismaServicePara10": {
+        "text": "Soins Karismä no tiene obligación de prestar ningún servicio específico a través de la Plataforma y los salones de Soins Karismä. Soins Karismä puede eliminar determinados servicios y otro Contenido sin previo aviso."
+    },
+    "soinsKarismaServicePara11": {
+        "text": "Soins Karismä no tiene ninguna responsabilidad ante usted, ni ninguna obligación de proporcionarle un reembolso, en relación con Internet u otros cortes o fallas en el servicio que sean causados ​​por las acciones de las autoridades gubernamentales, otros terceros o eventos fuera de nuestro control."
+    },
+    "yourUseSoinsKarisma": {
+        "text": "Uso del Servicio Soins Karisma"
+    },
+    "yourUseSoinsKarismaHeading": {
+        "text": "Crear una cuenta Soins Karismä"
+    },
+    "yourUseSoinsKarismaPara1": {
+        "text": "Antes de tener la oportunidad de hacer citas en el salón, debe crear su cuenta. El cliente debe visitar el sitio web de Soins Karismä – www.soinskarisma.com. Una vez pagada la suscripción deseada, recibirá un correo electrónico de confirmación en el que le enviaremos un enlace a nuestra plataforma de reservas donde podrá reservar sus citas."
+    },
+    "yourUseSoinsKarismaPara2": {
+        "text": "Debe crear una cuenta de Soins Karismä para utilizar los servicios de Soins Karismä. Su nombre de usuario y contraseña son solo para su uso personal y deben mantenerse confidenciales. Usted comprende que es responsable de todo uso (incluido cualquier uso no autorizado) de su nombre de usuario y contraseña. Notifique a nuestro equipo de Servicio al Cliente inmediatamente si pierde o le roban su nombre de usuario o contraseña, o si cree que ha habido acceso no autorizado a su cuenta."
+    },
+    "yourUseSoinsKarismaPara3": {
+        "text": "Soins Karismä puede reclamar o solicitarle que cambie su nombre de usuario por cualquier motivo."
+    },
+    "yourUseSoinsKarismaPara4": {
+        "text": " Your rights to use the Soins Karismä Service"
+    },
+    "appointmentBooking": {
+        "text": "AGENDAMIENTO DE CITAS"
+    },
+    "appointmentBookingPara1": {
+        "text": "Una vez creada su cuenta en la plataforma Soins Karismä, ya puede seleccionar los servicios que desee, así como el día y la hora que más le convengan. A continuación, el cliente recibirá un correo electrónico de confirmación de la cita en un plazo de 24 horas."
+    },
+    "appointmentBookingPara2": {
+        "text": "Tenga cuidado si su cita no ha sido aprobada o si aún está pendiente, no podrá presentarse en el salón y beneficiarse del servicio, así que asegúrese de recibir el correo electrónico de confirmación en su buzón."
+    },
+    "approvedAppointment": {
+        "text": "CITAS APROBADAS"
+    },
+    "approvedAppointmentPara1": {
+        "text": "Si consideramos necesario darle algunos consejos de preparación antes de su cita, nos pondremos en contacto con usted en un plazo de 48 horas antes de su cita."
+    },
+    "approvedAppointmentPara2": {
+        "text": "Se recomienda encarecidamente llegar 15 minutos antes de la hora de su cita."
+    },
+    "approvedAppointmentPara3": {
+        "text": "En caso de retraso de 10 minutos o más o de ausencia a su cita, se le descontará de su cuenta una tasa de 10$."
+    },
+    "approvedAppointmentPara4": {
+        "text": "Si desea anular su cita, deberá hacerlo 24 horas antes de la misma."
+    },
+    "approvedAppointmentPara5": {
+        "text": "Tenga en cuenta que la suscripción no es compartible, para beneficiarse de los servicios en Karismä Care, debe tener una cuenta única a su identidad - dejar que sus seres queridos tomen su lugar en una cita no es posible"
+    },
+    "approvedAppointmentPara6": {
+        "text": "Acceso a los servicios Soins Karismä"
+    },
+    "approvedAppointmentPara7": {
+        "text": "Sujeto al cumplimiento por su parte de estas Condiciones (incluidas cualesquiera otras condiciones aplicables), le concedemos un permiso limitado, no exclusivo y revocable para hacer un uso personal y no comercial del Servicio Soins Karismä y del Contenido (colectivamente, el “Acceso”). Este Acceso permanecerá en vigor a menos y hasta que usted o Soins Karismä Inc. lo rescindan. Usted se compromete a no redistribuir ni transferir el Servicio Soins Karismä ni el Contenido."
+    },
+    "approvedAppointmentPara8": {
+        "text": "Las aplicaciones de software de Soins Karismä y el Contenido se conceden bajo licencia, no se venden ni se transfieren al usuario, y Soins Karismä conserva la propiedad de todas las copias de las aplicaciones de software de Soins Karismä y del Contenido incluso después de la instalación en sus Dispositivos."
+    },
+    "monthlySubs90": {
+        "text": "SUSCRIPCIÓN MENSUAL- 90$"
+    },
+    "monthlySubs90Para1": {
+        "text": "La suscripción mensual de 90 $ al mes incluye un mes de servicios de cuidado y belleza. Los clientes pueden tener hasta 2 citas activas - Tenga en cuenta que no es posible reservar dos citas en el mismo día. Una cita equivale a un tratamiento en un día, una vez realizado un tratamiento puede reanudar una nueva cita en el mes, el principio es que siempre tiene dos citas activas como máximo."
+    },
+    "monthlySubs90Para2": {
+        "text": "Tenga en cuenta que la suscripción no es reembolsable, pero puede interrumpirla en cualquier momento antes de la retirada del mes siguiente llamándonos al +1 (514)665-7059 - Número de la oficina central. Asegúrese de comprobar la fecha de retirada para el mes siguiente, ya que se realizan automáticamente gracias a la plataforma Stripe."
+    },
+    "monthlySubs90Para3": {
+        "text": "Esta suscripción no es un contrato, puede cancelarla durante un mes y retirarla para el mes siguiente."
+    },
+    "annualSubs1080": {
+        "text": "SUSCRIPCIÓN ANUAL - 1080$"
+    },
+    "annualSubs1080Para1": {
+        "text": "La suscripción anual de 1080 $ incluye un año completo de servicios de cuidado y belleza. Los clientes pueden tener hasta 4 citas activas - Tenga en cuenta que no es posible reservar dos citas el mismo día."
+    },
+    "annualSubs1080Para2": {
+        "text": "Una cita equivale a un tratamiento en un día, una vez que haya recibido un tratamiento puede reanudar una nueva cita en el mes o en el año, el principio es que siempre tiene cuatro citas activas como máximo. Tenga en cuenta que la suscripción no es reembolsable."
+    },
+    "soinsKarismaProprietary": {
+        "text": "DERECHOS DE PROPIEDAD SOINS KARISMÄ"
+    },
+    "soinsKarismaProprietaryPara": {
+        "text": "El Servicio Soins Karismä y el software son propiedad de Soins Karismä Inc. Todas las marcas comerciales, marcas de servicio, nombres comerciales, logotipos, nombres de dominio y cualquier otra característica de la marca Soins Karismä (“Características de la marca Soins Karismä”) son propiedad exclusiva de Soins Karismä Inc. Estas Condiciones no le otorgan ningún derecho a utilizar ninguna de las Características de la marca Soins Karismä, ya sea para uso comercial o no comercial. Usted se compromete a respetar las Directrices de uso de Soins Karismä y a no utilizar el Servicio Soins Karismä, el Contenido o cualquier parte del mismo de ninguna manera que no esté expresamente permitida por las presentes Condiciones"
+    },
+    "paymentCancel": {
+        "text": " Pagos y Cancelación"
+    },
+    "billing": {
+        "text": "Facturación"
+    },
+    "billingPara1": {
+        "text": "Puede comprar una Suscripción paga directamente desde el sitio web de Soins Karismä o a través de un tercero:"
+    },
+    "billingPara2": {
+        "text": "Pagar una tarifa de suscripción, una tarifa de transacción más los impuestos aplicables por adelantado mensualmente o algún otro intervalo recurrente informado antes de su compra; o"
+    },
+    "billingPara3": {
+        "text": "Prepago que le da acceso al Servicio Soins Karisma durante un período de tiempo específico (Período de prepago)."
+    },
+    "billingPara4": {
+        "text": "Las tasas impositivas se calculan en función de la información que proporcione y la tasa aplicable en el momento de su cargo mensual."
+    },
+    "billingPara5": {
+        "text": "Si compra acceso a una Suscripción paga a través de un tercero, se pueden aplicar términos y condiciones separados con dicho tercero a su uso del Servicio Soins karismä además de estos Términos. Comuníquese con el tercero con respecto a cualquier reembolso o para administrar su suscripción. Si compra una Suscripción paga usando un código, tarjeta de regalo, oferta prepaga u otra oferta proporcionada o vendida por Soins Karismä o en nombre de Soins Karismä para acceder a una Suscripción paga (“Códigos”), por la presente acepta que Soins Karismä Condiciones de la tarjeta."
+    },
+    "priceTaxChanges": {
+        "text": "Cambios de precio e impuestos"
+    },
+    "priceTaxChangesPara1": {
+        "text": "Soins Karismä puede, de vez en cuando, realizar cambios en las Suscripciones pagas, incluidas las tarifas de suscripción recurrentes, el Período prepago (para períodos aún no pagados) o Códigos, y le comunicará cualquier cambio de precio por adelantado. Los cambios de precio entrarán en vigencia al comienzo del siguiente período de suscripción posterior a la fecha del cambio de precio y, si continúa utilizando el Servicio Soins Karisma después de que el cambio de precio entre en vigencia, habrá aceptado el nuevo precio. Si no está de acuerdo con un cambio de precio, puede rechazar el cambio cancelando la suscripción de la Suscripción paga aplicable antes de que el cambio de precio entre en vigencia."
+    },
+    "priceTaxChangesPara2": {
+        "text": "Las tasas impositivas se basan en las tasas aplicables en el momento de su cargo mensual. Estos montos pueden cambiar con el tiempo según los requisitos fiscales locales de su país, estado, territorio, condado o ciudad. Cualquier cambio en la tasa impositiva se aplicará automáticamente en función de la información de la cuenta que proporcione."
+    },
+    "renewalCancellation": {
+        "text": "Renovación y Cancelación"
+    },
+    "renewalCancellationPara1": {
+        "text": "Con la excepción de las Suscripciones pagas por un Período prepago, su pago a Soins Karismä o al tercero a través del cual compró la Suscripción paga se renovará automáticamente al final del período de suscripción aplicable, a menos que cancele su Suscripción paga antes del final. del período de suscripción vigente en ese momento. Póngase en contacto con nuestro equipo de atención al cliente aquí para obtener instrucciones sobre cómo cancelar. La cancelación surtirá efecto el día siguiente al último día del período de suscripción actual."
+    },
+    "renewalCancellationPara2": {
+        "text": "No proporcionamos reembolsos ni créditos por ningún período de suscripción parcial, salvo que se indique expresamente en estos Términos."
+    },
+    "userGuideline": {
+        "text": "Pautas para el usuario"
+    },
+    "userGuidelinePara": {
+        "text": "Hemos establecido pautas para usar el Servicio Soins Karisma, para asegurarnos de que el Servicio Soins Karismä siga siendo agradable para todos (Pautas para el usuario de Soins Karisma). Al utilizar el Servicio Soins Karisma, debe cumplir con las Pautas para el usuario de Soins Karismä, así como con todas las leyes, normas y reglamentos aplicables, y respetar la propiedad intelectual, la privacidad y otros derechos de terceros."
+    },
+    "exportControl": {
+        "text": "Control de exportaciones y sanciones"
+    },
+    "exportControlPara1": {
+        "text": "Los productos de Soins Karismä pueden estar sujetos a las leyes y regulaciones de control de exportación y reexportación de Canadá o leyes similares aplicables en otras jurisdicciones, incluidas las Regulaciones de Administración de Exportaciones (EAR) mantenidas por el Departamento de Comercio de Canadá, sanciones comerciales y económicas mantenidas por el la Oficina de Control de Activos Extranjeros (OFAC) del Departamento del Tesoro y las Regulaciones de Tráfico Internacional de Armas (ITAR) mantenidas por el Departamento de Estado. Usted garantiza que (1) no se encuentra en ningún país al que Canadá haya impuesto un embargo de bienes o haya aplicado sanciones económicas; y (2) no es una parte denegada como se especifica en las leyes o reglamentos aplicables de exportación o reexportación o leyes similares aplicables en otras jurisdicciones o enumeradas de otro modo en cualquier Canadá. lista gubernamental de partes prohibidas o restringidas."
+    },
+    "exportControlPara2": {
+        "text": "Usted acepta cumplir con todas las leyes y regulaciones de control de exportación y reexportación aplicables, incluidas, entre otras, las EAR y las sanciones comerciales y económicas mantenidas por la OFAC. Específicamente, usted acepta no usar, vender, exportar, reexportar, transferir, desviar, liberar o disponer de cualquier otro modo, directa o indirectamente, de cualquier producto, software o tecnología (incluidos los productos derivados o basados ​​en dicha tecnología) recibidos de Soins. Karisma bajo estos Términos a cualquier destino, entidad o persona o para cualquier uso final prohibido por las EAR, las sanciones comerciales y económicas mantenidas por la OFAC, o cualquier ley o regulación aplicable de Canadá o cualquier otra jurisdicción sin obtener la autorización previa requerida de las autoridades gubernamentales competentes según lo exijan dichas leyes y reglamentos."
+    },
+    "contentIntellectual": {
+        "text": "CONTENIDO Y DERECHOS DE PROPIEDAD INTELECTUAL"
+    },
+    "userContent": {
+        "text": "Contenido de usuario"
+    },
+    "userContentPara1": {
+        "text": "El contenido que publica en el Servicio Soins Karisma"
+    },
+    "userContentPara2": {
+        "text": "Los usuarios de Soins Karismä pueden publicar, cargar o aportar contenido al Servicio de Soins Karismä (Contenido de usuario). Para evitar dudas, el (Contenido del usuario) incluye toda la información, los materiales y otro contenido que los usuarios agregan, crean, cargan, envían o publican en el Servicio Soins Karismä (incluida la Comunidad de soporte de Soins Karismä)."
+    },
+    "userContentPara3": {
+        "text": "Usted es el único responsable de todo el Contenido de usuario que publique."
+    },
+    "userContentPara4": {
+        "text": "Usted promete que, con respecto a cualquier Contenido de usuario que publique en Soins Karisma, (1) es propietario o tiene derecho a publicar dicho Contenido de usuario; y (2) dicho Contenido de usuario, o su uso por parte de Soins Karismä de conformidad con la licencia otorgada a continuación, no: (i) viola estos Términos, incluidas las Directrices de usuario de Soins Karismä, la ley aplicable, o la propiedad intelectual u otros derechos de cualquier tercero; o (ii) implique cualquier afiliación o aprobación de usted o su Contenido de usuario por parte de Soins Karismä u otra persona o entidad sin el previo consentimiento expreso por escrito de Soins Karismä o dicha persona o entidad."
+    },
+    "userContentPara5": {
+        "text": "Al publicar o compartir Contenido de usuario u otra información en la Plataforma Soins Karismä, tenga en cuenta que el contenido y otra información serán de acceso público, y pueden ser utilizados y compartidos por otros en la Plataforma Soins Karismä y en toda la web, por lo que tenga cuidado al publicar o compartir en la plataforma Soins Karismä, y tenga en cuenta la configuración de su cuenta. Soins Karismä no es responsable de lo que usted u otros publiquen o compartan en la Plataforma de Soins Karismä."
+    },
+    "monitoringUser": {
+        "text": "Supervisar el contenido del usuario"
+    },
+    "monitoringUserPara1": {
+        "text": "Soins Karismä puede, pero no tiene la obligación de, monitorear o revisar el Contenido del usuario. Soins Karismä se reserva el derecho de eliminar o deshabilitar el acceso a cualquier Contenido de usuario por cualquier motivo o sin él. Soins Karismä puede tomar estas medidas sin previo aviso."
+    },
+    "monitoringUserPara2": {
+        "text": "Licencias que nos concedes"
+    },
+    "feedback": {
+        "text": "Feedback"
+    },
+    "feedbackPara": {
+        "text": "Si proporciona ideas, sugerencias u otros comentarios en relación con su uso del Servicio Soins Karismä o cualquier Contenido (Comentarios), dichos Comentarios no son confidenciales y Soins Karismä puede utilizarlos sin restricciones y sin pagarle. Los comentarios se consideran un tipo de Contenido de usuario según estos Términos."
+    },
+    "yourDevice": {
+        "text": "Tu Dispositivo"
+    },
+    "yourDevicePara": {
+        "text": "También nos otorga el derecho (1) de permitir que el software Soins Karismä use el procesador, el ancho de banda y el hardware de almacenamiento en su Dispositivo para facilitar la operación del Servicio Soins Karismä, (2) para proporcionar publicidad y otra información a usted, y (3) para permitir que nuestros socios comerciales hagan lo mismo."
+    },
+    "contentExperience": {
+        "text": "Experiencia de contenido"
+    },
+    "contentExperiencePara1": {
+        "text": "En cualquier parte del Servicio de Soins Karisma, el Contenido al que accede, incluida su selección y ubicación, puede verse influenciado por consideraciones comerciales, incluidos los acuerdos de Soins Karismä con terceros."
+    },
+    "contentExperiencePara2": {
+        "text": "Parte del Contenido con licencia, proporcionado, creado o puesto a disposición de Soins Karismä (por ejemplo, imágenes, revistas o videos) puede incorporar publicidad u otros mensajes promocionales."
+    },
+    "infringementClaims": {
+        "text": "Reclamación con infracción"
+    },
+    "infringementClaimsPara": {
+        "text": "Soins Karismä respeta los derechos de los propietarios de la propiedad intelectual. Si cree que algún Contenido infringe sus derechos de propiedad intelectual, consulte la Política de derechos de autor de Soins Karismä."
+    },
+    "confidentialityPolicy": {
+        "text": "POLÍTICA DE CONFIDENCIALIDAD - INFORMACIÓN RECOGIDA"
+    },
+    "confidentialityPolicyPara1": {
+        "text": "Cuando visita el Sitio Web, recopilamos cierta información sobre su dispositivo, sus interacciones en el Sitio Web y la información necesaria para procesar sus compras."
+    },
+    "confidentialityPolicyPara2": {
+        "text": "También podemos recopilar información adicional si se pone en contacto con nosotros para solicitar asistencia al cliente. En esta Política de Privacidad, nos referimos a cualquier información sobre un individuo identificable (incluyendo la información que aparece a continuación) como “Información Personal”. Consulte la siguiente lista para saber más sobre la información personal que recopilamos y por qué."
+    },
+    "deviceInfo": {
+        "text": "INFORMACIÓN DE DISPOSITIVO"
+    },
+    "deviceInfoPara": {
+        "text": "Finalidad de la recogida: Poder recopilar información sobre nuestros clientes para satisfacer sus necesidades y realizar análisis sobre el uso del sitio con el fin de optimizarlo. Fuente de recogida: Recogida automática al acceder a nuestro sitio mediante nuestros cuestionarios (tests), cookies, archivos de registro, balizas web, etiquetas o píxeles. Divulgación con fines comerciales compartidos con en la plataforma Google Cloud accesible sólo para los presidentes de la empresa. Datos personales recogidos: Nombre, dirección de facturación, dirección de entrega, información de pago (incluyendo números de tarjetas de crédito), dirección de correo electrónico y número de teléfono."
+    },
+    "legalBasis": {
+        "text": "BASE LEGAL"
+    },
+    "legalBasisPara1": {
+        "text": "De conformidad con el Reglamento General de Protección de Datos (“RGPD”), si usted reside en el Espacio Económico Europeo (“EEE”), procesamos su información personal sobre las siguientes bases jurídicas:"
+    },
+    "legalBasisPara2": {
+        "text": "Su consentimiento; La ejecución del contrato entre usted y el Sitio; El cumplimiento de nuestras obligaciones legales; La protección de sus intereses vitales; La ejecución de una tarea realizada en interés público; Para nuestros intereses legítimos, que no prevalecen sobre sus derechos y libertades fundamentales."
+    },
+    "autoDecision": {
+        "text": "TOMA DE DECISIÓN AUTOMÁTICA"
+    },
+    "autoDecisionPara1": {
+        "text": "Si es residente del EEA, tiene derecho a oponerse al procesamiento basado únicamente en la toma de decisiones automatizada (que incluye la elaboración de perfiles), cuando esa toma de decisiones tenga un efecto legal sobre usted o lo afecte significativamente de otra manera."
+    },
+    "autoDecisionPara2": {
+        "text": "Nosotros [SÍ] tomamos decisiones totalmente automatizadas con efectos legales o significativos utilizando datos de clientes."
+    },
+    "autoDecisionPara3": {
+        "text": "Nuestro procesador de Shopify utiliza una toma de decisiones automatizada limitada para evitar el fraude que no tiene un efecto legal o significativo sobre ti."
+    },
+    "autoDecisionPara4": {
+        "text": "Los servicios que incluyen elementos de toma de decisiones automatizados incluyen:"
+    },
+    "autoDecisionPara5": {
+        "text": "Una lista negra temporal de direcciones IP asociadas con transacciones fallidas repetidas. Esta lista negra persiste durante un pequeño número de horas."
+    },
+    "autoDecisionPara6": {
+        "text": "Lista negra temporal de tarjetas de crédito asociadas con direcciones IP incluidas en la lista negra. Esta lista negra persiste durante un pequeño número de días."
+    },
+    "aboutTheseTerms": {
+        "text": "SOBRE LOS TÉRMINOS"
+    },
+    "aboutTheseTermsPara": {
+        "text": "En virtud de la legislación aplicable, usted puede tener ciertos derechos que no pueden ser limitados por un contrato. Las presentes Condiciones no pretenden en modo alguno restringir tales derechos."
+    },
+    "applicableLaw": {
+        "text": "LEY APLICABLE"
+    },
+    "applicableLawPara": {
+        "text": "Estas Condiciones de uso se aplican a todos nuestros clientes, tanto en Canadá como en el extranjero."
+    },
+    "contactUs": {
+        "text": "CONTACTO"
+    },
+    "contactUsPara": {
+        "text": "Si tiene alguna pregunta sobre nuestras Condiciones de uso o nuestra Política de privacidad, póngase en contacto con nosotros por teléfono en el +1 (514)665-7059 o por mensaje privado en Facebook o Instagram - Soins Karismä."
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "back": {
+        "value": "Back"
+    },
+    "personalInfo": {
+        "value": "PERSONAL INFORMATION"
+    },
+    "uploadFiles": {
+        "value": "Upload files"
+    },
+    "processing": {
+        "value": "Processing"
+    },
+    "confirmation": {
+        "value": "CONFIRMATION"
+    },
+    "fullName": {
+        "text": "Full Name"
+    },
+    "email": {
+        "text": "Email"
+    },
+    "phone": {
+        "text": "Phone"
+    },
+    "next": {
+        "value": "Next"
+    },
+    "uploadFileText": {
+        "text": "Upload File"
+    },
+    "resumeCv": {
+        "value": "Resume/CV"
+    },
+    "attachCv": {
+        "value": "Attach your CV (.PDF)"
+    },
+    "uploadFile": {
+        "value": "Upload file"
+    },
+    "coverLetter": {
+        "value": "Cover Letter"
+    },
+    "attachCoverLetter": {
+        "value": "Attach your Cover Letter (.PDF)"
+    },
+    "weProcessing": {
+        "value": "We are processing your results!"
+    },
+    "successApplication": {
+        "value": "Successful Application"
+    }
+}

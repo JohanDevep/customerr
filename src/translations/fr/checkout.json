@@ -1,0 +1,39 @@
+{
+  "tabs":
+    {
+      "information": "l'information",
+      "payment": "paiement",
+      "payment_information":"Informations sur le paiement"
+    },
+  "address": {
+    "shipping_address_title" : "L'ADRESSE DE LIVRAISON",
+    "billing_address_title" : "ADRESSE DE FACTURATION",
+    "delete_billing_address" : "SUPPRIMER L'ADRESSE DE FACTURATION",
+    "same_as_shipping_text" : "L'ADRESSE DE FACTURATION EST LA MÊME QUE L'ADRESSE D'EXPÉDITION"
+  },
+  "form": {
+    "button": "CONTINUER"
+  },
+  "cart": {
+    "title" : "VOTRE PANIER",
+    "subtotal":"SOUS-TOTAL",
+    "gift_card":"Carte cadeau ou code de réduction",
+    "total":"TOTAL",
+    "total_tax_text":"Y COMPRIS LES TAXES",
+    "tax_note":"LES TAXES ET LES FRAIS D'EXPÉDITION SONT CALCULÉS AU MOMENT DU PAIEMENT",
+    "table": {
+      "column_one": "Produit",
+      "column_two": "Prix",
+      "column_three": "QUANTITÉ",
+      "column_four": "TOTAL"
+    },
+    "success": {
+      "message": "PAIEMENT RÉUSSI",
+      "purchase_no": "Numéro d'achat.",
+      "details": "COORDONNÉES ADRESSE",
+      "additional_information": "INFORMATIONS COMPLÉMENTAIRES",
+      "PAYMENT": "PAIEMENT"
+    }
+  }
+
+}

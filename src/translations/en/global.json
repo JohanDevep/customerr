@@ -1,0 +1,28 @@
+{
+  "button":{
+    "back": "back",
+    "continue": "continue",
+    "login": "Login",
+    "home": "home",
+    "apply": "apply",
+    "addCard": "add card"
+  },
+  "auth": {
+    "login": "sign in",
+    "signup": "sign up",
+    "haveAccount": "ALREADY HAVE AN ACCOUNT?",
+    "noAccount": "DON’T HAVE AN ACCOUNT?",
+    "form": {
+      "firstName": "first name",
+      "lastName": "last name",
+      "email": "email",
+      "password": "password",
+      "address": "address",
+      "country": "country",
+      "state": "state",
+      "city": "city",
+      "postCode": "postcode",
+      "phone": "phone"
+    }
+  }
+}

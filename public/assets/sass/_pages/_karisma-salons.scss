@@ -1,0 +1,163 @@
+.black-card-karisma-salons {
+  &-item {
+    padding-block: calc-font-size(35, 67) calc-font-size(30, 60);
+    padding-inline: rem(25);
+  }
+
+  &-content-wrapper {
+    position: relative;
+    padding-block: calc-font-size(25, 50) calc-font-size(20, 30);
+    max-inline-size: rem(370);
+    margin-inline: auto;
+    block-size: 100%;
+    display: flex;
+    flex-direction: column;
+
+    &:before,
+    &:after {
+      @include blackCardHorizontalLine;
+    }
+
+    &:before {
+      inset-block-start: 0;
+    }
+
+    &:after {
+      inset-block-end: 0;
+    }
+  }
+
+  &-title {
+    font-weight: $fw-bold;
+    font-size: calc-font-size(16, 25);
+    line-height: calc-font-size(19, 30);
+    letter-spacing: calc-font-size(4.8, 7.5);
+    text-transform: uppercase;
+    margin-block: 0 rem(22)
+  }
+
+  &-text {
+    font-weight: $fw-light;
+    font-size: calc-font-size(12, 18);
+    line-height: calc-font-size(18, 30);
+    margin-block-end: rem(18);
+  }
+
+  &-bottom-text {
+    margin-block-start: auto;
+    text-transform: uppercase;
+    font-weight: $fw-sbold;
+    font-size: calc-font-size(11, 20);
+    line-height: calc-font-size(13, 24);
+    letter-spacing: rem(3.3);
+  }
+
+  @include media-breakpoint-up(md) {
+    &-title {
+      margin-block-end: rem(30);
+    }
+ 
+    &-text {
+      margin-block-end: rem(27)
+    }
+  }
+
+  @include media-breakpoint-up(xxl) {
+    &-title {
+      margin-block-end: rem(38);
+    }
+
+    &-text {
+      margin-block-end: rem(35)
+    }
+  }
+}
+
+.inscription-form,
+.site-form {
+  &-wrapper {
+    padding-block: rem(50) rem(70);
+  }
+
+  .form-control {
+    inline-size: 100%;
+  }
+
+  .form-group {
+    margin-block-end: rem(16);
+  }
+
+  &-footer {
+    display: flex;
+    justify-content: center;
+    margin-block-start: rem(20);
+  }
+
+  @include media-breakpoint-up(md) {
+    &-wrapper {
+      padding-block: rem(75) rem(110);
+    }
+
+    .form-group {
+      margin-block-end: rem(25);
+    }
+  }
+
+  @include media-breakpoint-up(xl) {
+    &-wrapper {
+      padding-block: rem(115) rem(145);
+    }
+
+    .form-group {
+      margin-block-end: rem(32);
+    }
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .section-white-karisma-salons {
+    .section-white-wrapper {
+      padding-block: rem(42);
+    }
+  }
+
+  .black-card-karisma-salons {
+    .black-card {
+      &-karisma-salons {
+        position: relative;
+        z-index: 3;
+      }
+
+      &-wrapper {
+        background: linear-gradient(to bottom, transparent 0, transparent #{rem(16)}, $clr-f0e #{rem(16)}, $clr-f0e 100%);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: top center;
+      }
+
+      &-grid {
+
+        @include borderedSection;
+
+        &:before,
+        &:after {
+          inset-block: rem(16) 0;
+        }
+      }
+
+      &-karisma-salons-item {
+        padding-block: rem(39) rem(32);
+        padding-inline: rem(18);
+      }
+
+      &-karisma-salons-title {
+        margin-block: 0 rem(17)
+      }
+      &-karisma-salons-text {
+        margin-block-end: rem(10);
+      }
+    }
+  }
+}
+
+

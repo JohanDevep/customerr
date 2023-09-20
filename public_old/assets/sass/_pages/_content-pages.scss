@@ -1,0 +1,550 @@
+.black-card-content-pages {
+  &-item {
+    padding-block: rem(55);
+    font-size: calc-font-size(12, 18);
+    line-height: 1.5;
+    font-weight: $fw-light;
+
+    p {
+      margin: 0;
+    }
+  }
+
+  &-count {
+    margin-block: 0 rem(18);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: rem(15);
+    font-family: $font-secondary;
+    font-style: italic;
+    font-size: calc-font-size(20, 50);
+    line-height: calc-font-size(27, 67);
+
+    &:before,
+    &:after {
+      content: '';
+      inline-size: rem(50);
+      background-color: $white;
+      border-radius: rem(50);
+      block-size: rem(2);
+      margin-block-start: rem(6);
+    }
+  }
+
+  &-icon {
+    block-size: rem(98);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: calc-font-size(65, 78);
+    padding-block-end: rem(30);
+    margin-block-end: rem(20);
+    position: relative;
+
+    &:after {
+      content: '';
+      inline-size: rem(48);
+      block-size: rem(4);
+      background-color: $white;
+      border-radius: rem(40);
+      position: absolute;
+      inset-block-end: 0;
+      inset-inline-start: 50%;
+      z-index: 2;
+      transform: translateX(-50%);
+    }
+  }
+
+  &-title {
+    font-size: calc-font-size(14, 25);
+    line-height: 1.5;
+    letter-spacing: .28em;
+    font-weight: $fw-sbold;
+  }
+
+  &.black-card-affiliate {
+    .black-card-content-pages-item {
+      padding-inline: 10.4%;
+    }
+  }
+
+  &.black-card-distribution {
+    .black-card-content-pages-item {
+      padding-inline: 11.4%;
+    }
+  }
+
+  &.black-card-ir,
+  &.black-card-loyality {
+    .black-card-content-pages-item {
+      padding-inline: 8.4%;
+    }
+
+    .black-card-content-pages-title {
+      min-block-size: rem(75);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}
+
+.content-pages-product {
+  &-box {
+    padding-block-start: rem(84);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: $black;
+    font-size: calc-font-size(14, 25);
+    line-height: 1.5;
+
+    &.padding-t-lg {
+      padding-block-start: rem(147);
+    }
+
+    &.padding-b-lg {
+      padding-block-end: rem(86);
+    }
+
+    p {
+      margin: 0 auto;
+      max-inline-size: rem(854);
+      text-align: center;
+    }
+  }
+
+  &-thumbnail {
+    margin-block-end: rem(37);
+    text-align: center;
+
+    > * {
+      max-inline-size: 100%;
+      display: inline-block;
+    }
+  }
+
+  &-title {
+    font-size: calc-font-size(14, 25);
+    line-height: 1.5;
+    letter-spacing: .28em;
+    font-weight: $fw-bold;
+    margin-block-end: rem(8);
+  }
+}
+
+.affiliate-form-wrapper {
+  padding-block: rem(80);
+}
+
+
+//Latest Updates Section
+.latest-updates-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: calc-font-size(24, 68);
+  padding-block: rem(100);
+
+  .section-title {
+    font-size: calc-font-size(20, 50);
+    line-height: 1.5;
+    letter-spacing: calc-font-size(5, 15);
+    color: $black;
+    font-weight: $fw-bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+  }
+}
+
+.update-grid {
+  display: flex;
+  flex-direction: column;
+  gap: rem(50);
+  margin-block-end: rem(60);
+
+  .update-item {
+    &:last-child {
+      padding-block-end: 0;
+      border: 0 none;
+    }
+  }
+}
+
+.update-item {
+  padding-block-end: rem(50);
+  font-size: calc-font-size(14, 25);
+  line-height: 1.5;
+  color: $black;
+  border-block-end: 1px solid $clr-707;
+
+  p {
+    margin: 0;
+  }
+
+  .date {
+    margin-block-end: rem(11);
+  }
+
+  .title {
+    font-size: calc-font-size(18, 40);
+    font-weight: $fw-medium;
+  }
+
+  .link-more {
+    color: $clr-c79;
+    text-decoration: none;
+    font-weight: $fw-medium;
+  }
+}
+
+
+.loyality-benefits-section,
+.media-section,
+.financials-section {
+  .block-title {
+    font-size: calc-font-size(22, 50);
+    line-height: 1.5;
+    letter-spacing: .3em;
+    color: $black;
+    font-weight: $fw-bold;
+    text-transform: uppercase;
+    margin: 0;
+    text-align: center;
+  }
+}
+
+
+//Loyality Benefits Section
+.loyality-benefits-section {
+  background-color: $clr-f0e;
+  padding-block: rem(45);
+  font-size: calc-font-size(14, 25);
+  line-height: 1.5;
+
+  .block-title {
+    margin-block-end: calc-font-size(16, 30)
+  }
+
+  .block-excerpt {
+    margin-inline: auto;
+    margin-block-end: rem(44);
+    max-inline-size: rem(1194);
+  }
+
+  @include media-breakpoint-up(md) {
+    padding-block: rem(142);
+  }
+}
+
+.benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(#{rem(320)}, 1fr));
+  justify-content: center;
+  grid-gap: rem(24);
+}
+
+.benefit-item {
+  display: flex;
+  justify-content: center;
+  color: $black;
+  text-align: center;
+
+
+  .item {
+
+    &-wrapper,
+    &-title {
+      font-size: calc-font-size(14, 25);
+      line-height: 1.5;
+    }
+
+    &-wrapper {
+      max-inline-size: rem(408);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    &-thumbnail {
+      inline-size: calc-font-size(155, 232);
+      block-size: calc-font-size(155, 232);
+      background-color: $white;
+      border-radius: 50%;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-block-end: rem(30);
+
+      .icon-education {
+        font-size: calc-font-size(56, 88);
+      }
+
+      .icon-loyality-card {
+        font-size: calc-font-size(46, 73);
+      }
+
+      .icon-loyality-win {
+        font-size: calc-font-size(78, 124);
+      }
+    }
+
+    &-title {
+      letter-spacing: .3em;
+      color: $black;
+      font-weight: $fw-bold;
+      text-transform: uppercase;
+      margin-block-end: rem(19);
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    .item {
+      &-thumbnail {
+        inline-size: rem(232);
+        block-size: rem(232);
+      }
+    }
+  }
+}
+
+
+//Media Section
+.media-section {
+  font-size: calc-font-size(12, 20);
+  background-color: $clr-f0e;
+  padding-block: 0 rem(70);
+
+
+  .copy-right-info {
+    line-height: 1.4;
+    text-align: center;
+    max-inline-size: rem(707);
+    margin-inline: auto;
+
+    p {
+      margin: 0;
+    }
+
+    p,
+    a {
+      color: $black;
+    }
+  }
+}
+
+.redeeme-option {
+  &-wrapper {
+    width: 100%;
+    padding-block-start: rem(30);
+    margin-block-end: rem(40);
+    background-color: $clr-e8e;
+    box-shadow: 0 rem(3) rem(6) rgba($black, .16);
+  }
+
+  &-block {
+    max-inline-size: rem(1214);
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: rem(30);
+
+    .block-list {
+      font-size: calc-font-size(16, 35);
+      line-height: 1.5;
+      letter-spacing: .1em;
+      color: $black;
+      font-weight: $fw-sbold;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      gap: rem(40);
+
+      &-wrapper {
+        overflow-x: auto;
+        max-inline-size: 100%;
+      }
+
+      .icon {
+        font-size: .8em;
+        color: $clr-c79;
+      }
+
+      li {
+        display: flex;
+        align-items: center;
+        gap: rem(5);
+        padding-block-end: rem(21);
+        border-block-end: rem(5) solid transparent;
+        cursor: pointer;
+
+        &.active {
+          border-color: $clr-c79;
+        }
+      }
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+
+    &-wrapper {
+      padding-block-start: rem(84);
+      margin-block-end: rem(70);
+    }
+
+    &-block {
+      gap: rem(80);
+    }
+  }
+}
+
+.loyality-media-item {
+  line-height: 2;
+  gap: calc-font-size(30, 100);
+  flex-direction: column;
+  text-align: center;
+
+  &-wrapper {
+    margin-block-end: rem(50);
+  }
+
+
+  .media-title {
+    font-size: calc-font-size(14, 25);
+    line-height: 1.5;
+    letter-spacing: .28em;
+    font-weight: $fw-sbold;
+    margin-block-end: rem(16);
+  }
+
+  .media-thumbnail {
+    text-align: center;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .icon-beauty-skin-care {
+    font-size: calc-font-size(113, 170);
+  }
+
+  .icon-badge {
+    font-size: calc-font-size(111, 167);
+  }
+
+  .icon-beauty-facial-treatment {
+    font-size: calc-font-size(111, 167);
+  }
+
+  .icon-lotus {
+    font-size: calc-font-size(92, 139);
+  }
+
+  .icon-aeroplane {
+    font-size: calc-font-size(101, 151);
+  }
+
+  @include media-breakpoint-up(md) {
+    flex-direction: row;
+    text-align: start;
+
+    &-wrapper {
+      margin-block-end: rem(140);
+    }
+
+    .media-thumbnail {
+      inline-size: rem(240);
+      text-align: end;
+    }
+
+    .media-content {
+      max-inline-size: rem(600);
+      padding-inline-end: rem(73);
+    }
+  }
+}
+
+//Financials Table
+.financials {
+
+  &-section {
+    .block-title { margin-block-start: rem(45); }
+  }
+
+  &-grid {
+    overflow-x: auto;
+    margin-inline: auto;
+    margin-block: rem(30) rem(50);
+  }
+
+  &-table {
+    width: 100%;
+
+    a {
+      white-space: nowrap;
+      text-decoration: none;
+      color: $clr-a27;
+    }
+
+    th {
+      color: $black;
+      font-weight: $fw-medium;
+    }
+
+    tr {
+      td,
+      th {
+        font-size: calc-font-size(14, 25);
+        padding-block: rem(18);
+        border-bottom: 1px solid $clr-707;
+
+        //&:first-child { min-inline-size: rem(120); }
+
+        &:not(:first-child) {
+          padding-inline-start: rem(12);
+        }
+      }
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    &-section {
+      .block-title { margin-block-start: rem(90); }
+    }
+
+    &-grid { margin-block: rem(70) rem(120); }
+
+    &-table {
+      tr {
+        th,
+        td { padding-block: rem(25); }
+      }
+    }
+
+
+  }
+
+  @include media-breakpoint-up(lg) {
+    &-table {
+      tr {
+        td,
+        th {
+          &:first-child {
+            inline-size: 35%;
+            padding-inline-start: rem(106);
+          }
+
+          &:last-child { inline-size: 25%; }
+
+          &:not(:first-child) { padding-inline-start: rem(32); }
+        }
+      }
+    }
+  }
+
+}

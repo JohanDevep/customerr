@@ -1,0 +1,275 @@
+.masonry {
+  &-wrapper {
+    padding-block: rem(30) rem(43);
+    padding-inline: 8%;
+  }
+
+  &-grid {
+    display: flex;
+    flex-direction: column;
+    gap: rem(16);
+  }
+
+  &-grid-box {
+    display: grid;
+    grid-gap: rem(10);
+    grid-template-rows: repeat(6, #{rem(110)});
+  }
+
+  &-grid-item {
+    img {
+      inline-size: 100%;
+      block-size: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    &-wrapper {
+      padding-inline: 5%;
+      padding-block: rem(114);
+    }
+  }
+
+  @include media-breakpoint-between(xs, lg) {
+    &-grid-box {
+      grid-template-columns: repeat(2, 1fr);
+
+      .masonry-grid-item {
+        &:nth-child(2),
+        &:nth-child(3),
+        &:nth-child(6),
+        &:nth-child(7) {
+          grid-row: span 2;
+        }
+      }
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    &-grid-box {
+      grid-gap: rem(16);
+      grid-template-rows: repeat(6, #{rem(200)});
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    &-grid-box {
+      grid-template-rows: repeat(3, #{rem(285)});
+      grid-template-columns: repeat(4, 1fr);
+
+      .masonry-grid-item {
+        &:nth-child(2),
+        &:nth-child(4),
+        &:nth-child(5),
+        &:nth-child(7) {
+          grid-row: span 2;
+        }
+
+        &:nth-child(5),
+        &:nth-child(7) {
+          grid-row: 2 / -1;
+        }
+
+        &:nth-child(6),
+        &:nth-child(8) {
+          grid-row: 3 / -1;
+        }
+
+        &:nth-child(6) {
+          grid-column: 2 / span 1;
+        }
+
+        &:nth-child(8) {
+          grid-column: 4 / span 1;
+        }
+      }
+    }
+  }
+
+  @include media-breakpoint-up(xxl) {
+    &-grid {
+      gap: rem(26);
+    }
+
+    &-grid-box {
+      grid-gap: rem(26);
+    }
+  }
+}
+
+.career-search {
+
+  &-wrapper {
+    padding-block: rem(50);
+  }
+
+  &-footer {
+    padding-block-start: rem(50);
+    text-align: center;
+  }
+
+  @include media-breakpoint-up(md) {
+    &-wrapper {
+      padding-block: rem(70);
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    &-wrapper {
+      padding-block: rem(105);
+    }
+  }
+}
+
+.job-search-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: rem(16);
+
+  .form-group {
+    flex: 1;
+  }
+
+  .form-control {
+    width: 100%;
+  }
+
+  @include media-breakpoint-down(lg) {
+    .form-cta {
+      width: 100%;
+      flex-basis: 100%;
+
+      .form-cta-control {
+        width: 100%;
+      }
+    }
+  }
+
+  @include media-breakpoint-down(md) {
+    .form-group {
+      width: 100%;
+      flex-basis: 100%;
+    }
+  }
+
+  @include media-breakpoint-up(xl) {
+    gap: rem(30);
+  }
+}
+
+
+.jobs-grid {
+  display: grid;
+  grid-gap: rem(16);
+  margin-block-start: rem(30);
+
+  &-item {
+    border: rem(3) solid $clr-3c3;
+    background-color: $white;
+    padding: rem(25) rem(16);
+    position: relative;
+  }
+
+  .modal-title {
+    font-size: calc-font-size(32, 45);
+    line-height: calc-line-height(45, 50);
+    font-family: $font-secondary;
+    font-style: italic;
+    margin-block-end: rem(25);
+  }
+
+  .career-item-card-cta {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+  }
+
+  @include media-breakpoint-up(md) {
+    grid-gap: rem(24);
+  }
+
+  @include media-breakpoint-up(lg) {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: rem(36);
+    margin-block-start: rem(56);
+
+    &-item {
+      padding: rem(25) rem(40);
+    }
+  }
+
+  @include media-breakpoint-up(xl) {
+    &-item {
+      padding: rem(36) rem(54);
+    }
+  }
+}
+
+
+@include media-breakpoint-down(md) {
+  .career-htu-reverse-section {
+    .htu-cards-wrapper .htu-cards {
+      &:before,
+      &:after { inset-block-end: 0; }
+    }
+
+    .htu-reverse-banner-visual {
+      background-color: transparent;
+      max-inline-size: 100%;
+      block-size: rem(375);
+    }
+
+    .black-card-htu-content-title {
+      font-size: rem(16);
+      letter-spacing: rem(4.8);
+      margin-block-end: rem(10);
+    }
+
+    .black-card-htu-grid.bleed { gap: rem(15); }
+  }
+
+  .job-search-form .form-cta .form-cta-control {
+    width: auto;
+    margin-inline: auto;
+    block-size: rem(35);
+  }
+
+  .jobs-grid {
+    margin-block-start: rem(22);
+
+    &-item {
+      padding-inline: rem(25);
+    }
+
+    .modal-title {
+      .career-search-grid-wrapper & {
+        font-size: rem(30);
+        margin-block-end: rem(2);
+      }
+    }
+
+  }
+
+  .career-search-wrapper {
+    padding-block: rem(30);
+  }
+
+  .career-search-footer .btn-dark {
+    margin-inline: auto;
+  }
+
+  .career-item-card-info {
+    .small,
+    .location-item,
+    .modal-single-definition-list {
+      font-size: rem(12);
+    }
+
+    .location-item { margin-block-end: 0 !important; }
+
+    .modal-single-definition-list .icon { width: rem(22); }
+  }
+}

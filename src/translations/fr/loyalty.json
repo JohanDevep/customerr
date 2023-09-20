@@ -1,0 +1,112 @@
+{
+    "loyalty": {
+        "text": "Fidélité"
+    },
+    "earnReward": {
+        "text": "GAGNER DES RÉCOMPENSES"
+    },
+    "highQuality": {
+        "text": "HAUTE QUALITÉ"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICES DE BEAUTÉ ILLIMITÉS"
+    },
+    "earnStars": {
+        "text": "¡GAGNEZ DES ÉTOILES ET ÉCHANGEZ!"
+    },
+    "earnStarsPara": {
+        "text": "Grâce à notre programme de fidélité, vous pouvez gagner des étoiles et les acheter avec le mode de paiement que vous souhaitez. Échangez vos étoiles contre des récompenses incroyables et accumulez-les mois après mois pour rejoindre le tableau des leaders et participer aux avantages VIP."
+    },
+    "joinLoyalty": {
+        "text": "REJOIGNEZ LE PROGRAMME DE FIDÉLITÉ"
+    },
+    "joinLoyaltyPara": {
+        "text": "Pour commencer, inscrivez-vous maintenant. Vous pouvez également vous inscrire en utilisant l'application pour avoir accès à tous les avantages du programme de récompenses."
+    },
+    "earnStar": {
+        "text": "GAGNEZ DES ÉTOILES"
+    },
+    "earnStarPara": {
+        "text": "Collectez facilement des étoiles en utilisant votre compte. Avec la carte Soins Karismä, vous pouvez accumuler deux fois plus d'étoiles."
+    },
+    "getReward": {
+        "text": "GAGNER DES RÉCOMPENSES"
+    },
+    "getRewardPara": {
+        "text": "Au fur et à mesure que vous gagnez des étoiles, vous pouvez les échanger contre des récompenses telles que des produits gratuits, des abonnements, etc. Commencez à échanger des avantages à partir de 50 étoiles."
+    },
+    "endlessBenefits": {
+        "text": "BÉNÉFICES INFINIES"
+    },
+    "endlessBenefitsPara": {
+        "text": "Rejoindre le programme de fidélité Soins Karismä, c'est débloquer notre carte et accéder à une infinité d'avantages. Selon votre abonnement, vous pourrez gagner et cumuler des étoiles à chaque rechargement de votre carte."
+    },
+    "uniqueReward": {
+        "text": "RÉCOMPENSES UNIQUES"
+    },
+    "uniqueRewardPara": {
+        "text": "Accumulez des étoiles et échangez-les contre une liste interminable de récompenses : Académie, modules complémentaires et bien plus encore."
+    },
+    "preloadCard": {
+        "text": "RECHARGEZ VOTRE CARTE"
+    },
+    "preloadCardPara": {
+        "text": "Pour gagner des étoiles plus rapidement, rechargez de l'argent sur votre carte numérique en utilisant le mode de paiement de votre choix"
+    },
+    "shareWin": {
+        "text": "PARTAGEZ ET GAGNEZ"
+    },
+    "shareWinPara": {
+        "text": "Partagez l'initiative avec vos amis, parrainez nos abonnements et doublez vos étoiles."
+    },
+    "redeemFav": {
+        "text": "ÉCHANGEZ VOS FAVORIS"
+    },
+    
+    "checkThe": {
+        "text": "Consultez le"
+    },
+    "termsCondition": {
+        "text": "termes et conditions"
+    },
+    "loyaltyProgram": {
+        "text": "du programme de fidélité ici. Si vous avez des inquiétudes, envoyez-nous un e-mail à info@soinskarisma.com"
+    },
+    "loyalityRedeem": {
+        "100": {
+            "id": 0,
+            "name": "100",
+            "icon": "icon icon-beauty-skin-care",
+            "title": "PRODUITS SOINS KARISMÄ",
+            "description": "Ramenez chez vous vos produits préférés et incluez-les dans votre routine de soins. Vous pouvez réclamer deux produits individuels ou une collection entière."
+        },
+        "500": {
+            "id": 1,
+            "name": "500",
+            "icon": "icon icon-badge",
+            "title": "ACADÉMIE SOINS KARISMÄ",
+            "description": "Profitez d'un mois gratuit de notre académie, apprenez de nouvelles techniques de beauté et interagissez avec les meilleurs professionnels de la beauté et du bien-être."
+        },
+        "1000": {
+            "id": 2,
+            "name": "1000",
+            "icon": "icon icon-beauty-facial-treatment",
+            "title": "BEAUTÉ SANS LIMITE",
+            "description": "Profitez d'un mois gratuit de notre abonnement beauté illimité ou utilisez deux modules complémentaires disponibles pour l'abonnement."
+        },
+        "2000": {
+            "id": 3,
+            "name": "2000",
+            "icon": "icon icon-lotus",
+            "title": "BIEN-ÊTRE SANS LIMITE",
+            "description": "Profitez d'un mois gratuit de notre abonnement Unlimited Wellness ou utilisez deux modules complémentaires disponibles pour l'abonnement."
+        },
+        "5000": {
+            "id": 4,
+            "name": "5000",
+            "icon": "icon icon-aeroplane",
+            "title": "SOINS ILLIMITÉS",
+            "description": "Profitez d'un mois gratuit de notre abonnement illimité aux soins personnels ou utilisez deux modules complémentaires disponibles pour l'abonnement."
+        }
+    }
+}

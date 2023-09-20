@@ -1,0 +1,28 @@
+.not-found-banner {
+  display: flex;
+  flex-direction: column;
+  min-block-size: 100vh;
+
+  .page-banner-header {
+    text-align: center;
+
+    .container {
+      padding-inline: rem(12);
+    }
+
+    button {
+      margin-inline: auto;
+    }
+  }
+
+  .page-banner-text {
+    color: $white;
+    font-size: calc-font-size(16, 30);
+    line-height: 1.5;
+  }
+
+  .page-banner-strip {
+    flex-grow: initial;
+    margin-block-start: auto;
+  }
+}

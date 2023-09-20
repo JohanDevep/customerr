@@ -1,0 +1,86 @@
+{
+    "reviews": {
+        "text": "Avis"
+    },
+    "ratingReviews" : {
+        "text" : "RATINGS AND AVIS"
+    },
+    "highQuality" : {
+        "text" : "HAUTE QUALITÉ"
+    },
+    "unlimitBeautyServ" : {
+        "text" : "SERVICES DE BEAUTÉ ILLIMITÉS"
+    },
+    "weCare" : {
+        "text" : "VOTRE AVIS NOUS INTÉRESSE"
+    },
+    "weCarePara" : {
+        "text" : "Nous travaillons tous les jours pour que nos clients soient satisfaits, dans cette section vous trouverez des critiques et des avis sur nos produits et abonnements. Pour créer un avis, il vous suffit de vous connecter à votre compte et de localiser l'achat ou le service que vous avez acheté."
+    },
+    "all" : {
+        "text" : "Tous"
+    },
+    "subscription" : {
+        "text" : "abonnements"
+    },
+    "produit" : {
+        "text" : "produits"
+    },
+    "reviewsPara1" : {
+        "text" : "Les jours d'été, l'après-shampoing sans rinçage a pris soin de mes cheveux de la meilleure façon qui soit. Je l'utilise chaque semaine et mes cheveux sont beaucoup plus doux ! Il prévient la casse et me permet de profiter du soleil sans penser que mes cheveux seront abîmés."
+    },
+    "author1" : {
+        "text" : "LISA BORTMAN"
+    },
+    "reviewsPara2" : {
+        "text" : "J'adore la douceur de mes cheveux après avoir utilisé l'après-shampoing sans rinçage, je peux démêler mes cheveux facilement. Je laisse le spray sécher naturellement et mes cheveux sont magnifiques ! Ce produit est indispensable !"
+    },
+    "author2" : {
+        "text" : "TRACY LEWIS"
+    },
+    "reviewsPara3" : {
+        "text" : "J'ai des cheveux bouclés très fins. L'après-shampoing sans rinçage m'a surprise parce qu'il a un parfum agréable et qu'il m'aide à protéger mes cheveux du soleil. Totalement surprise, il a laissé mes cheveux naturels, non gras et hydratés. J'adore !!"
+    },
+    "author3" : {
+        "text" : "MANON TREMBLAY"
+    },
+    "reviewsPara4": {
+        "text": "J'ADORE CELA !!! Avoir des cheveux fins qui sont aussi super frisés et crépus (à cause de la décoloration) est un vrai défi. Cet élixir est si léger mais pénètre dans les cheveux. Mes cheveux sont hydratés mais pas du tout alourdis bien que je l'utilise presque tous les jours ! Il laisse une belle et subtile brillance sans les alourdir ni les graisser et il a un parfum très agréable et léger. Son efficacité est assez incroyable et j'ai l'intention de l'utiliser pour toujours !"
+    },
+    "author4" : {
+        "text" : "SHARYN LINDSAY"
+    },
+    "reviewsPara5" : {
+        "text" : "J'ai des cheveux bouclés très fins. Le sérum élixir m'a surprise car il a un parfum agréable et une bonne consistance. Totalement surpris, il a laissé mes cheveux naturels, non gras et hydratés. De plus, mes cheveux sont plus forts et ne sont pas alourdis. Je vais finir le flacon et en commander un autre !"
+    },
+    "author5" : {
+        "text" : "LISA BORTMAN"
+    },
+    "reviewsPara6" : {
+        "text" : "Cette huile a rendu mes cheveux tellement plus doux. Je l'adore ! Je la mets sur mes cheveux après le séchage et elle les lisse. Ce produit est excellent, sinon meilleur que toutes les autres marques que j'ai essayées ! Je suis si contente de l'avoir trouvé et le prix est bien inférieur à celui des produits concurrents."
+    },
+    "author6" : {
+        "text" : "TRACY LEWIS"
+    },
+    "reviewsPara7" : {
+        "text" : "J'ai naturellement des cheveux bruns très foncés mais j'ai décidé de les décolorer pour obtenir un look des années 50. Naturellement, mes cheveux sont devenus jaune vif, comme la plupart des cheveux foncés lorsqu'ils sont décolorés. J'ai essayé de nombreux shampooings pour éliminer les tons jaune/orange cuivrés, mais absolument rien n'a fonctionné. J'ai acheté ce shampooing sur un coup de tête, en quelque sorte en dernier recours, sans trop y penser car j'avais été déçue par tous les autres shampooings... et voilà, plus de jaune ! J'ai été stupéfaite. Cette collection violette est la meilleure !"
+    },
+    "author7" : {
+        "text" : "MARIE LI"
+    },
+    "reviewsPara8" : {
+        "text" : "Cette Purple Collection m'a surprise, non seulement elle a rendu mes cheveux doux et frais, mais elle a fait passer mes cheveux d'un blond jaune cuivré à une teinte unique et je l'adore, il est clair de voir la différence de couleur dès la première application."
+    },
+    "author8" : {
+        "text" : "KELLY MYERS"
+    },
+    "reviewsPara9" : {
+        "text" : "Je n'arrive pas à croire que j'ai trouvé quelque chose qui fonctionne. Ma famille a des reflets roux naturels et je teins mes cheveux mi-brun/mi-gris en blond, donc j'ai ce problème mi jaune/ orange après 6 semaines et je suis allée sur internet et j'ai trouvé ceci. Je suis allée sur Internet et j'ai trouvé ce produit. Je n'arrivais pas à croire à la différence après une seule utilisation. Je ne peux pas vous dire la différence. Je veux dire que je l'ai utilisé une fois et l'orange a littéralement disparu. Le jaune était meilleur. J'étais tellement ravie d'avoir trouvé un produit miracle qu'il fallait que je le partage ! Cela en vaut la peine."
+    },
+    "author9" : {
+        "text" : "JESSY LARIVIERE"
+    },
+    "loadMore": {
+        "value": "Charger plus"
+    }
+}

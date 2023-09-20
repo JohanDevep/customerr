@@ -1,0 +1,138 @@
+//Convert px to rem
+@function rem($value) {
+  @return ($value / 16) * 1rem;
+}
+
+//Responsive Font Size
+@function calc-font-size($minFont, $maxFont) {
+  @return clamp(rem($minFont), ($maxFont / 1920)*100vw, rem($maxFont));
+}
+
+//Responsive line-height
+@function calc-line-height($fontSizeInPX, $lineHeightInPX) {
+  @return $lineHeightInPX/$fontSizeInPX;
+}
+
+@mixin borderedSection {
+  position: relative;
+  padding-inline: 8%;
+
+  &:before,
+  &:after {
+    position: absolute;
+    content: '';
+    inline-size: rem(2);
+    background-color: $clr-707;
+  }
+
+  &:before {
+    inset-inline-start: 1.5%;
+  }
+
+  &:after {
+    inset-inline-end: 1.5%;
+  }
+}
+
+@mixin blackCardHorizontalLine {
+  content: '';
+  inline-size: rem(50);
+  block-size: rem(4);
+  background-color: $white;
+  position: absolute;
+  inset-inline-start: 50%;
+  transform: translateX(-50%);
+  border-radius: rem(50);
+}
+
+
+//Style Placeholder
+@mixin placeholder {
+  &::-webkit-input-placeholder {
+    @content;
+  }
+  &:-moz-placeholder {
+    @content;
+  }
+  &::-moz-placeholder {
+    @content;
+  }
+  &:-ms-input-placeholder {
+    @content;
+  }
+}
+
+//Fit Object in Container
+@mixin img-fit {
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+// A map of breakpoints.
+$breakpoints: (
+        xs: 576px,
+        sm: 768px,
+        md: 992px,
+        lg: 1200px
+);
+
+// Respond above.
+@mixin respond-above($breakpoint) {
+
+  @if map-has-key($breakpoints, $breakpoint) {
+
+    $breakpoint-value: map-get($breakpoints, $breakpoint);
+
+    @media (min-width: $breakpoint-value) {
+      @content;
+    }
+
+  } @else {
+
+    @warn 'Invalid breakpoint: #{$breakpoint}.';
+  }
+}
+
+@mixin respond-below($breakpoint) {
+
+  @if map-has-key($breakpoints, $breakpoint) {
+
+    $breakpoint-value: map-get($breakpoints, $breakpoint);
+
+    @media (max-width: ($breakpoint-value - 1)) {
+      @content;
+    }
+
+  } @else {
+
+    // Log a warning.
+    @warn 'Invalid breakpoint: #{$breakpoint}.';
+  }
+}
+
+@mixin respond-between($lower, $upper) {
+
+  @if map-has-key($breakpoints, $lower) and map-has-key($breakpoints, $upper) {
+
+    $lower-breakpoint: map-get($breakpoints, $lower);
+    $upper-breakpoint: map-get($breakpoints, $upper);
+
+    @media (min-width: $lower-breakpoint) and (max-width: ($upper-breakpoint - 1)) {
+      @content;
+    }
+
+  } @else {
+
+    @if (map-has-key($breakpoints, $lower) == false) {
+
+      @warn 'Your lower breakpoint was invalid: #{$lower}.';
+    }
+
+    @if (map-has-key($breakpoints, $upper) == false) {
+
+      @warn 'Your upper breakpoint was invalid: #{$upper}.';
+    }
+  }
+}

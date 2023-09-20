@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="facebook-domain-verification" content="aq04ruvtdnbql3qakure3s0bkuex1s"/>
+    <meta name="description"
+          content="Soins Karismä is redefining the beauty industry by empowering professionals and consumers through innovative affordable technology. We provide an unforgettable experience to consumers with high quality products and a monthly subscription that has never been seen before. We want individuals to view the beauty industry in a different way. You should be able to take care of yourself from month to month with professional services that are affordable!"/>
+    <title>Karisma</title>
+    <!--Basic Sans Font-->
+    <link rel="icon" href="/assets/images/icon.png"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <!--PlayFair/Poppins Display Font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link
+            href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,800&family=Poppins:wght@300;400;600;700&display=swap"
+            rel="stylesheet"/>
+    <link rel="icon" href="/assets/images/icon.png"/>
+    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="/assets/css/style.css"/>
+
+</head>
+
+<body>
+<noscript>You need to enable JavaScript to run this app.</noscript>
+<div id="root"></div>
+<!-- Meta Pixel Code -->
+<script
+        type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDw6qcwQVACgRGNuyTLTgpfpgRJH6QNo94&libraries=places"
+/>
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '593025175588889');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=593025175588889&ev=PageView&noscript=1"/></noscript>
+<!-- End Meta Pixel Code -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-60DVKX8P5X"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-60DVKX8P5X');
+</script>
+<!-- Hotjar Tracking Code for my site -->
+<script>
+    (function (h, o, t, j, a, r) {
+        h.hj = h.hj || function () {
+            (h.hj.q = h.hj.q || []).push(arguments)
+        };
+        h._hjSettings = {hjid: 3372756, hjsv: 6};
+        a = o.getElementsByTagName('head')[0];
+        r = o.createElement('script');
+        r.async = 1;
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+</script>
+<!-- Custom -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/owl.carousel.min.js"></script>
+<script src="/assets/js/script.js"></script>
+<!-- map -->
+<script type="text/javascript"
+        src="https://cdn.rawgit.com/googlemaps/v3-utility-library/master/markerwithlabel/src/markerwithlabel.js">
+</script>
+<script id="stripe-js" src="https://js.stripe.com/v3/" async></script>
+<!-- google pay   -->
+<script>
+    function onGooglePayLoaded() {
+        window.googlePayClient = new google.payments.api.PaymentsClient({
+            environment: "TEST"
+        });
+    }
+</script>
+<script
+        async
+        src="https://pay.google.com/gp/p/js/pay.js"
+        onload="onGooglePayLoaded()"
+>
+</script>
+<script>
+   function loadApplePayClient() {
+       var request = null;
+       if (window.PaymentRequest)
+           request = new PaymentRequest(methods, details, options);
+       else{}
+   }
+</script>
+<!-- Apple pay sdk -->
+<script
+        async
+        src="https://applepay.cdn-apple.com/jsapi/v1/apple-pay-sdk.js"
+></script>
+
+</body>
+</html>

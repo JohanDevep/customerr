@@ -1,0 +1,23 @@
+{
+    "academy": {
+        "text": "Académie"
+    },
+    "requirementCourse": {
+        "text": "EXIGENCES DU COURS"
+    },
+    "requirementCoursePara": {
+        "text": "Nos cours s'adressent à toute personne désireuse d'améliorer ses compétences, professionnels ou clients. Pour la plupart des cours, vous aurez besoin d'une connexion Internet, d'un ordinateur pour visionner les vidéos et si vous souhaitez mettre en pratique vos compétences, vous aurez besoin de matériel en fonction du thème du cours. Vérifiez les exigences de chaque cours sur le site Web ou sur la plateforme Soins Karismä Academy."
+    },
+    "downloadContent": {
+        "text": "PUIS-JE TÉLÉCHARGER LE CONTENU DES COURS ?"
+    },
+    "downloadContentPara": {
+        "text": "Certains de nos cours sont en ligne, vous ne trouverez donc pas de bouton pour les télécharger. N'oubliez pas que vous les trouverez sur la plateforme Soins Karismä Academy où vous pouvez les répéter autant de fois que vous le souhaitez tant que vous avez un abonnement actif."
+    },
+    "ifHaveSoinsKarisma": {
+        "text": "SI JE POSSÈDE UNE FRANCHISE SOINS KARISMÄ, DOIS-JE PAYER LES COURS ?"
+    },
+    "ifHaveSoinsKarismaPara": {
+        "text": "Non, vous pouvez accéder à tous les cours entièrement gratuitement. Notre priorité est de former nos professionnels aux dernières tendances beauté, en les encourageant à offrir le meilleur service aux clients."
+    }
+}

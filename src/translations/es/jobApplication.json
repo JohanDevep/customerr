@@ -1,0 +1,53 @@
+{
+    "back": {
+        "value": "ATRÁS"
+    },
+    "personalInfo": {
+        "value": "INFORMACIÓN PERSONAL"
+    },
+    "uploadFiles": {
+        "value": "SUBIR ARCHIVOS"
+    },
+    "processing": {
+        "value": "PROCESANDO"
+    },
+    "confirmation": {
+        "value": "CONFIRMACIÓN"
+    },
+    "fullName": {
+        "text": "Nombre Completo"
+    },
+    "email": {
+        "text": "E-mail"
+    },
+    "phone": {
+        "text": "Teléfono"
+    },
+    "next": {
+        "value": "SIGUIENTE"
+    },
+    "uploadFileText": {
+        "text": "SUBIR ARCHIVOS"
+    },
+    "resumeCv": {
+        "value": "Hoja de vida/CV"
+    },
+    "attachCv": {
+        "value": "Attach your CV (.PDF)"
+    },
+    "uploadFile": {
+        "value": "ADJUNTAR"
+    },
+    "coverLetter": {
+        "value": "Carta de presentación"
+    },
+    "attachCoverLetter": {
+        "value": "Attach your Cover Letter (.PDF)"
+    },
+    "weProcessing": {
+        "value": "Estamos procesando los resultados de tu test"
+    },
+    "successApplication": {
+        "value": "¡Aplicación exitosa!"
+    }
+}

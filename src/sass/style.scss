@@ -1,0 +1,291 @@
+body {
+  background: #e6dfde;
+  height: auto;
+}
+.profile-container {
+  .site-header-secondary-logo-container {
+    background: #fff;
+    padding: 23px 0;
+    img {
+      max-inline-size: 50%;
+    }
+  }
+  .form-group-input {
+    padding-bottom: 22px;
+    .label-field {
+      font-size: 15px;
+      display: block;
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+    .input-form-field,
+    .form-select {
+      width: 100%;
+      height: 48px;
+      padding: 0 15px;
+      background: #fff;
+      font-size: 15px;
+      border-radius: 15px;
+      border: solid 1px #9e9e9e;
+    }
+    .textarea-field {
+      min-height: 130px;
+      resize: none;
+      height: 100%;
+    }
+  }
+  .select-salon-field {
+    h4 {
+      font-size: 18px;
+      font-weight: 600;
+     
+    }
+    .select-card-field{padding:10px;border: solid 1px #9E9E9E;}
+    
+    
+  }
+  .heading-underline {
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .continue-btn {
+    max-width: 200px;
+    width: 100%;
+    display: inline;
+    background: #363333;
+    color: #fff;
+    font-weight: 500;
+  }
+}
+.upload-continue-btn {
+  text-align: right;
+  margin-bottom: 30px;
+}
+
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  margin-left: 25px;
+  bottom: 6px;
+  width: 100%;
+}
+.profile-select {
+  display: flex;
+  justify-content: initial;
+  align-items: end;
+}
+
+.browser-btn {
+  font-size: 15px;
+  border-radius: 15px;
+  border: solid 1px #9e9e9e;
+  background: #fff;
+  font-weight: 400;
+  color: #afaaaa;
+  height: 48px;
+  display: flex;
+  justify-content: space-between;
+  min-width: 227px;
+  width: 100%;
+  img {
+    width: 12px;
+  }
+}
+.select-img {
+  background: #ffffff;
+  width: 150px;
+  overflow: hidden;
+  height: 150px;
+  border-radius: 100px;
+  min-width: 150px;
+  img {
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    border: solid 1px #9e9e9e;
+  }
+}
+
+.upload-btn-wrapper input[type="file"] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+.photo-inform {
+  display: flex;
+  align-items: flex-end;
+  .current-photos {
+    margin: 10px 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    .first-photo {
+      width: 180px;
+      margin-right: 20px;
+      border-radius: 10px;
+      background: #ffff;
+      position: relative;
+      border: solid 1px #9e9e9e;
+      display: inline-block;
+      margin-bottom: 25px;
+      .img-thumbnail {
+        height: 140px;
+        width: 100%;
+        object-fit: cover;
+      }
+      .btn-close {
+        width: 15px;
+        height: 15px;
+        position: absolute;
+        background-color: #f5f5f5;
+        color: #555;
+        background-size: 10px;
+        border-radius: 30px;
+        right: -10px;
+        top: -10px;
+        border: solid 1px #9e9e9e;
+        transition: 0.3s all ease;
+        &:hover{
+          background-color: rgb(228, 190, 190);
+        }
+      }
+    }
+  }
+}
+.date-picker-field {
+  .react-datepicker-wrapper {
+    width: 100%;
+    input[type="text"] {
+      width: 100%;
+      height: 48px;
+      padding: 0 15px;
+      background: #fff;
+      font-size: 15px;
+      border-radius: 15px;
+      border: solid 1px #9e9e9e;
+    }
+  }
+}
+
+// New css
+
+.auth-content{
+  max-width: 400px;
+  .karisma-logo{
+    margin-bottom: 36px;
+  }
+  .forgot-pass-logo{
+    margin-bottom: 40px;
+  }
+
+}
+
+.email-wrap,.pass-wrap,.common-input{
+  .form-control-rounded{
+    border: 1px solid #3C3841;
+    border-radius: 15px;
+    padding: 13px;
+    font-size: 14px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    letter-spacing: 0;
+    background-color: #fff !important;
+    color: #1f1e1e;
+    outline: none;
+    &::placeholder{
+      color: #9E9E9E;
+      font-size: 14px;
+      letter-spacing: 0;
+      font-weight: 300;
+    }
+  }
+  .visibility-img{
+    position: absolute;
+    right: 18px;
+    top: 14px;
+  }
+  .validate-message{
+    color: #FA4200;
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: lowercase;
+  }
+}
+.password-input{
+  position: relative;
+}
+.forgot-pass-wrap{
+  margin-bottom: 24px;
+  .forgot-text{
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--nuevo, #B5A2E8);
+  }
+}
+.common-rounded-btn{
+  border-radius: 15px;
+background: var(--nuevo, #B5A2E8);
+padding: 13px 0;
+color: var(--blanco, #FFF);
+font-size: 16px;
+font-weight: 700;
+
+}
+.info-multi-line,.form-info{
+  .signup-text,.sign-up,.already-acc-text,.login,.go-back-text{
+    text-align: right;
+    color: var(--nuevo, #B5A2E8);
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 8px;
+  }
+  .terms-text{
+    color: #fff;
+    font-size: 12px;
+    font-weight: 5  00;
+    .policy{
+      color: #B5A2E8;
+      font-size: 12px;
+      font-weight: 600;
+    }
+  }
+}
+
+// Profile css
+.profile-container{
+  .heading-underline{
+    color: #3C3C3B;
+    font-size: 22px;
+    font-weight: 700;
+
+  }
+  .select-salon-field,.form-group-input{  
+    .label-field {
+      color:#3C3C3B;
+      font-size: 18px;  
+      font-weight: 600;
+      }
+      .form-select
+      {
+        appearance: none;
+        outline: none;
+      }
+    }
+    
+
+    .additional-info{
+      color: #3C3C3B;
+      font-weight: 600;
+      font-size: 18px;
+    }
+  }
+ 
+ 
+
+
+
+
+
+

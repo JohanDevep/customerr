@@ -1,0 +1,44 @@
+{
+    "whichCountries": {
+        "text": "WHICH COUNTRIES DOES SOINS KARISMÄ SHIP TO?"
+    },
+    "whichCountriesPara": {
+        "text": "Currently, our website only accepts orders from Canada and the United States. We don’t ship to Alaska, Hawaii, and the American Virgin Islands."
+    },
+    "freeOffer": {
+        "text": "DO YOU OFFER FREE SHIPPING?"
+    },
+    "freeOfferPara": {
+        "text": "We offer standard free shipping for orders over $70."
+    },
+    "howLongDoes": {
+        "text": "HOW LONG DOES IT TAKE FOR MY ORDER TO ARRIVE?"
+    },
+    "howLongDoesPara1": {
+        "text": "Our standard and express carrier is determined according to your location. Please allow 2-6 open days for a standard shipment."
+    },
+    "howLongDoesPara2": {
+        "text": "To check the status of your order, please refer to the tracking number included in your shipping confirmation email. If you have additional questions, please email us at help@soinskarisma.com"
+    },
+    "freeRegularShipping": {
+        "text": "FREE REGULAR SHIPPING (CONDITIONS)"
+    },
+    "freeRegularShippingPara1": {
+        "text": "Ground shipping is free in Canada and the continental United States with orders of $69 or more. Currently, our website only accepts shipments within Canada and the contiguous United States: we do not ship to Alaska, Hawaii and the American Virgin Islands. Ground shipping is $9.99 for orders under $69."
+    },
+    "freeRegularShippingPara2": {
+        "text": "Most orders are processed and shipped within 24 hours of purchase, depending on product availability. All orders placed on weekends or holidays will be processed and shipped the next business day."
+    },
+    "freeRegularShippingPara3": {
+        "text": "We process and ship all orders out of the United States. Once your order is processed, the delivery time is between 2 and 6 working days, depending on your delivery address. Note that these schedules are not guaranteed and may be delayed due to internal server errors, weather and other unforeseen conditions. Please note that orders are shipped and delivered only on business days (Monday to Friday, excluding holidays)."
+    },
+    "deliveryDelay": {
+        "text": "DELIVERY DELAY"
+    },
+    "deliveryDelayPara1": {
+        "text": "Soins Karisma ensures that your product are delivered in the shortest possible time. However, it can happen that the delivery is abnormally long."
+    },
+    "deliveryDelayPara2": {
+        "text": "The maximum delivery time is 30 days. if your delivery has not been delivered to you after 30 days, notify us promptly by email at help@soinskarisma."
+    }
+}

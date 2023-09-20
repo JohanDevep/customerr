@@ -1,0 +1,39 @@
+{
+  "tabs":
+    {
+      "information": "Información",
+      "payment": "el pago",
+      "payment_information":"Información de pago"
+    },
+  "address": {
+    "shipping_address_title" : "DIRECCIÓN DE ENVÍO",
+    "billing_address_title" : "DIRECCIÓN DE FACTURACIÓN",
+    "delete_billing_address" : "ELIMINAR DIRECCIÓN DE FACTURACIÓN",
+    "same_as_shipping_text" : "DIRECCIÓN DE FACTURACIÓN IGUAL A LA DIRECCIÓN DE ENVÍO"
+  },
+  "form": {
+    "button": "CONTINÚE"
+  },
+  "cart": {
+    "title" : "SU CARRITO",
+    "subtotal":"SUBTOTAL",
+    "gift_card":"Tarjeta regalo o código de descuento",
+    "total":"TOTAL",
+    "total_tax_text":"IMPUESTOS INCLUIDOS",
+    "tax_note":"IMPUESTOS Y GASTOS DE ENVÍO CALCULADOS EN LA CAJA",
+    "table": {
+      "column_one": "Producto",
+      "column_two": "Precio",
+      "column_three": "CANTIDAD",
+      "column_four": "TOTAL"
+    },
+    "success": {
+      "message": "PAGO SATISFACTORIO",
+      "purchase_no": "compra no.",
+      "details": "DETALLES DIRECCIÓN",
+      "additional_information": "AINFORMACIÓN ADICIONAL",
+      "PAYMENT": "PAGO"
+    }
+  }
+
+}

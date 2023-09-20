@@ -1,0 +1,111 @@
+{
+    "loyalty": {
+        "text": "Loyalty"
+    },
+    "earnReward": {
+        "text": "EARN REWARDS"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "unlimitBeautyServ": {
+        "text": "UNLIMITED BEAUTY SERVICES"
+    },
+    "earnStars": {
+        "text": "EARN STARS AND REDEEM"
+    },
+    "earnStarsPara": {
+        "text": "With our loyalty program you can earn stars or purchase them with the payment method of your choice and redeem them for incredible rewards. Accumulate stars month by month and join the leader board to participate for VIP benefits."
+    },
+    "joinLoyalty": {
+        "text": "JOIN THE LOYALTY PROGRAM"
+    },
+    "joinLoyaltyPara": {
+        "text": "To get started, join now. You can also join in the app to get access to the full range of Soins Karismä Rewards benefits."
+    },
+    "earnStar": {
+        "text": "EARN STARS"
+    },
+    "earnStarPara": {
+        "text": "Accumulate stars easily using your account. Using the Soins Karismä Card you can accumulate double points."
+    },
+    "getReward": {
+        "text": "GET REWARDS"
+    },
+    "getRewardPara": {
+        "text": "As you earn Stars, you can redeem them for Rewards—like free products, subscriptions, and more. Start redeeming with as little as 50 Stars!"
+    },
+    "endlessBenefits": {
+        "text": "ENDLESS BENEFITS"
+    },
+    "endlessBenefitsPara": {
+        "text": "Joining Soins Karismä Loyalty program means unlocking our card and access to exclusive benefits. Depending on your subscription, you will earn stars every time you reload your card."
+    },
+    "uniqueReward": {
+        "text": "UNIQUE REWARDS"
+    },
+    "uniqueRewardPara": {
+        "text": "Accumulate stars and redeem for an endless list of rewards: Academy, add-ons and more."
+    },
+    "preloadCard": {
+        "text": "PRELOAD YOUR CARD"
+    },
+    "preloadCardPara": {
+        "text": "To earn Stars twice as fast, add money to your digital card using any payment option."
+    },
+    "shareWin": {
+        "text": "SHARE AND WIN"
+    },
+    "shareWinPara": {
+        "text": "Share the initiative with your friends, refer our subscriptions and double your stars faster."
+    },
+    "redeemFav": {
+        "text": "REDEEM YOUR FAVORITES"
+    },
+    "checkThe": {
+        "text": "Check the"
+    },
+    "termsCondition": {
+        "text": "terms and conditions"
+    },
+    "loyaltyProgram": {
+        "text": "of the loyalty program here. Or if you have any questions, send us an email to info@soinskarisma.com"
+    },
+    "loyalityRedeem": {
+        "100": {
+            "id": 0,
+            "name": "100",
+            "icon": "icon icon-beauty-skin-care",
+            "title": "FREE SOINS KARISMÄ PRODUCTS",
+            "description": "Take home your favorite products and include them in your self-care routine. You may claim two individual products or a complete collection."
+        },
+        "500": {
+            "id": 1,
+            "name": "500",
+            "icon": "icon icon-badge",
+            "title": "SOINS KARISMÄ ACADEMY",
+            "description": "Enjoy a free month of our academy, learn new beauty techniques and interact with the best beauty and wellness instructors."
+        },
+        "1000": {
+            "id": 2,
+            "name": "1000",
+            "icon": "icon icon-beauty-facial-treatment",
+            "title": "UNLIMITED BEAUTY",
+            "description": "Enjoy a free month of our Unlimited Beauty Subscription, or redeem your two favorite add-ons available for this subscription."
+        },
+        "2000": {
+            "id": 3,
+            "name": "2000",
+            "icon": "icon icon-lotus",
+            "title": "UNLIMITED WELLNESS",
+            "description": "Enjoy a free month of our Unlimited Wellness Subscription, or redeem your two favorite add-ons available for this subscription."
+        },
+        "5000": {
+            "id": 4,
+            "name": "5000",
+            "icon": "icon icon-aeroplane",
+            "title": "UNLIMITED SELF-CARE",
+            "description": "Enjoy a free month of our Unlimited Self-care Subscription, or redeem your two favorite add-ons available for this subscription."
+        }
+    }
+}

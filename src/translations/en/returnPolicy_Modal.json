@@ -1,0 +1,20 @@
+{
+    "returnPolicy": {
+        "text": "Return Policy"
+    },
+    "whatExchangePolicy": {
+        "text": "WHAT IS YOUR EXCHANGE AND RETURN POLICY?"
+    },
+    "whatExchangePolicyPara1": {
+        "text": "If you are not satisfied with a product, please contact our customer service at help@soinskarisma.com (Monday to Friday from 9:00 am to 5:00 pm EST) and you can return it within 30 days of purchase with your original receipt. We recommend that you return all unopened products in the same condition in which they were delivered. Shipping and handling are not included in refunds."
+    },
+    "whatExchangePolicyPara2": {
+        "text": "We are not responsible for packages delivered to an incorrect address that was provided by a customer during the ordering process. It is the customer’s responsibility to provide the correct shipping details. Once an order is processed, we are not able to change details such as shipping information. Assuming the item(s) are returned to us, a refund will be processed."
+    },
+    "returnProducts": {
+        "text": "CAN I RETURN PRODUCTS I BOUGHT IN A SALON?"
+    },
+    "returnProductsPara": {
+        "text": "Soins Karismä can only issue refunds or accept returns and exchanges for items purchased on soinskarisma.com Products purchased from our partner salons must be returned to the salon in accordance with their return and exchange policy."
+    }
+}

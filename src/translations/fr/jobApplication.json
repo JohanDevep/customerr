@@ -1,0 +1,26 @@
+{
+    "personalInfo": {
+        "value": "INFORMATIONS PERSONNELLES"
+    },
+    "uploadFiles": {
+        "value": "Télécharger des fichiers"
+    },
+    "processing": {
+        "value": "Traitement en cours"
+    },
+    "confirmation": {
+        "value": "CONFIRMATION"
+    },
+    "fullName": {
+        "text": "Nom complet"
+    },
+    "email": {
+        "text": "Email"
+    },
+    "phone": {
+        "text": "Téléphone"
+    },
+    "next": {
+        "value": "Suivant"
+    }
+}

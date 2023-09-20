@@ -1,0 +1,20 @@
+{
+    "returnPolicy": {
+        "text": "Devoluciones"
+    },
+    "whatExchangePolicy": {
+        "text": "¿CUÁL ES SU POLÍTICA DE CAMBIOS Y DEVOLUCIONES?"
+    },
+    "whatExchangePolicyPara1": {
+        "text": "Si no está satisfecho con un producto, póngase en contacto con nuestro equipo de servicio al cliente en help@soinskarisma.com (de lunes a viernes de 9:00 am a 5:00 pm EST) y puede devolverlo dentro de los 30 días de la compra con su recibo original. Le recomendamos que devuelva todos los productos sin abrir en las mismas condiciones en las que fueron entregados. El envío y el manejo no están incluidos en los reembolsos."
+    },
+    "whatExchangePolicyPara2": {
+        "text": "No somos responsables de los paquetes entregados a una dirección incorrecta proporcionada por el cliente durante el proceso de pedido. Es responsabilidad del cliente proporcionar los datos de envío correctos. Una vez que se procesa un pedido, no podemos cambiar detalles como la información de envío. Una vez el producto se devuelva, el reembolso será procesado."
+    },
+    "returnProducts": {
+        "text": "¿PUEDO DEVOLVER PRODUCTOS QUE COMPRÉ EN UN SALÓN?"
+    },
+    "returnProductsPara": {
+        "text": "Soins Karismä solo puede manejar o aceptar devoluciones o cambios por artículos comprados directamente en www.soinskarisma.com Los productos adquiridos en nuestras franquicias deben ser retornados directamente en el salón, bajo sus políticas de devolución y cambio."
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "blogs": {
+        "text": "Blogs"
+    },
+    "newsArticles": {
+        "text": "NOUVELLES, ARTICLES ET PLUS"
+    },
+    "highQuality": {
+        "text": "HAUTE QUALITÉ"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICES DE BEAUTÉ ILLIMITÉS"
+    },
+    "update&More": {
+        "text": "MISES À JOUR ET PLUS"
+    },
+    "update&MorePara": {
+        "text": "Notre section de blog est réservée à nos clients qui souhaitent en savoir plus sur les mises à jour et les nouvelles au sein de l'entreprise. En tant que lecteur, vous pouvez vous attendre à voir des mises à jour hebdomadaires et mensuelles sur les nouvelles ouvertures de salons, les événements et les sorties de produits. Installez-vous confortablement et profitez de la lecture!"
+    },
+    "all": {
+        "text": "Tous"
+    },
+    "hair": {
+        "text": "Cheveux"
+    },
+    "beauty": {
+        "text": "Beauté"
+    },
+    "hairCare": {
+        "text": "Soins capillaires"
+    },
+    "selfCare": {
+        "text": "Soins personnels"
+    },
+    "hairBlogHeading": {
+        "text": "Tout ce que vous devez savoir sur le traitement à la kératine : les choses à faire et à éviter"
+    },
+    "hairBlogHeadingPara": {
+        "text": "Il existe de nombreuses idées fausses en ce qui concerne la kératine et ce qu'elle fait pour vos cheveux. Nous sommes là pour vous présenter la vérité, clairement et simplement, afin que vous puissiez vous sentir confiant et informé lorsque vous décidez de prendre rendez-vous pour un traitement à la kératine avec nos professionnels."
+    },
+    "readMore": {
+        "value": "Lire la suite"
+    },
+    "nails": {
+        "text": "Ongles"
+    },
+    "nailsBlogHeading": {
+        "text": "Comment prendre soin de vos ongles en acrylique"
+    },
+    "nailsBlogHeadingPara": {
+        "text": "Les ongles en acrylique permettent à la manucure de durer des semaines, donnant un effet élégant que nous aimons! Étant donné que les ongles en acrylique sont des extensions d'ongles artificiels qui sont placées sur l'ongle naturel, cela cachera les ongles courts et faibles. Cependant, de nombreuses personnes ont pensé à tort que cela ne nécessite aucun entretien. Ces ongles artificiels ont en réalité besoin de soins affectueux."
+    },
+    "eyebrows": {
+        "text": "SOURCILS"
+    },
+    "aesthetics": {
+        "text": "ESTHÉTIQUE"
+    },
+    "eyebrowsBlogHeading": {
+        "text": "Microblading ou Microshading?"
+    },
+    "eyebrowsBlogHeadingPara": {
+        "text": "De nos jours, il existe de nombreuses tendances beauté pour les sourcils. Certaines personnes utilisent des techniques de maquillage pour combler leurs sourcils et leur donner un effet différent chaque jour, cependant, pour d'autres personnes, cela peut être une tâche chronophage qui ne donne pas le meilleur résultat."
+    },
+    "loadMore": {
+        "value": "Voir plus"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "news": {
+        "text": "Nouvelles"
+    },
+    "newsMore": {
+        "text": "NOUVELLES ET PLUS"
+    },
+    "highQuality": {
+        "text": "HAUTE QUALITÉ"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICES DE BEAUTÉ ILLIMITÉS"
+    },
+    "updateMore": {
+        "text": "MISES À JOUR ET PLUS"
+    },
+    "updateMorePara": {
+        "text": "Notre rubrique actualités est réservée à nos clients lecteurs qui souhaitent en savoir plus sur l'actualité de l'entreprise. En tant que lecteur, vous devez vous attendre à voir des mises à jour hebdomadaires et mensuelles sur les ouvertures de nouveaux salons, les événements et les lancements de produits. Asseyez-vous et bonne lecture !"
+    },
+    "all": {
+        "text": "Tout"
+    },
+    "hair": {
+        "text": "Cheveux"
+    },
+    "beauty": {
+        "text": "beauté"
+    },
+    "hairCare": {
+        "text": "Soin des cheveux"
+    },
+    "selfCare": {
+        "text": "soins auto-administrés"
+    },
+    "soinsKarisma": {
+        "text": "SOINS KARISMÄ"
+    },
+    "soinsKarismaHeading": {
+        "text": "Soins Karismä responsabilise sa communauté."
+    },
+    "soinsKarismaPara": {
+        "text": "Chez Soins Karismä, notre priorité est d'avoir un impact positif dans notre communauté. C'est pourquoi nous avons développé un modèle d'affaires axé sur les besoins de la communauté."
+    },
+    "readMore": {
+        "value": "En savoir plus"
+    },
+    "salons": {
+        "text": "Salons"
+    },
+    "salonsHeading": {
+        "text": "Notre salon à Montréal"
+    },
+    "salonsPara": {
+        "text": "Le 23 janvier dernier, nous avons ouvert notre premier salon dans la ville de Montréal, situé au 9535 Bd Lacordaire Montréal (St-Léonard) Québec, H1R 2B6. Nous sommes fiers d'annoncer que nous avons un salon géré à 100% par l'équipe de Soins Karismä."
+    },
+    "loadMore": {
+        "value": "Charger plus"
+    }
+}

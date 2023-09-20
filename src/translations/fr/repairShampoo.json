@@ -1,0 +1,122 @@
+{
+    "120Reviews": {
+        "text": "(120 Avis)"
+    },
+    "repair": {
+        "text": "Shampooing"
+    },
+    "shampoo": {
+        "text": "réparateur"
+    },
+    "30Price": {
+        "text": "$30.99"
+    },
+    "benefits": {
+        "value": "AVANTAGES"
+    },
+    "ingredients": {
+        "value": "Ingredients"
+    },
+    "moisturizing": {
+        "text": "Hydratant — "
+    },
+    "moisturizingPara": {
+        "text": "Le shampooing nettoie en éliminant la saleté et l'excès de sébum. Le shampooing réparateur apporte à vos cheveux l'hydratation et la rétention d'eau dont ils ont besoin pour être forts et souples"
+    },
+    "nourishing": {
+        "text": "Nourrissant — "
+    },
+    "nourishingPara": {
+        "text": "La collection Repair nourrit également votre cuir chevelu, rendant les nouveaux cheveux plus robustes et résistants. Certains des ingrédients riches en nutriments peuvent également aider vos mèches de cheveux, en leur apportant une plus grande intégrité structurelle."
+    },
+    "restoration": {
+        "text": "Restauration — "
+    },
+    "restorationPara": {
+        "text": "Redonne brillance et douceur à vos cheveux en laissant un fini inoubliable grâce à une hydratation équilibrée."
+    },
+    "repairShampoo": {
+        "text": "Shampooing réparateur - "
+    },
+    "repairShampooPara": {
+        "text": "Aqua, lauroamphoacétate de sodium, cocamidopropyl bétaïne, biotine, cocamide mea, dérivé d'acide aminé d'avoine, lauroyl glutamate de sodium, parfum, acide citrique, huile d'argan, acide benzoïque, benzoate de sodium, sorbate de potassium."
+    },
+    "repairConditioner": {
+        "text": "Après-shampoing Réparateur - "
+    },
+    "repairConditionerPara": {
+        "text": "Aqua, alcool cétéarylique, chlorure de stéartrimonium, cyclopentasiloxane et diméthicone, hydroxyéthylcellulose, biotine, parfum, huile de noyau d'Argania Spinosa, acide benzoïque, benzoate de sodium, sorbate de potassium."
+    },
+    "repairMask": {
+        "text": "Masque Réparateur - "
+    },
+    "repairMaskPara": {
+        "text": "Aqua, alcool cétéarylique, chlorure de stéartrimonium, cyclopentasiloxane et diméthicone, hydroxyéthylcellulose, biotine, parfum, huile de noyau d'Argania Spinosa, acide benzoïque, benzoate de sodium"
+    },
+    "shopNow": {
+        "value": "Acheter maintenant"
+    },
+    "addToCart": {
+        "value": "Ajouter au panier"
+    },
+    "highQuality": {
+        "text": "HAUTE QUALITÉ"
+    },
+    "vegan": {
+        "text": "VEGAN"
+    },
+    "crueltyFree": {
+        "text": "CREULTY FREE"
+    },
+    "gallery": {
+        "text": "Galerie"
+    },
+    "howTo": {
+        "text": "Comment"
+    },
+    "use": {
+        "text": "l'utiliser?"
+    },
+    "cardPara1": {
+        "text": "Le shampooing Soins Karismä doit être appliqué sous la douche ou lors d'un lavage de cheveux. Lorsque vos cheveux sont mouillés, appliquez le shampooing et faites-le mousser sur vos cheveux."
+    },
+    "cardPara2": {
+        "text": "La quantité de shampooing que vous utilisez varie en fonction de la consistance de vos cheveux."
+    },
+    "cardPara3": {
+        "text": "Cette règle s'applique également à la durée du shampooing. Si vos cheveux semblent avoir besoin d'un peu plus de soutien, vous pouvez ajouter une minute ou deux au processus."
+    },
+    "about": {
+        "text": "À PROPOS"
+    },
+    "repCollection": {
+        "text": "Collection Réparatrice"
+    },
+    "repCollectionPara": {
+        "text": "La Collection Réparatrice a été inspirée par des clients dont les cheveux étaient abîmés par la sécheresse ou les produits chimiques. On nous a demandé de créer un produit qui conviendrait à toutes les couleurs et à tous les types de cheveux. Après des mois de recherche avec nos chimistes, nous avons mis au point la Repair Collection. Un produit différent et indépendant qui changerait la façon dont les gens réparent leurs cheveux."
+    },
+    "inspiredByYou": {
+        "text": "INSPIRÉE PAR VOUS!"
+    },
+    "reviewsPara1": {
+        "text": "Pour moi qui luttais constamment contre les cheveux secs, la découverte de la Collection Réparatrice Soins Karismä a été une bénédiction. Elle contient tous les ingrédients et le processus étape par étape pour s'assurer que vous obtenez le bon traitement capillaire. Absolument merveilleux !"
+    },
+    "author1": {
+        "text": "GENVIEVE BROWN"
+    },
+    "reviewsPara2": {
+        "text": "J'utilise ce produit depuis plus de 4 mois maintenant et j'ai constaté une énorme différence dans mes cheveux. Ils sont hydratés et revitalisés tous les jours, même si je ne me lave les cheveux que deux fois par semaine. En tant que mère célibataire, la confiance qu'il m'a apportée est inoubliable."
+    },
+    "author2": {
+        "text": "MANON TREMBLAY"
+    },
+    "reviewsPara3": {
+        "text": "Chaque produit de la Collection Réparatrice est fabriqué selon un processus réfléchi. J'étais à la recherche d'une marque et d'un produit qui me conviennent et Soins Karismä est une mine d'or ! Les résultats que j'ai obtenus sont incroyables !"
+    },
+    "author3": {
+        "text": "JESSY LARIVIERE"
+    },
+    "reviews": {
+        "text": "Avis"
+    }
+}

@@ -1,0 +1,115 @@
+@include media-breakpoint-down(md) {
+  .page-banner {
+    max-block-size: rem(760);
+    min-block-size: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    &-visual,
+    &.home-banner .page-banner-visual {
+      overflow: hidden;
+      margin-block-start: auto;
+
+      .container {
+        padding-inline: 0;
+
+        img {
+          position: absolute;
+          inset-inline-start: 50%;
+          inset-block-start: rem(15);
+          transform: translateX(-50%);
+          margin-inline-start: 0;
+          inset-inline-end: initial;
+          inset-block-end: initial;
+          max-block-size: initial;
+          max-inline-size: initial;
+        }
+
+      }
+    }
+
+    &.home-banner .page-banner-visual {
+      overflow: visible;
+
+      &:before {
+        inset-block-start: 0;
+        inset-block-end: initial;
+        inset-inline-start: initial;
+        inset-inline-end: 0;
+        inline-size: rem(400);
+        block-size: rem(400);
+        transform: translate(60%, -130%);
+      }
+    }
+
+    &-visual {
+      block-size: rem(495);
+    }
+
+    &-header {
+      padding-block-start: rem(90);
+      text-align: center;
+    }
+
+    &-title {
+      //from Subscriptions Page
+      font-size: rem(49);
+      line-height: 1;
+      margin-block-end: rem(5);
+    }
+
+    &-excerpt {
+      font-size: rem(17);
+      line-height: rem(26);
+      letter-spacing: rem(5.1);
+      margin-block-end: rem(20);
+      max-inline-size: rem(280);
+      margin-inline: auto;
+    }
+
+    & &-strip {
+      flex-grow: initial;
+      margin-block-start: 0;
+      min-block-size: rem(41);
+    }
+
+    &-social-icons-list {
+      justify-content: center;
+      gap: rem(33);
+      inset-block-end: rem(70);
+      inset-inline: 0;
+      margin-block: 0;
+    }
+
+    &.home-banner {
+      .page-banner-visual {
+        block-size: rem(475);
+      }
+
+      .page-banner-header {
+        padding-block-start: rem(68);
+      }
+
+      .header-block {
+        .page-banner-title {
+          font-size: rem(73);
+          line-height: rem(97);
+          margin-block-end: 0;
+        }
+
+        .page-banner-excerpt {
+          font-size: rem(21);
+          line-height: rem(31);
+          letter-spacing: rem(6.3);
+          margin-block-end: rem(6);
+          max-inline-size: initial;
+        }
+
+
+        button {
+          margin-inline: auto;
+        }
+      }
+    }
+  }
+}

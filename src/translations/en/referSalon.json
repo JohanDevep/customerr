@@ -1,0 +1,35 @@
+{
+    "refer_a_Salon": {
+        "text": "Refer A Saloon"
+    },
+    "refer_a_SalonPara": {
+        "text": "Fill out the form carefully to refer a salon. Our team will review the information and contact you briefly. If you have any questions about the referral incentive, please contact our support team."
+    },
+    "firstName": {
+        "text": "First Name"
+    },
+    "lastName": {
+        "text": "Last Name"
+    },
+    "salonName": {
+        "text": "Salon Name"
+    },
+    "country": {
+        "text": "Country"
+    },
+    "state": {
+        "text": "State"
+    },
+    "city": {
+        "text": "City"
+    },
+    "email": {
+        "text": "Email"
+    },
+    "phone": {
+        "text": "Phone"
+    },
+    "referSalon": {
+        "value": "Refer Saloon"
+    }
+}

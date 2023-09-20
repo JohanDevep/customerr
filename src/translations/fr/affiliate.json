@@ -1,0 +1,62 @@
+{
+    "affiliate": {
+        "text": "rejoindre"
+    },
+    "tellOther": {
+        "text": "PARTAGER AVEC LES AUTRES ET COMMISSION"
+    },
+    "highQuality": {
+        "text": "HAUTE QUALITÉ"
+    },
+    "vegan": {
+        "text": "VÉGÉTALIEN"
+    },
+    "crueltyFree": {
+        "text": "SANS CRUAUTÉ"
+    },
+    "itPretty": {
+        "text": "RAPIDE ET FACILE"
+    },
+    "itPrettyPara": {
+        "text": "Gagnez de l'argent supplémentaire avec le programme d'affiliation de Soins Karismä. Gagnez des commissions sur la vente de produits en parlant de notre marque aux autres. La mise en route est très simple ! Vous avez juste besoin d'avoir la meilleure énergie tout en faisant ce que vous aimez : parler de beauté."
+    },
+    "15Commission": {
+        "text": "STRUCTURE DE COMMISSION JUSQU'À 15%"
+    },
+    "exclusiveAccess": {
+        "text": "ACCÈS EXCLUSIF AUX NOUVEAUX PRODUITS ET PROMOTIONS"
+    },
+    "accessBanners": {
+        "text": "ACCÈS AUX BANNIÈRES ET AU MATÉRIEL CRÉATIF"
+    },
+    "itsFreeJoin": {
+        "text": "L'INSCRIPTION EST GRATUITE"
+    },
+    "itsFreeJoinPara": {
+        "text": "Il vous suffit de remplir le formulaire d'inscription. Nous vous contacterons bientôt."
+    },
+    "name": {
+        "text": "PRENOM"
+    },
+    "lastName": {
+        "text": "NOM"
+    },
+    "phone": {
+        "text": "TÉLÉPHONE"
+    },
+    "email": {
+        "text": "E-MAIL"
+    },
+    "city": {
+        "text": "VILLE"
+    },
+    "DOB": {
+        "text": "DATE DE NAISSANCE"
+    },
+    "message": {
+        "text": "MESSAGE"
+    },
+    "submit": {
+    }
+}
+    

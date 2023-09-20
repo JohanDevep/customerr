@@ -1,0 +1,11 @@
+{
+    "contact": {
+        "text": "Contact Us"
+    },
+    "requestSuccessfully": {
+        "text": "REQUEST SUCCESSFULLY MADE"
+    },
+    "requestSuccessfullyPara": {
+        "text": "Thank you for contacting us, we hope to resolve your questions in the shortest time possible, one of our support agents will contact you briefly."
+    }
+}

@@ -1,0 +1,105 @@
+.application {
+  &-custom-tabs {
+    //.tab-pane {
+    //  &.active {
+    //    min-block-size: 50vh;
+    //    display: flex;
+    //    align-items: center;
+    //  }
+    //}
+
+    .tab-pane-content-wrapper {
+      padding-block-start: rem(50)
+    }
+  }
+
+  &-tab-thumbnail-wrapper {
+    img {
+      max-inline-size: 100%;
+    }
+  }
+
+  &-form {
+    legend {
+      font-weight: $fw-bold;
+      font-size: calc-font-size(30, 38);
+      line-height: calc-line-height(38, 46);
+      letter-spacing: calc-font-size(3, 9.5);
+      text-transform: uppercase;
+      margin-block-end: rem(15);
+    }
+
+    input {
+      @include placeholder {
+        color: rgba($black, .17);
+      }
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      margin-block-end: rem(13);
+    }
+
+    .form-control {
+      inline-size: 100%;
+    }
+
+  }
+
+  &-form-footer {
+    margin-block-start: rem(35);
+    display: flex;
+
+    button {
+      inline-size: 100%;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    &-form-footer {
+      justify-content: flex-end;
+
+      button {
+        inline-size: initial;
+      }
+    }
+  }
+
+
+  @include media-breakpoint-down(lg) {
+    &-tab-thumbnail-wrapper {
+      inline-size: 90%;
+      max-inline-size: rem(620);
+      margin-inline: auto;
+      margin-block-end: rem(40);
+    }
+
+    &-tab-form-wrapper {
+      margin-block-end: rem(60);
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    &-tab-form-col {
+      display: flex;
+      align-items: center;
+      padding-inline-start: 4%;
+    }
+
+    &-tabbed-content-wrapper {
+      inline-size: 90%;
+      max-inline-size: rem(1480);
+      margin-inline: auto;
+    }
+  }
+
+  @include media-breakpoint-up(xxl) {
+    &-tab-form-col {
+      padding-inline: 10%;
+      .form-control {
+        block-size: rem(72);
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "mainBannerHeader": {
+        "text": "Subscriptions"
+    },
+    "subsInspired": {
+        "text": "INSPIRED BY YOU"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "unlimitBeauty" : {
+        "text": "UNLIMITED BEAUTY SERVICES"
+    },
+    "about" : {
+        "text": "ABOUT"
+    },
+    "soinsKarisma" : {
+        "text": "SOINS KARISMÄ SUBSCRIPTIONS"
+    },
+    "soinsKarismaPara": {
+        "text": "Soins Karismä wanted to revolutionize the way we see self-care services. Affording services from month to month can be a burden financially. That's why we offer beauty care services, wellness services and the opportunity to travel for a fixed price every month! Come as many times as you want to any Soins Karismä salon and wellness center around the world, book your travel experience and connect with a unique community. Reserve your subscription because they are limited! We have it all. Choose your salon, wellness center and schedule your trip, all from our platform!"
+    },
+    "inspiredByYou": {
+        "text": "INSPIRED BY YOU!"
+    },
+    "unlimitedCard": {
+        "text": "UNLIMITED"
+    },
+    "beautyCard": {
+        "text": "BEAUTY"
+    },
+    "selfCareCard": {
+        "text": "SELF-CARE"
+    },
+    "wellnessCard": {
+        "text": "WELLNESS"
+    },
+    "getNow": {
+        "value": "GET NOW"
+    },
+    "ourSubs": {
+        "text": "OUR SUBSCRIPTIONS"
+    }
+}

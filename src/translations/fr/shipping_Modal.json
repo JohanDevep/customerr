@@ -1,0 +1,44 @@
+{
+    "whichCountries": {
+        "text": "À QUELS PAYS ENVOIE SOINS KARISMÄ?"
+    },
+    "whichCountriesPara": {
+        "text": "Actuellement, notre site Web accepte uniquement les commandes du Canada et des États-Unis. Nous ne livrons pas en Alaska, à Hawaï et dans les îles Vierges américaines."
+    },
+    "freeOffer": {
+        "text": "OFFREZ-VOUS LA LIVRAISON GRATUITE?"
+    },
+    "freeOfferPara": {
+        "text": "Nous offrons la livraison standard gratuite pour les commandes de plus de 70 $."
+    },
+    "howLongDoes": {
+        "text": "COMBIEN DE TEMPS FAUT-IL POUR RECEVOIR MA COMMANDE?"
+    },
+    "howLongDoesPara1": {
+        "text": "Notre transporteur standard et express est déterminé en fonction de votre emplacement. Attendez-vous à recevoir votre livraison standard dans un délai de 2 à 6 jours ouvrables."
+    },
+    "howLongDoesPara2": {
+        "text": "Pour vérifier l'état de votre commande, consultez le numéro de suivi inclus dans votre e-mail de confirmation d'expédition. Si vous avez des questions supplémentaires, envoyez-nous un e-mail à l'adresse help@soinskarisma.com."
+    },
+    "freeRegularShipping": {
+        "text": "LIVRAISON ORDINAIRE GRATUITE (CONDITIONS)"
+    },
+    "freeRegularShippingPara1": {
+        "text": "La livraison terrestre est gratuite au Canada et aux États-Unis continentaux pour les commandes de 69 $ ou plus. Actuellement, notre site Web n'accepte que les livraisons au Canada et aux États-Unis contigus : nous ne livrons pas en Alaska, à Hawaï ni dans les îles Vierges américaines. La livraison terrestre coûte 9,99 $ pour les commandes de moins de 69 $."
+    },
+    "freeRegularShippingPara2": {
+        "text": "La plupart des commandes sont traitées et expédiées dans les 24 heures suivant l'achat, en fonction de la disponibilité du produit. Toutes les commandes passées le week-end ou les jours fériés seront traitées et expédiées le jour ouvrable suivant."
+    },
+    "freeRegularShippingPara3": {
+        "text": "Nous traitons et expédions toutes les commandes en dehors des États-Unis. Une fois votre commande traitée, le délai de livraison est de 2 à 6 jours ouvrables, selon votre adresse de livraison. Veuillez noter que ces délais ne sont pas garantis et peuvent être retardés en raison d'erreurs internes du serveur, de conditions météorologiques et d'autres conditions imprévues. Veuillez noter que les commandes sont expédiées et livrées uniquement les jours ouvrables (du lundi au vendredi, sauf les jours fériés)."
+    },
+    "deliveryDelay": {
+        "text": "RETARD DE LIVRAISON"
+    },
+    "deliveryDelayPara1": {
+        "text": "Soins Karisma veille à ce que votre produit soit livré dans les meilleurs délais. Cependant, il peut arriver que la livraison soit anormalement longue."
+    },
+    "deliveryDelayPara2": {
+        "text": "Le délai de livraison maximal est de 30 jours. Si votre envoi ne vous a pas été livré après 30 jours, veuillez nous en informer immédiatement par courrier électronique à help@soinskarisma."
+    }
+}

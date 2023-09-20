@@ -1,0 +1,239 @@
+{
+    "privacyPolicy": {
+        "text": "Politique de confidentialité"
+    },
+    "haveQuestions": {
+        "text": "Avez-vous des questions ?"
+    },
+    "highQuality": {
+        "text": "Haute qualité"
+    },
+    "unlimitedServices": {
+        "text": "Services de beauté illimités"
+    },
+    "privacyPolicyPara": {
+        "text": "Cette politique de confidentialité décrit comment Soins Karismä (le «Site» ou «nous») recueille, utilise et divulgue vos informations personnelles lorsque vous visitez ou effectuez un achat sur le Site."
+    },
+    "contact": {
+        "text": "Contact"
+    },
+    "contactPara": {
+        "text": "Après avoir examiné cette politique, si vous avez des questions supplémentaires, souhaitez obtenir plus d'informations sur nos pratiques en matière de confidentialité ou souhaitez déposer une plainte, veuillez nous contacter par courrier électronique à help@soinskarisma.com ou par courrier à l'adresse ci-dessous : 200-249 rue St-Jacques Montréal, Québec H2Y 1M6."
+    },
+    "collectPersonalInfo": {
+        "text": "Collecte d'informations personnelles"
+    },
+    "collectPersonalInfoPara": {
+        "text": "Lorsque vous visitez le Site, nous recueillons certaines informations sur votre appareil, votre interaction avec le Site et des informations nécessaires pour traiter vos achats. Nous pouvons également recueillir des informations supplémentaires si vous nous contactez pour obtenir de l'aide clientèle. Dans cette Politique de confidentialité, nous faisons référence à toute information sur une personne identifiable (y compris les informations ci-dessous) comme « Informations personnelles ». Veuillez consulter la liste ci-dessous pour plus d'informations sur les Informations personnelles que nous recueillons et pourquoi."
+    },
+    "deviceInfo": {
+        "text": "INFORMATIONS SUR L'APPAREIL"
+    },
+    "purposeCollection": {
+        "text": "But de la collecte :"
+    },
+    "purposeCollectionPara": {
+        "text": "charger le Site de manière précise pour vous et effectuer des analyses sur l'utilisation du Site pour optimiser notre Site."
+    },
+    "sourceCollection": {
+        "text": "Source de la collecte :"
+    },
+    "sourceCollectionPara": {
+        "text": "Collectées automatiquement lorsque vous accédez à notre Site via des cookies, des fichiers journaux, des balises Web, des tags ou des pixels. Divulgation à des fins commerciales partagée avec notre processeur Shopify."
+    },
+    "personalInfoCollect": {
+        "text": "Informations personnelles collectées :"
+    },
+    "personalInfoCollectPara": {
+        "text": "version du navigateur Web, adresse IP, fuseau horaire, informations de cookies, quels sites ou produits vous consultez, termes de recherche et comment vous interagissez avec les informations de commande du Site."
+    },
+    "purposeOfCollection": {
+        "text": "But de la collecte :"
+    },
+    "purposeOfCollectionPara": {
+        "text": "fournir des produits ou des services pour remplir notre contrat, traiter vos informations de paiement, organiser l'expédition et vous fournir des factures et/ou des confirmations de commande, communiquer avec vous, évaluer nos commandes pour d'éventuels risques ou fraudes, et lorsque cela est conforme aux préférences que vous avez partagées avec nous, vous fournir des informations ou de la publicité liées à nos produits ou services."
+    },
+    "sourceOfCollection": {
+        "text": "Source de la collecte :"
+    },
+    "sourceOfCollectionPara": {
+        "text": "collectées auprès de vous. Divulgation à des fins commerciales : partagée avec notre processeur Shopify."
+    },
+    "personalInformCollect": {
+        "text": "Collecte d'informations personnelles :"
+    },
+    "personalInformCollectPara": {
+        "text": "nom, adresse de facturation, adresse de livraison, informations de paiement (y compris les numéros de carte de crédit), adresse e-mail et numéro de téléphone."
+    },
+    "minors": {
+        "text": "MINEURS"
+    },
+    "minorsPara": {
+        "text": "Le Site n'est pas destiné aux personnes de moins de [18] ans. Nous ne recueillons pas intentionnellement des informations personnelles sur les enfants. Si vous êtes parent ou tuteur et que vous pensez que votre enfant nous a fourni des informations personnelles, veuillez nous contacter à l'adresse ci-dessus pour demander la suppression de ces informations."
+    },
+    "sharePersonalInfo": {
+        "text": "ÉCHANGE D'INFORMATIONS PERSONNELLES"
+    },
+    "sharePersonalInfoPara1": {
+        "text": "Nous partageons vos informations personnelles avec des prestataires de services pour nous aider à fournir nos services et à remplir nos contrats avec vous, comme décrit ci-dessus. Par exemple :"
+    },
+    "sharePersonalInfoPara2": {
+        "text": "Nous utilisons Shopify pour alimenter notre magasin en ligne. Vous pouvez en savoir plus sur la façon dont Shopify utilise vos informations personnelles ici : https://www.shopify.com/legal/privacy."
+    },
+    "sharePersonalInfoPara3": {
+        "text": "Nous pouvons partager vos informations personnelles pour respecter les lois et réglementations applicables, répondre à une assignation à comparaître, un mandat de perquisition ou une autre demande légale d'informations que nous recevons, ou pour protéger nos droits."
+    },
+    "behaviouralAds": {
+        "text": "PUBLICITÉ COMPORTEMENTALE"
+    },
+    "behaviouralAdsPara1": {
+        "text": "Comme décrit ci-dessus, nous utilisons vos informations personnelles pour vous fournir des publicités ciblées ou des communications marketing que nous pensons susceptibles de vous intéresser. Par exemple :"
+    },
+    "behaviouralAdsPara2": {
+        "text": "Nous utilisons Google Analytics pour nous aider à comprendre comment nos clients utilisent le Site. Vous pouvez en savoir plus sur la façon dont Google utilise vos informations personnelles ici : https://www.google.com/intl/en/policies/privacy/. Vous pouvez également vous désinscrire de Google Analytics ici : https://tools.google.com/dlpage/gaoptout."
+    },
+    "behaviouralAdsPara3": {
+        "text": "Nous partageons des informations sur votre utilisation du Site, vos achats et vos interactions avec nos publicités sur d'autres sites web avec nos partenaires publicitaires. Nous collectons et partageons une partie de ces informations directement avec nos partenaires publicitaires et, dans certains cas, en utilisant des cookies ou d'autres technologies similaires (auxquelles vous pouvez consentir en fonction de votre emplacement)."
+    },
+    "behaviouralAdsPara4": {
+        "text": "Nous utilisons Shopify Audiences pour nous aider à afficher des annonces sur d'autres sites web avec nos partenaires publicitaires à des acheteurs qui ont effectué des achats auprès d'autres commerçants Shopify et qui pourraient également être intéressés par ce que nous avons à offrir. Nous partageons également des informations sur votre utilisation du Site, vos achats et l'adresse e-mail associée à vos achats avec Shopify Audiences, grâce à laquelle d'autres commerçants Shopify peuvent faire des offres qui pourraient vous intéresser."
+    },
+    "behaviouralAdsPara5": {
+        "text": "Pour en savoir plus sur le fonctionnement de la publicité ciblée, vous pouvez visiter la page éducative de l'Initiative de publicité réseau NAI sur"
+    },
+    "behaviouralAdsPara6": {
+        "text": "-https://www.networkadvertising.org/understanding-online-advertising/how-does-it-work."
+    },
+    "behaviouralAdsPara7": {
+        "text": "Vous pouvez choisir de ne pas recevoir de publicité ciblée sur:"
+    },
+    "commonLinks": {
+        "text": "LES LIENS COURANTS INCLUENT:"
+    },
+    "commonLinksPara1": {
+        "text": "FACEBOOK- https://www.facebook.com/settings/?tab=ads"
+    },
+    "commonLinksPara2": {
+        "text": "GOOGLE - https://www.google.com/settings/ads/anonymous"
+    },
+    "commonLinksPara3": {
+        "text": "BING: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads"
+    },
+    "commonLinksPara4": {
+        "text": "De plus, vous pouvez choisir de ne pas participer à certains de ces services en visitant le portail d'exclusion volontaire de Digital Advertising Alliance à l'adresse suivante : https://optout.aboutads.info/."
+    },
+    "usingPersonalInfo": {
+        "text": "UTILISATION DES INFORMATIONS PERSONNELLES"
+    },
+    "usingPersonalInfoPara": {
+        "text": "Nous utilisons vos informations personnelles pour vous fournir nos services, qui comprennent : l'offre de produits à la vente, le traitement des paiements, l'expédition et l'exécution de votre commande, ainsi que pour vous tenir informé(e) des nouveaux produits, services et offres."
+    },
+    "lawfulBasis": {
+        "text": "BASE LÉGALE"
+    },
+    "lawfulBasisPara1": {
+        "text": "Conformément au Règlement général sur la protection des données (RGPD), si vous êtes résident(e) de l'Espace économique européen (EEE), nous traitons vos informations personnelles sur les bases légales suivantes : votre consentement ; l'exécution du contrat entre vous et le Site ;"
+    },
+    "lawfulBasisPara2": {
+        "text": "le respect de nos obligations légales ; la protection de vos intérêts vitaux ; l'exécution d'une tâche effectuée dans l'intérêt public ; nos intérêts légitimes, qui ne prévalent pas sur vos droits et libertés fondamentaux."
+    },
+    "retention": {
+        "text": "CONSERVATION"
+    },
+    "retentionPara": {
+        "text": "Lorsque vous passez une commande sur le Site, nous conservons vos informations personnelles pour nos archives jusqu'à ce que vous nous demandiez de supprimer ces informations. Pour plus d'informations sur votre droit de rétractation, veuillez consulter la section « Vos droits » ci-dessous."
+    },
+    "autoDecisionMaking": {
+        "text": "PRISE DE DÉCISION AUTOMATISÉE"
+    },
+    "autoDecisionMakingPara1": {
+        "text": "Si vous êtes résident(e) de l'EEE, vous avez le droit de vous opposer au traitement fondé uniquement sur une prise de décision automatisée (qui comprend l'établissement de profils), lorsque cette prise de décision a un effet juridique sur vous ou vous affecte de manière significative autrement."
+    },
+    "autoDecisionMakingPara2": {
+        "text": "Nous [NE] participons pas à la prise de décision totalement automatisée ayant un effet juridique ou significatif sur les données des clients."
+    },
+    "autoDecisionMakingPara3": {
+        "text": "Notre processeur Shopify utilise une prise de décision automatisée limitée pour prévenir la fraude qui n'a pas d'effet juridique ou significatif sur vous."
+    },
+    "autoDecisionMakingPara4": {
+        "text": "Les services comprenant des éléments de prise de décision automatisée incluent :"
+    },
+    "autoDecisionMakingPara5": {
+        "text": "Liste noire temporaire d'adresses IP associées à des transactions en échec répétées. Cette liste noire persiste pendant un petit nombre d'heures."
+    },
+    "autoDecisionMakingPara6": {
+        "text": "Liste noire temporaire des cartes de crédit associées à des adresses IP figurant sur la liste noire. Cette liste noire persiste pendant un petit nombre de jours."
+    },
+    "yourRights": {
+        "text": "VOS DROITS"
+    },
+    "gdpr": {
+        "text": "RGPD"
+    },
+    "gdprPara1": {
+        "text": "Si vous êtes un résident de l'EEE, vous avez le droit de vous opposer au traitement basé uniquement sur la prise de décision automatisée (y compris l'élaboration de profils), lorsque cette prise de décision a un effet juridique sur vous ou vous affecte de manière significative autrement."
+    },
+    "gdprPara2": {
+        "text": "Nous [NE] participons pas à la prise de décision entièrement automatisée qui a un effet juridique ou significatif en utilisant les données du client."
+    },
+    "gdprPara3": {
+        "text": "Notre processeur Shopify utilise une prise de décision automatisée limitée pour prévenir la fraude qui n'a pas d'effet juridique ou significatif sur vous."
+    },
+    "gdprPara4": {
+        "text": "Les services qui incluent des éléments de prise de décision automatisée incluent:"
+    },
+    "gdprPara5": {
+        "text": "Liste noire temporaire des adresses IP associées à des transactions échouées répétées. Cette liste noire persiste pendant un petit nombre d'heures."
+    },
+    "gdprPara6": {
+        "text": "Liste noire temporaire des cartes de crédit associées à des adresses IP figurant sur la liste noire. Cette liste noire persiste pendant un petit nombre de jours."
+    },
+    "ccpa": {
+        "text": "CCPA"
+    },
+    "ccpaPara1": {
+        "text": "Si vous êtes un résident de Californie, vous avez le droit d'accéder aux informations personnelles que nous avons sur vous (également connu sous le nom de « droit de savoir »), de les transférer à un nouveau service et de demander que vos informations personnelles soient corrigées, mises à jour ou supprimées. Si vous souhaitez exercer ces droits, veuillez nous contacter via les informations de contact ci-dessus."
+    },
+    "ccpaPara2": {
+        "text": "Si vous souhaitez désigner un mandataire pour soumettre ces demandes en votre nom, veuillez nous contacter à l'adresse ci-dessus."
+    },
+    "cookies": {
+        "text": "COOKIES"
+    },
+    "cookiesPara1": {
+        "text": "Un cookie est une petite quantité d'information téléchargée sur votre ordinateur ou votre appareil lorsque vous visitez notre Site. Nous utilisons différents types de cookies, y compris les cookies fonctionnels, de performance, publicitaires et de réseaux sociaux ou de contenu. Les cookies améliorent votre expérience de navigation en permettant au site web de se souvenir de vos actions et préférences (comme la connexion et la sélection de région). Cela signifie que vous n'avez pas à saisir ces informations à chaque fois que vous revenez sur le site ou naviguez d'une page à l'autre. Les cookies fournissent également des informations sur la manière dont les personnes utilisent le site web, par exemple s'il s'agit de leur première visite ou s'ils sont des visiteurs réguliers."
+    },
+    "cookiesPara2": {
+        "text": "Nous utilisons les cookies suivants pour optimiser votre expérience sur notre Site et pour fournir nos services."
+    },
+    "cookiesPara3": {
+        "text": "Veuillez comparer cette liste avec la liste actuelle des cookies de Shopify sur le magasin du marchand: https://www.shopify.com/legal/cookies"
+    },
+    "cookiesPara4": {
+        "text": "Le temps qu'un cookie reste sur votre ordinateur ou votre appareil mobile dépend s'il s'agit d'un cookie « persistant » ou de « session ». Les cookies de session durent jusqu'à ce que vous arrêtiez de naviguer et les cookies persistants durent jusqu'à ce qu'ils expirent ou soient supprimés. La plupart des cookies que nous utilisons sont persistants et expirent entre 30 minutes et deux ans à compter de leur téléchargement sur votre appareil."
+    },
+    "cookiesPara5": {
+        "text": "Vous pouvez contrôler et gérer les cookies de plusieurs façons. Veuillez noter que la suppression ou le blocage des cookies peut affecter négativement votre expérience utilisateur et il se peut que vous ne puissiez plus accéder entièrement à certaines parties de notre site web."
+    },
+    "cookiesPara6": {
+        "text": "La plupart des navigateurs acceptent automatiquement les cookies, mais vous pouvez choisir de les accepter ou non via les contrôles de votre navigateur, qui se trouvent souvent dans le menu Outils ou Préférences de votre navigateur. Pour plus d'informations sur la façon de modifier les paramètres de votre navigateur ou sur la façon de bloquer, gérer ou filtrer les cookies, vous pouvez consulter le fichier d'aide de votre navigateur ou des sites tels que: www.allaboutcookies.org De plus, veuillez noter que le blocage des cookies ne peut pas empêcher complètement le partage d'informations avec des tiers, tels que nos partenaires publicitaires. Pour exercer vos droits ou choisir de ne pas recevoir certaines utilisations de vos informations de la part de ces parties, suivez les instructions de la section Publicité comportementale ci-dessus."
+    },
+    "doNotTrack": {
+        "text": "NE PAS SUIVRE"
+    },
+    "doNotTrackPara": {
+        "text": "Veuillez noter qu'en l'absence d'une compréhension cohérente de l'industrie sur la manière de répondre aux signaux “Do Not Track”, nous ne modifions pas nos pratiques de collecte et d'utilisation des données lorsque nous détectons un tel signal de la part de votre navigateur."
+    },
+    "changes": {
+        "text": "CHANGEMENTS"
+    },
+    "changesPara": {
+        "text": "Nous pouvons mettre à jour la présente politique de confidentialité de temps à autre pour refléter, par exemple, des changements dans nos pratiques ou pour d'autres raisons opérationnelles, juridiques ou réglementaires."
+    },
+    "complaints": {
+        "text": "RÉCLAMATIONS"
+    },
+    "complaintsPara": {
+        "text": "Comme indiqué ci-dessus, si vous souhaitez déposer une plainte, veuillez nous contacter par courrier électronique ou par courrier postal en utilisant les coordonnées fournies dans la section “Nous contacter” ci-dessus. Si vous n'êtes pas satisfait de notre réponse à votre plainte, vous avez le droit de saisir l'autorité compétente en matière de protection des données."
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "eyebrows": {
+        "text": "SOURCILS"
+    },
+    "aesthetic" : {
+        "text" : "AESTHETICS"
+    },
+    "eyebrowHeading" : {
+        "text" : "Microblading ou Microshading ?"
+    },
+    "eyebrowPara1" : {
+        "text" : "De nos jours, il existe de nombreuses tendances en matière de beauté des sourcils. Certaines personnes utilisent des techniques de maquillage pour remplir leurs sourcils et leur donner un effet différent chaque jour, mais pour d'autres, il s'agit d'une tâche qui prend beaucoup de temps et qui ne donne pas le meilleur résultat."
+    },
+    "eyebrowPara2" : {
+        "text" : "Des techniques comme le microblading et le microshading permettent d'obtenir ce look en un seul rendez-vous chez le coiffeur. Si vous ne savez toujours pas laquelle est la plus adaptée à votre cas, ce blog vous aidera à lever vos doutes."
+    },
+    "microblading" : {
+        "text" : "Microblading"
+    },
+    "whatMicroblading" : {
+        "text" : "Qu'est-ce que le microblading ?"
+    },
+    "whatMicrobladingPara" : {
+        "text" : "Le microblading est une forme de tatouage semi-permanent qui consiste à dessiner de fins traits semblables à des cheveux dans vos sourcils en suivant le contour de vos sourcils existants à l'aide d'une minuscule lame manuelle stérile et d'un pigment pour vous donner une finition très naturelle. La procédure peut durer entre 2 et 3 heures en fonction de vos besoins et de vos spécifications."
+    },
+    "pros": {
+        "text": "Pros"
+    },
+    "prosItem1" : {
+        "text" : "Si vous cherchez à obtenir un sourcil d'apparence plus naturelle plutôt que spectaculaire, alors"
+    },
+    "prosItem2" : {
+        "text" : "Le microblading est fait pour vous."
+    },
+    "prosItem3" : {
+        "text" : "Les sourcils microbladés ont tendance à avoir un aspect plus naturel et plus fondu, même lorsqu'ils s'estompent."
+    },
+    "cons": {
+        "text": "Contres"
+    },
+    "consItem" : {
+        "text" : "Il s'agit du tatouage de maquillage permanent le moins abouti en raison de la faible profondeur des traits de la technique. Il nécessite plus de retouches régulières."
+    },
+    "whatMicroshading" : {
+        "text" : "Qu'est-ce que la microchromie ?"
+    },
+    "whatMicroshadingPara" : {
+        "text" : "Le microshading utilise un stylo électrique ou manuel pour créer des points sur les sourcils à l'aide d'une encre semi-permanente, ce qui donne un aspect aérographe aux sourcils. La procédure peut durer de 1 à 2 heures."
+    },
+    "prositem1" : {
+        "text" : "Il crée un aspect poudré et brumeux semblable à un sourcil maquillé. Si vous êtes à la recherche d'un look maquillé, les sourcils Microshaded sont faits pour vous."
+    },
+    "prositem2" : {
+        "text" : "Les sourcils ombrés ont tendance à durer plus longtemps que les sourcils microbillés et nécessitent donc moins d'entretien."
+    },
+    "prositem3" : {
+        "text" : "Idéal pour les peaux sensibles et grasses"
+    },
+    "consItems" : {
+        "text" : "Il peut avoir tendance à paraître très défini et solide"
+    },
+    "bladingShading" : {
+        "text" : "Microblading vs. Microshading"
+    },
+    "bladingShadingPara" : {
+        "text" : "Le microblading consiste à créer de courts traits semblables à des cheveux sur le sourcil. Le microblading, quant à lui, donne une apparence plus solide et plus audacieuse. En fonction de la technique qui vous plaît le plus, vous pouvez prendre rendez-vous dans nos salons. Si vous ne connaissez pas votre type de peau ou les soins à apporter à vos sourcils après le traitement, vous pouvez consulter nos professionnels."
+    }
+}

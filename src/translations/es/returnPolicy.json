@@ -1,0 +1,38 @@
+{
+    "returnPolicy": {
+        "text": "Política De Devolución"
+    },
+    "haveQuestion": {
+        "text": "¿TIENES ALGUNA PREGUNTA?"
+    },
+    "highQuality": {
+        "text": "ALTA CALIDAD"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICIOS DE BELLEZA ILIMITADOS"
+    },
+    "overview": {
+        "text": "REVISIÓN GENERAL"
+    },
+    "overviewPara1": {
+        "text": "Si no está completamente satisfecho con su compra en Soinskarisma.com, póngase en contacto con nuestro departamento de atención al cliente en help@soinskarisma.com (lun-vie 9am-3pm Eastern Time) y devuelva los productos comprados dentro de los 30 días de la entrega. Estaremos encantados de abonar en su cuenta el importe de la compra. Los gastos de envío de devolución no están incluidos"
+    },
+    "overviewPara2": {
+        "text": "Para devolver un pedido al remitente, envíe su información de contacto, número de pedido y razón a help@soinskarisma.com. Por favor, envíe el producto(s) en cuestión, por Correos de Canadá con Servicio de Paquetería Expedito, con firma, a la siguiente dirección:"
+    },
+    "overviewPara3": {
+        "text": "Dirección: Soins Karismä- Département des retours 200-249 rue St-Jacques Montréal, Québec H2Y 1M6"
+    },
+    "overviewBoldPara": {
+        "text": "Todas las devoluciones se realizarán y enviarán dentro de 7 a 10 días"
+    },
+    "overviewPara4": {
+        "text": "Para su protección y para garantizar una entrega rápida, le recomendamos que envíe su devolución a través de Canada Post y solo devuelva los productos sin abrir y en su estado original. Lo sentimos, pero los gastos de envío de devolución no son reembolsables."
+    },
+    "overviewPara5": {
+        "text": "Si su paquete estaba dañado cuando lo recibió y su contenido no se podía utilizar, le pedimos que conserve los productos, así como el embalaje en el que se encontraron, y nos notifique inmediatamente a help@soinskarisma.com enviándonos su información de contacto, el número de pedido, y una foto del paquete dañado (de lunes a viernes de 9am a 3pm, hora del este). La compañía naviera será notificada inmediatamente, y Soins Karismä con gusto reemplazará los productos dañados."
+    },
+    "overviewPara6": {
+        "text": "Lo sentimos, pero las devoluciones o cambios por compras realizadas en una tienda minorista Soins Karismä u otro punto de venta no se pueden devolver a soinskarisma.com. Si el artículo que desea devolver no fue comprado en soinskarisma.com, le recomendamos que vaya al lugar de compra para cualquier reclamación o reembolso. Si no puede volver al lugar de compra, póngase en contacto con nuestro Centro de Asesoramiento al Consumidor en help@soinskarisma.com (lun-vie 9am-3pm EST)."
+    }
+}

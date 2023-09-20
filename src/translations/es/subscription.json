@@ -1,0 +1,44 @@
+{
+    "mainBannerHeader": {
+        "text": "Suscripciones"
+    },
+    "subsInspired": {
+        "text": "INSPIRADO EN TI"
+    },
+    "highQuality": {
+        "text": "ALTA CALIDAD"
+    },
+    "unlimitBeauty" : {
+        "text": "SERVICIOS DE BELLEZA ILIMITADOS"
+    },
+    "about" : {
+        "text": "ACERCA DE LAS"
+    },
+    "soinsKarisma" : {
+        "text": "SUSCRIPCIONES SOINS KARISMÄ"
+    },
+    "soinsKarismaPara": {
+        "text": "Soins Karismä quería revolucionar la forma en que vemos los servicios de autocuidado. Pagar los servicios mes a mes puede ser una carga financiera. ¡Es por eso que ofrecemos servicios de cuidado de la belleza, servicios de bienestar y la oportunidad de viajar por un precio fijo todos los meses! Ven las veces que desees a cualquier salón y centro de bienestar Soins Karismä, reserva tu experiencia de viaje y conéctate con una comunidad única. ¡Reserva tu suscripción porque son limitadas! Lo tenemos todo. Elige tu salón, centro de bienestar y programa tu viaje, ¡todo desde nuestra plataforma!"
+    },
+    "inspiredByYou": {
+        "text": "¡INSPIRADO EN TI!"
+    },
+    "unlimitedCard": {
+        "text": "ILIMITADA"
+    },
+    "beautyCard": {
+        "text": "BELLEZA"
+    },
+    "selfCareCard": {
+        "text": "BIENESTAR"
+    },
+    "wellnessCard": {
+        "text": "AUTOCUIDADO"
+    },
+    "getNow": {
+        "value": "OBTENER AHORA"
+    },
+    "ourSubs": {
+        "text": "NUESTRAS SUSCRIPCIONES"
+    }
+}

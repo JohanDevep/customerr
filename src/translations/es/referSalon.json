@@ -1,0 +1,35 @@
+{
+    "refer_a_Salon": {
+        "text": "Recomendar un salón"
+    },
+    "refer_a_SalonPara": {
+        "text": "Rellene el formulario cuidadosamente para recomendar un salón. Nuestro equipo revisará la información y lo contactará brevemente. Si tiene alguna pregunta sobre el incentivo de referencia, comuníquese con nuestro equipo de soporte."
+    },
+    "firstName": {
+        "text": "Nombre de pila"
+    },
+    "lastName": {
+        "text": "Nombre de último"
+    },
+    "salontName": {
+        "text": "Nombre del salón"
+    },
+    "country": {
+        "text": "País"
+    },
+    "state": {
+        "text": "Estado"
+    },
+    "city": {
+        "text": "Ciudad"
+    },
+    "email": {
+        "text": "Email"
+    },
+    "phone": {
+        "text": "Teléfono"
+    },
+    "referSalon": {
+        "value": "Referir Salón"
+    }
+}

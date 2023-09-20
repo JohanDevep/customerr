@@ -1,0 +1,171 @@
+.btn-rounded {
+  border-radius: rem(15);
+  text-align: center;
+  padding-inline: rem(16);
+  block-size: rem(45);
+  box-shadow: none;
+  text-transform: uppercase;
+  font-size: calc-font-size(18, 22);
+  letter-spacing: rem(2);
+
+  &,
+  &:hover,
+  &:focus,
+  &:active {
+    color: $white;
+    border: 0 none;
+  }
+
+  @include media-breakpoint-up(md) {
+    block-size: rem(55);
+  }
+
+  @include media-breakpoint-up(xxl) {
+    padding-inline: rem(30);
+    block-size: rem(79);
+    letter-spacing: rem(5);
+  }
+}
+
+
+%btn-custom {
+  font-size: rem(13);
+  line-height: rem(20);
+  padding: rem(9) rem(16);
+  letter-spacing: rem(3.25);
+  min-block-size: rem(36);
+  font-weight: $fw-bold;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 0;
+  white-space: nowrap;
+  transition: all .3s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline-width: rem(2);
+  outline-style: solid;
+  outline-color: transparent;
+
+  &.outline,
+  &.outline-transparent {
+    outline-offset: rem(-2);
+  }
+
+  &,
+  &:hover,
+  &:focus,
+  &:active {
+    text-decoration: none;
+    border: 0 none;
+    box-shadow: none;
+  }
+
+  @include media-breakpoint-up(md) {
+    font-size: calc-font-size(16, 20);
+    line-height: calc-line-height(20, 24);
+    padding: calc-font-size(13, 16) calc-font-size(16, 32);
+    letter-spacing: calc-font-size(1.5, 5);
+    min-inline-size: rem(200);
+    min-block-size: rem(48);
+    outline-width: rem(3);
+
+
+    &.outline {
+      outline-offset: rem(-3);
+    }
+  }
+}
+
+.btn-dark {
+  @extend %btn-custom;
+  background-color: $clr-3c3;
+
+  &,
+  &:hover,
+  &:focus,
+  &:active {
+    color: $white;
+  }
+
+  &:hover {
+    background-color: darken($clr-3c3, 10%);
+  }
+
+  &.outline {
+    outline-color: $clr-3c3;
+
+    &,
+    &:hover,
+    &:focus,
+    &:active {
+      background-color: $white;
+      color: $clr-3c3;
+    }
+  }
+
+  &.outline-transparent {
+    outline-color: $clr-3c3;
+
+    &,
+    &:active {
+      background-color: transparent;
+      color: $clr-3c3;
+    }
+
+    &:hover,
+    &:focus {
+      background-color: $clr-3c3;
+      color: $white;
+    }
+  }
+}
+
+.btn-white {
+  @extend %btn-custom;
+
+  &,
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: $white;
+    color: $clr-3c3;
+  }
+
+  &.outline {
+    outline-color: $white;
+    background-color: transparent;
+    color: $white;
+
+    &:hover,
+    &:focus,
+    &:focus:not(:focus-visible) {
+      outline-color: $white;
+      background-color: $white;
+      color: $clr-3c3;
+    }
+  }
+}
+
+.btn-block {
+  width: 100%;
+  text-align: center;
+}
+
+button {
+  position: relative;
+  a {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+
+    &,
+    &:hover,
+    &:focus,
+    &:active {
+      border: 0 none;
+      outline: 0 none;
+      text-decoration: none;
+    }
+  }
+}

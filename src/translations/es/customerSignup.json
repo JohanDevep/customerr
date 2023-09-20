@@ -1,0 +1,35 @@
+{
+    "firstName": {
+        "text": "Nombre de pila"
+    },
+    "lastName": {
+        "text": "Apellido"
+    },
+    "email": {
+        "text": "Email"
+    },
+    "password": {
+        "text": "Contraseña"
+    },
+    "ConfirmPass": {
+        "text": "confirmar Contraseña"
+    },
+    "agreeTo": {
+        "text": "De acuerdo con nuestra"
+    },
+    "termsCondition": {
+        "text": "Términos y Condiciones,"
+    },
+    "privacyPolicy": {
+        "text": "Política de privacidad."
+    },
+    "signUp": {
+        "value": "Inscribirse"
+    },
+    "alreadyAccount": {
+        "text": "¿Ya tienes una cuenta?"
+    },
+    "login": {
+        "text": "acceso"
+    }
+}

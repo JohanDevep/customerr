@@ -1,0 +1,30 @@
+{
+    "dashboard": {
+        "text": "PANEL"
+    },
+    "beauty": {
+        "text": "BELLEZA"
+    },
+    "wellness": {
+        "text": "BIENESTAR"
+    },
+    "self-care": {
+        "text": "CUIDADOS PERSONALES"
+    },
+    "store": {
+        "text": "ALMACENAR"
+    },
+    "membership": {
+        "text": "AFILIACIÓN"
+    },
+    "loyalty": {
+        "text": "LEALTAD"
+    },
+    "help": {
+        "text": "Ayuda"
+    },
+    "ticket": {
+        "text": "ENTRADAS"
+    }
+
+}

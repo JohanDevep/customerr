@@ -1,0 +1,77 @@
+{
+    "faq": {
+        "text": "Preguntas Frecuentes"
+    },
+    "haveQuestion": {
+        "text": "¿TIENES ALGUNA PREGUNTA?"
+    },
+    "highQuality": {
+        "text": "ALTA CALIDAD"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICIOS DE BELLEZA ILIMITADOS"
+    },
+    "questions": {
+        "text": "¿DUDAS?"
+    },
+    "questionsPara": {
+        "text": "La página de preguntas frecuentes de Soins Karismä será el centro central en el que encontrarás las respuestas a las preguntas más frecuentes que hemos recibido. Si las respuestas enumeradas a continuación no son suficientes, o tu pregunta no está presente, le pedimos a nuestros clientes que accedan a la funcionalidad de chat en la parte inferior derecha o que se comuniquen con nosotros a través de la página de contacto. Nos esforzamos al máximo para responder a las preguntas de nuestros clientes con precisión y honestidad."
+    },
+    "shipping": {
+        "text": "ENVÍO"
+    },
+    "shippingPara": {
+        "text": "Envío gratis, condiciones de envío, retardo en el envío, Destinos de envío"
+    },
+    "payment&Security": {
+        "text": "PAGOS Y SEGURIDAD"
+    },
+    "payment&SecurityPara": {
+        "text": "Método de pago, seguridad"
+    },
+    "returnPolicy": {
+        "text": "DEVOLUCIONES"
+    },
+    "returnPolicyPara": {
+        "text": "Política de devolución, devolución para productos de salón"
+    },
+    "order": {
+        "text": "ORDEN"
+    },
+    "orderPara": {
+        "text": "Resumen de orden, Cancelar una orden, Problemas en el carrito de compra"
+    },
+    "subsPlans": {
+        "text": "SUSCRIPCIONES"
+    },
+    "subsPlansPara": {
+        "text": "Suscripciones, servicios, fecha de caducidad, confirmación de pago, ubicaciones, compra de suscripción"
+    },
+    "academy": {
+        "text": "ACADEMIA"
+    },
+    "academyPara": {
+        "text": "Requisitos, certificados, reembolso, contenido del curso, registro para Salones Soins Karismä"
+    },
+    "becomeSalon": {
+        "text": "CONVERTIRSE EN SALÓN"
+    },
+    "becomeSalonPara": {
+        "text": "Modelo de franquicia, tecnología, registro, recomendaciones"
+    },
+    "disputes&Claims": {
+        "text": "QUEJAS Y RECLAMOS"
+    },
+    "disputes&ClaimsPara": {
+        "text": "Quejas e información de contacto"
+    },
+    "careLineProducts": {
+        "text": "NUESTROS PRODUCTOS"
+    },
+    "careLineProductsPara": {
+        "text": "Información de empaque, tips y recomendaciones para productos"
+    },
+    "faqs": {
+        "text": "FAQS"
+    }
+}

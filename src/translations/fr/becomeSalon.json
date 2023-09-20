@@ -1,0 +1,113 @@
+{
+    "becomeSalon": {
+        "text": "Devenir un salon"
+    },
+    "allYouNeed": {
+        "text": "TOUT CE DONT VOUS AVEZ BESOIN !"
+    },
+    "highQuality": {
+        "text": "HAUTE QUALITÉ"
+    },
+    "vegan": {
+        "text": "VEGAN"
+    },
+    "crueltyFree": {
+        "text": "NON TESTÉ SUR LES ANIMAUX"
+    },
+    "becomeSoins": {
+        "text": "DEVENIR UN SOINS"
+    },
+    "karismaSalon": {
+        "text": "SALON KARISMÄ"
+    },
+    "karismaSalonPara": {
+        "text": "Pourquoi rejoindre Soins Karismä? Nous redéfinissons l'industrie de la beauté en autonomisant les professionnels et les consommateurs grâce à une technologie innovante et abordable. Nous sommes bien plus qu'une entreprise technologique. Soins Karismä représente la diversité culturelle, l'unité et l'empathie. Notre marque est unique pour le consommateur. Soins Karismä est entièrement connecté à sa communauté grâce à une technologie propriétaire créée par notre équipe. De plus, nous sommes une solution avancée offerte aux propriétaires de salons de soins de beauté souhaitant optimiser et réduire leurs opérations de gestion quotidiennes, obtenir une stabilité de la clientèle toute l'année et augmenter leurs revenus en utilisant notre nouveau modèle d'entreprise et notre technologie. Nous voulons que les propriétaires de salons se concentrent sur leur passion et leur force dans leur art, pendant que nous nous occupons du reste !"
+    },
+    "simplifiedManagment": {
+        "text": "GESTION SIMPLIFIÉE"
+    },
+    "simplifiedManagmentPara": {
+        "text": "Simplifiez et optimisez la gestion avec notre plateforme tout-en-un inspirée par les professionnels des salons et créée par des ingénieurs en programmation. Nous voulons que nos salons soient efficaces dans leurs opérations quotidiennes."
+    },
+    "optimize": {
+        "text": "OPTIMISER"
+    },
+    "simplify": {
+        "text": "SIMPLIFIER"
+    },
+    "clientAcquistion": {
+        "text": "ACQUISITION DE CLIENTS"
+    },
+    "retention": {
+        "text": "FIDÉLISATION"
+    },
+    "retentionPara": {
+        "text": "Soins Karismä aidera les salons à acquérir des clients et à assurer une satisfaction adéquate pour tous les clients. Nos clients sont précieux !"
+    },
+    "acquire": {
+        "text": "ACQUÉRIR"
+    },
+    "retain": {
+        "text": "FIDÉLISER"
+    },
+    "education": {
+        "text": "ÉDUCATION"
+    },
+    "community": {
+        "text": "COMMUNAUTÉ"
+    },
+    "communityPara": {
+        "text": "Rejoignez la communauté et la plateforme d'éducation pour vous plonger dans Soins Karismä. Nous sommes bien plus qu'une simple marque, nous sommes un groupe de personnes inspirant un changement positif."
+    },
+    "stayConnected": {
+        "text": "RESTEZ CONNECTÉ"
+    },
+    "name": {
+        "text": "nom"
+    },
+    "firstName": {
+        "text": "prénom"
+    },
+    "lastName": {
+        "text": "nom de famille"
+    },
+    "email": {
+        "text": "e-mail"
+    },
+    "otherEmail": {
+        "text": "autre e-mail"
+    },
+    "phone": {
+        "text": "téléphone"
+    },
+    "mobilePhone": {
+        "text": "téléphone mobile"
+    },
+    "howmanySalons": {
+        "text": "COMBIEN DE SALONS AVEZ-VOUS ?"
+    },
+    "describeSalon": {
+        "text": "DÉCRIVEZ VOTRE SALON"
+    },
+    "noOfChairs": {
+        "text": "Nombre de chaises"
+    },
+    "noOfEmployees": {
+        "text": "nombre d'employés"
+    },
+    "whatService": {
+        "text": "QUEL SERVICE FOURNISSEZ-VOUS?"
+    },
+    "whereLocated": {
+        "text": "OÙ ES-TU SITUÉ?"
+    },
+    "approxRevenue": {
+        "text": "ENVIRON. REVENU MENSUEL"
+    },
+    "inscription": {
+        "text": "une inscription"
+    },
+    "submit": {
+        "value": "Soumettre"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "payment&Security": {
+        "text": "Payments and Security"
+    },
+    "whatTypePayment": {
+        "text": "WHAT TYPES OF PAYMENT DOES SOINS KARISMÄ ACCEPT?"
+    },
+    "whatTypePaymentPara": {
+        "text": "We accept credit card payments via MasterCard, Visa, American Express, PayPal, Discover, Google Pay and Apple Pay."
+    },
+    "myCreditCard": {
+        "text": "WHEN WILL MY CREDIT CARD BE CHARGED"
+    },
+    "myCreditCardPara1": {
+        "text": "You will be charged when we ship your order."
+    },
+    "myCreditCardPara2": {
+        "text": "If your card transaction is approved, the total amount will be booked immediately and an order confirmation will be sent to the email address you provided. Your card will not be charged until we ship your order."
+    },
+    "myCreditCardPara3": {
+        "text": "If your card transaction is not approved, your order will be canceled. Please contact your bank or card provider if you have any questions about this."
+    },
+    "howDoesKarismaProtect": {
+        "text": "PROTECCIÓN DE DATOS DE PAGO"
+    },
+    "howDoesKarismaProtectPara": {
+        "text": "Todas las transacciones están cifradas para su seguridad. Soins Karismä garantiza que sus datos están seguros con nosotros. Toda la información se envía encriptada para garantizar la total seguridad de cualquier información confidencial. Más información en nuestra política de privacidad. No almacenamos la información de su tarjeta de crédito una vez realizado el pago."
+    }
+}

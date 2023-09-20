@@ -1,0 +1,28 @@
+{
+  "button":{
+    "back": "retour",
+    "continue": "Connexion",
+    "login": "Bienvenue",
+    "home": "domicile",
+    "apply": "appliquer",
+    "addCard": "ajouter carte"
+  },
+  "auth": {
+    "login": "Bienvenue",
+    "signup": "s'inscrire",
+    "haveAccount": "VOUS AVEZ DÉJÀ UN COMPTE?",
+    "noAccount": "N'ONT PAS DE COMPTE?",
+    "form": {
+      "firstName": "prénom",
+      "lastName": "nom de famille",
+      "email": "Courriel",
+      "password": "Mot de passe",
+      "address": "Adresse",
+      "country": "Pays",
+      "state": "Province",
+      "city": "Ville",
+      "postCode": "Code postal",
+      "phone": "Téléphone"
+    }
+  }
+}

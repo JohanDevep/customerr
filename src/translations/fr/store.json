@@ -1,0 +1,98 @@
+{
+    "store": {
+        "text": "Boutique"
+    },
+    "collInspiredByYou": {
+        "text": "COLLECTIONS INSPIRÉES PAR VOUS"
+    },
+    "highQuality": {
+        "text": "HAUTE QUALITÉ"
+    },
+    "vegan": {
+        "text": "VÉGÉTALIEN"
+    },
+    "crueltyFree": {
+        "text": "SANS CRUAUTÉ"
+    },
+    "repairCollection": {
+        "text": "COLLECTION RÉPARATRICE"
+    },
+    "purpleCollection": {
+        "text": "COLLECTION VIOLETTE"
+    },
+    "menCollection": {
+        "text": "COLLECTION HOMMES"
+    },
+    "collections": {
+        "text": "Collections"
+    },
+    "repairMask": {
+        "text": "MASQUE RÉPARATEUR"
+    },
+    "forHairTypes": {
+        "text": "POUR TOUS LES TYPES DE CHEVEUX"
+    },
+    "repairShampoo": {
+        "text": "SHAMPOING RÉPARATEUR"
+    },
+    "repairConditioner": {
+        "text": "REVITALISANT RÉPARATEUR"
+    },
+    "purpleMask": {
+        "text": "Masque violet"
+    },
+    "forLightGrayHair": {
+        "text": "POUR CHEVEUX BLANCS ET GRIS CLAIR"
+    },
+    "purpleConditioner": {
+        "text": "REVITALISANT VIOLET"
+    },
+    "purpleShampoo": {
+        "text": "SHAMPOOING VIOLET"
+    },
+    "shampoo": {
+        "text": "SHAMPOOING"
+    },
+    "forMen": {
+        "text": "POUR HOMMES"
+    },
+    "showerGel": {
+        "text": "GEL DE DOUCHE"
+    },
+    "pomade": {
+        "text": "POMMADE"
+    },
+    "hairSerum": {
+        "text": "SÉRUM CAPILLAIRE"
+    },
+    "marulaOil": {
+        "text": "HUILE DE MARULA"
+    },
+    "leaveIn": {
+        "text": "SOIN SANS RINCAGE"
+    },
+    "conditioner": {
+        "text": "REVITALISANT"
+    },
+    "products": {
+        "text": "Produits"
+    },
+    "soinsKarisma": {
+        "text": "SOINS KARISMÄ"
+    },
+    "tShirt": {
+        "text": "T-SHIRT"
+    },
+    "hoodie": {
+        "text": "SWEAT À CAPUCHE"
+    },
+    "bottle": {
+        "text": "BOUTEILLE"
+    },
+    "noteBook": {
+        "text": "CAHIER"
+    },
+    "merch": {
+        "text": "Produits dérivés"
+    }
+}

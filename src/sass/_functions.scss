@@ -1,0 +1,104 @@
+//$data-gap-list: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 25, 30, 35, 40, 45, 50,
+//  55, 60, 65, 70, 75, 80, 85, 90, 95, 100;
+
+
+$data-gap-list: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15, 18, 20, 25, 30, 35, 40, 45, 50,
+55, 60, 65, 70, 75, 80, 85, 90, 95, 100;
+
+$grid-width: 50, 100, 150, 200, 250, 300, 350, 400, 450, 500;
+$grid-cols: 1,2,3,4,5,6,7,8,9,10,11,12;
+
+
+@each $item in $data-gap-list {
+  [data-flex-gap="#{$item}"] {
+    --item-flex-gap: #{$item}px;
+  }
+}
+
+@each $data-item in $grid-width {
+  [grid-min-width="#{$data-item}"] {
+    --grid-item-min-width: calc(#{$data-item}px - var(--item-gap));
+  }
+}
+
+@each $item in $grid-cols {
+  [grid-max-col="#{$item}"] {
+    --max-cols: #{$item};
+  }
+}
+
+@each $item in $data-gap-list {
+  [data-gap="#{$item}"] {
+    --item-gap: #{$item}px;
+  }
+
+  [data-gap-v="#{$item}"] {
+    row-gap: #{$item}px !important;
+  }
+
+  @if ($item > 15) {
+    [data-size="#{$item}"] {
+      --size: #{$item}px;
+    }
+
+    [data-button-height="#{$item}"] {
+      --button-height: #{$item}px;
+    }
+  }
+
+  .left-#{$item} {
+    left: #{$item}px;
+  }
+
+  .right-#{$item} {
+    right: #{$item}px;
+  }
+
+  .border-radius-#{$item} {
+    border-radius: #{$item}px;
+  }
+}
+
+$grid-width: 50, 100, 150, 200, 250, 300, 350, 400, 450, 500;
+
+@each $data-item in $grid-width {
+  [grid-item-width="#{$data-item}"] {
+    --grid-item-width: calc(#{$data-item}px - var(--item-gap));
+  }
+}
+
+[gap-type="mb"] {
+  margin-bottom: var(--item-gap);
+}
+
+[gap-type="mt"] {
+  margin-top: var(--item-gap);
+}
+
+[gap-type="pb"] {
+  padding-bottom: var(--item-gap);
+}
+
+[gap-type="pt"] {
+  padding-top: var(--item-gap);
+}
+
+[gap-type="button-height"] {
+  --button-height: var(--item-gap);
+}
+
+
+$spaceamounts: (0, 3, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 75, 80, 90, 100);
+$sides: (top, bottom, left, right);
+
+@each $space in $spaceamounts {
+  @each $side in $sides {
+    .margin-#{str-slice($side, 0, 1)}-#{$space} {
+      margin-#{$side}: #{$space}px !important;
+    }
+  
+    .padding-#{str-slice($side, 0, 1)}-#{$space} {
+      padding-#{$side}: #{$space}px !important;
+    }
+  }
+}

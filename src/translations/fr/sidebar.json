@@ -1,0 +1,30 @@
+{
+    "dashboard": {
+        "text": "TABLEAU DE BORD"
+    },
+    "beauty": {
+        "text": "BEAUTÉ"
+    },
+    "wellness": {
+        "text": "BIEN-ÊTRE"
+    },
+    "self-care": {
+        "text": "SOINS AUTO-ADMINISTRÉS"
+    },
+    "store": {
+        "text": "MAGASIN"
+    },
+    "membership": {
+        "text": "ADHÉSION"
+    },
+    "loyalty": {
+        "text": "LOYAUTÉ"
+    },
+    "help": {
+        "text": "Aider"
+    },
+    "ticket": {
+        "text": "DES BILLETS"
+    }
+
+}

@@ -1,0 +1,63 @@
+{
+    "affiliate": {
+        "text": "Afiliarse"
+    },
+    "tellOther": {
+        "text": "COMPARTE CON OTROS Y COMISIONA"
+    },
+    "highQuality": {
+        "text": "ALTA CALIDAD"
+    },
+    "vegan": {
+        "text": "VEGANO"
+    },
+    "crueltyFree": {
+        "text": "LIBRE DE CRUELDAD"
+    },
+    "itPretty": {
+        "text": "FÁCIL Y RÁPIDO"
+    },
+    "itPrettyPara": {
+        "text": "Gana dinero extra con el programa de afiliados Soins Karismä. Obtén comisión vendiendo productos al contarle a otros sobre nuestra marca. ¡Empezar es muy fácil! Solo necesitas tener la mejor energía mientras haces lo que te gusta: hablar de belleza."
+    },
+    "15Commission": {
+        "text": "ESTRUCTURA DE COMISIÓN DE HASTA 15%"
+    },
+    "exclusiveAccess": {
+        "text": "ACCESO EXCLUSIVO A NUEVOS PRODUCTOS Y PROMOCIONES"
+    },
+    "accessBanners": {
+        "text": "ACCESO A BANNERS Y MATERIAL CREATIVO"
+    },
+    "itsFreeJoin": {
+        "text": "UNIRTE ES GRATIS"
+    },
+    "itsFreeJoinPara": {
+        "text": "Solo debes completar el formulario de registro. Te contactaremos pronto."
+    },
+    "name": {
+        "text": "NOMBRE"
+    },
+    "lastName": {
+        "text": "APELLIDO"
+    },
+    "phone": {
+        "text": "TELÉFONO"
+    },
+    "email": {
+        "text": "EMAIL"
+    },
+    "city": {
+        "text": "CIUDAD"
+    },
+    "DOB": {
+        "text": "FECHA DE NACIMIENTO"
+    },
+    "message": {
+        "text": "MENSAJE"
+    },
+    "submit": {
+        "value": "ENVIAR"
+    }
+}
+    

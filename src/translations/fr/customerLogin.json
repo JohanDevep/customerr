@@ -1,0 +1,29 @@
+{
+    "email": {
+        "text": "E-mail"
+    },
+    "password": {
+        "text": "Mot de passe"
+    },
+    "forgotPass": {
+        "text": "Mot de passe oublié"
+    },
+    "login": {
+        "value": "Connexion"
+    },
+    "dontHaveAcc": {
+        "text": "Vous n'avez pas de compte ?"
+    },
+    "signup": {
+        "text": "S'inscrire"
+    },
+    "bySigning": {
+        "text": "En vous inscrivant, vous acceptez nos"
+    },
+    "termsCondition": {
+        "text": "Termes et conditions,"
+    },
+    "privacyPolicy": {
+        "text": "Politique de confidentialité."
+    }
+}

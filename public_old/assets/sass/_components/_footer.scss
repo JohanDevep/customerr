@@ -1,0 +1,393 @@
+.site-footer {
+  color: $white;
+}
+
+//Content Area
+.footer-content {
+  background-color: $clr-3c3;
+  padding-block: rem(63) rem(70);
+
+  @include media-breakpoint-up(md) {
+    padding-block: rem(88) rem(52);
+  }
+}
+
+.col-left {
+  border-block-end: rem(3) solid $white;
+  padding-block-end: rem(40);
+  margin-block-end: rem(40);
+
+  .col {
+    .footer-block {
+      &:nth-child(n + 2) {
+        margin-block-start: rem(40);
+      }
+    }
+  }
+
+  @include media-breakpoint-down(md) {
+    max-inline-size: rem(300);
+    margin-inline: auto;
+
+    .col:nth-child(n + 3) .footer-block { margin-block-start: rem(61) }
+  }
+
+  @include media-breakpoint-up(lg) {
+    padding-block-end: 0;
+    margin-block-end: 0;
+    border-block-end: 0 none;
+    border-inline-end: rem(3) solid $white;
+  }
+
+  @include media-breakpoint-down(xl) {
+    .col {
+      &:nth-child(n + 3) {
+        .footer-block {
+          margin-block-start: rem(40);
+        }
+      }
+    }
+  }
+
+  @include media-breakpoint-up(x3l) {
+    > .row {
+      margin-inline: 0;
+      justify-content: flex-start;
+      padding-inline-end: rem(68);
+    }
+    .col {
+      padding-inline: 0;
+      max-inline-size: initial;
+      white-space: nowrap;
+      width: initial;
+
+      &:nth-child(2) {
+        padding-inline-start: rem(75);
+      }
+      &:nth-child(3) {
+        padding-inline-start: rem(50);
+      }
+      &:nth-last-child(2) {
+        padding-inline-start: rem(90);
+      }
+    }
+  }
+}
+
+.footer-block {
+  &-title {
+    margin-block-end: rem(23);
+    font-weight: $fw-bold;
+    text-transform: uppercase;
+    font-size: calc-font-size(12, 20);
+    line-height: rem(14);
+    letter-spacing: calc-font-size(3.6, 6);
+  }
+
+  &-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: rem(20);
+
+    li {
+      margin: 0;
+      padding: 0;
+      line-height: 1;
+    }
+
+    a {
+      color: $white;
+      font-weight: $fw-sbold;
+      font-size: calc-font-size(10, 16);
+      letter-spacing: calc-font-size(.5, .8);
+
+      &,
+      &:focus,
+      &:hover,
+      &:focus {
+        text-decoration: none;
+      }
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    &-title {
+      margin-block-end: rem(38);
+      line-height: calc-line-height(20, 30);
+    }
+
+    &-list {
+      gap: rem(9);
+    }
+  }
+}
+
+
+//Subscription Form Area
+.footer-subscription-wrapper {
+  max-inline-size: rem(225);
+  margin-inline: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  .footer-logo {
+    max-inline-size: 61.2%;
+    display: block;
+    margin-inline: auto;
+  }
+
+  .logo-helper {
+    text-align: center;
+    margin-block: rem(25) rem(6);
+    letter-spacing: calc-font-size(4.8, 6);
+    font-weight: $fw-bold;
+  }
+
+  .form-helper {
+    letter-spacing: .6px;
+    margin-block-end: rem(17);
+    text-align: center;
+  }
+
+  .subscription-form {
+    display: flex;
+    align-items: center;
+
+    .form-control,
+    .form-cta {
+      block-size: rem(35);
+      flex: 1;
+    }
+
+    .form-control {
+      inline-size: 100%;
+      background-color: $black;
+      color: $white;
+      padding-inline: rem(16);
+
+      &,
+      &:focus {
+        border: 0 none;
+        box-shadow: none;
+      }
+    }
+
+    .form-group {
+      inline-size: calc(100% - #{rem(45)});
+    }
+
+    .form-cta {
+      background-color: $white;
+      font-size: rem(25);
+      max-inline-size: rem(35);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+
+      .icon {
+        color: $clr-535;
+
+        [dir='rtl'] & {
+          transform: rotate(180deg);
+        }
+      }
+
+      &,
+      &:focus,
+      &:hover,
+      &:focus {
+        border: 0 none;
+        box-shadow: none;
+      }
+    }
+  }
+
+  .list-inline {
+    margin-block: rem(30) 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: rem(45);
+
+    a {
+      font-size: calc-font-size(19, 20);
+      color: $white;
+
+      &,
+      &:focus,
+      &:hover,
+      &:focus {
+        text-decoration: none;
+      }
+    }
+
+    &,
+    .icon {
+      line-height: 1;
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    inline-size: 80%;
+    max-inline-size: rem(425);
+
+    .subscription-form {
+      .form-control,
+      .form-cta {
+        block-size: rem(52);
+      }
+
+      .form-cta {
+        font-size: rem(43);
+        max-inline-size: initial;
+      }
+
+      .form-group {
+        inline-size: calc(100% - #{rem(55)});
+      }
+    }
+
+    .logo-helper {
+      margin-block: rem(3) rem(22);
+    }
+
+    .form-helper {
+      text-align: start;
+      margin-block-end: rem(5);
+    }
+
+    .list-inline {
+      margin-block: rem(26) 0;
+      gap: rem(50);
+    }
+  }
+}
+
+//Copyright Area
+.footer-copyright {
+  background-color: $black;
+  min-block-size: rem(88);
+  padding-block: rem(23);
+  text-transform: uppercase;
+
+  p {
+    font-size: calc-font-size(9, 16);
+    letter-spacing: calc-font-size(.45, .8);
+    font-weight: $fw-bold;
+    text-align: center;
+    margin-block-end: rem(5);
+  }
+
+  &-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  .list-footer-icons {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    gap: rem(13);
+    font-size: calc-font-size(16, 25);
+
+    .icon-google-pay,
+    .icon-apple-pay {
+      font-size: calc-font-size(12, 25);
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    padding-block: rem(29) rem(23);
+    .list-footer-icons {
+      gap: rem(20);
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    p {
+      margin-block: 0;
+      text-align: start;
+    }
+
+    &-wrapper {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      gap: rem(30);
+    }
+  }
+}
+
+//Secondary Layout Footer
+.footer-secondary {
+  &-content {
+    background-color: $clr-3c3;
+    padding-block: rem(15);
+    display: flex;
+    align-items: center;
+
+    .container {
+      position: relative;
+    }
+  }
+
+  &-col-center,
+  &-logo-container {
+    text-align: center;
+  }
+
+  &-logo-container {
+    max-inline-size: rem(120);
+    margin-inline: auto;
+    img {
+      max-inline-size: 100%;
+    }
+  }
+
+  &-col-end {
+    font-size: calc-font-size(10, 15);
+    line-height: calc-line-height(15, 18);
+    letter-spacing: .45px;
+    font-weight: $fw-light;
+    margin-block-start: rem(15);
+    text-align: center;
+
+    p { margin-block: 0; }
+  }
+
+  @include media-breakpoint-up(md) {
+    &-content {
+      min-block-size: rem(125);
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    &-logo-container {
+      max-inline-size: rem(210);
+    }
+
+    &-col-end {
+      position: absolute;
+      inset-inline-end: 0;
+      inset-block-start: 50%;
+      transform: translateY(-50%);
+      margin-block: 0;
+    }
+  }
+
+  @include media-breakpoint-up(xxl) {
+    &-logo-container {
+      max-inline-size: rem(245);
+    }
+  }
+}

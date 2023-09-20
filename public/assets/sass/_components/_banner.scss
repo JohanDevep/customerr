@@ -1,0 +1,272 @@
+.page-banner {
+  overflow: hidden;
+  position: relative;
+
+  &-visual {
+    display: flex;
+    align-items: flex-end;
+    block-size: auto;
+    //min-block-size: rem(320);
+
+    .container {
+      position: relative;
+      block-size: 100%;
+      display: flex;
+      align-items: flex-end;
+
+      img {
+        max-block-size: 95%;
+        max-inline-size: 95%;
+        inline-size: auto;
+        margin-inline-start: 5%;
+      }
+    }
+
+    .mobile-hidden {
+      @include media-breakpoint-down(md) {
+        display: none;
+      }
+    }
+
+    .desktop-hidden {
+      @include media-breakpoint-up(md) {
+        display: none;
+      }
+    }
+  }
+
+  &-title,
+  &-excerpt {
+    color: $white;
+  }
+
+  &-title {
+    font-family: $font-secondary;
+    font-style: italic;
+    text-transform: capitalize;
+    font-size: calc-font-size(31, 187);
+    line-height: 1.333;
+
+    &.sm {
+      font-size: calc-font-size(31, 165);
+    }
+  }
+
+  &-excerpt {
+    font-weight: $fw-light;
+    text-transform: uppercase;
+    text-shadow: 0 rem(3) rem(6) rgba($white, .29);
+    font-size: calc-font-size(18, 39);
+    letter-spacing: rem(1);
+  }
+
+  &-strip {
+    flex-grow: 1;
+    background-color: $clr-3c3;
+  }
+
+  &-strip-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    gap: rem(15);
+    font-size: calc-font-size(9, 27);
+    letter-spacing: rem(1);
+    color: $white;
+    text-transform: uppercase;
+
+    li {
+      padding-block: rem(11);
+      border-block: rem(5) solid transparent;
+
+      &.active {
+        border-block-end-color: $white;
+      }
+    }
+
+  }
+
+  .header-block {
+    margin-inline-start: auto;
+    display: inline-flex;
+    flex-direction: column;
+
+    button {
+      margin-inline: auto;
+    }
+
+    .page-banner-title {
+      font-size: calc-font-size(60, 213);
+      line-height: calc-line-height(213, 283);
+    }
+
+    .page-banner-excerpt {
+      font-size: calc-font-size(34, 46);
+      line-height: 1.2;
+      letter-spacing: calc-font-size(2, 13);
+    }
+  }
+
+  &.home-banner {
+    .page-banner-visual {
+      position: relative;
+
+      &:before {
+        content: '';
+        position: absolute;
+        inset-inline-start: 71%;
+        inset-block-end: 55%;
+        z-index: 2;
+        inline-size: rem(906);
+        block-size: rem(906);
+        border: rem(5) solid rgba($white, .27);
+        border-radius: 50%;
+      }
+
+      .container {
+        overflow: hidden;
+
+        img {
+          margin-inline-start: 0;
+          max-block-size: 114%;
+          position: relative;
+          inset-block-start: 9.4%;
+        }
+      }
+    }
+  }
+
+  &.tc-banner {
+    .page-banner-title {
+      font-size: calc-font-size(31, 155);
+    }
+  }
+
+  &.our-salons-banner {
+    .page-banner-title {
+      font-size: calc-font-size(31, 175);
+    }
+  }
+
+  @include media-breakpoint-down(md) {
+    &-header {
+      inline-size: 100%;
+    }
+
+    &-strip {
+      &.scrollable {
+        .container {
+          overflow: hidden;
+        }
+
+        .page-banner-strip-list {
+          justify-content: space-between;
+          overflow-x: auto;
+          white-space: nowrap;
+        }
+      }
+    }
+
+    &-strip-list {
+      letter-spacing: rem(2.7);
+
+      li {
+        padding-block: rem(9);
+      }
+    }
+
+    &.home-banner {
+      .page-banner-visual {
+        min-block-size: rem(480);
+      }
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    max-block-size: rem(1075);
+
+    &-header {
+      position: absolute;
+      inset-inline: 0;
+      inset-block: auto 20%;
+      z-index: 2;
+
+      .container {
+        padding-inline-start: 5%;
+      }
+    }
+
+    &-excerpt {
+      //padding-inline-start: 5%;
+      letter-spacing: rem(3);
+    }
+
+    &-visual {
+      min-block-size: rem(440);
+    }
+
+    .header-block {
+      float: right;
+      align-items: center;
+
+      button {
+        margin-block-start: rem(25);
+      }
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    display: flex;
+    flex-direction: column;
+    block-size: 100vh;
+
+    &-excerpt {
+      letter-spacing: rem(5);
+    }
+
+    &-visual {
+      block-size: 90.884%;
+    }
+
+    &-strip {
+      min-block-size: 9.116%;
+      display: flex;
+      align-items: center;
+
+      &.block-vh {
+        min-block-size: 9.116vh;
+        align-items: stretch;
+
+        ul,
+        li {
+          block-size: 100%;
+        }
+
+        li {
+          display: flex;
+          align-items: center;
+          padding-block: 0;
+
+          span {
+            display: inline-flex;
+            align-items: center;
+            block-size: 100%;
+          }
+        }
+      }
+    }
+
+    &-strip-list {
+      letter-spacing: rem(3);
+    }
+  }
+
+  @include media-breakpoint-up(xxl) {
+    &-excerpt,
+    &-strip-list {
+      letter-spacing: rem(8);
+    }
+  }
+}

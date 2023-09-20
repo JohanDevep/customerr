@@ -1,0 +1,202 @@
+.our-office {
+  &-top-section {
+    .htu-banner-title-strong { text-transform: capitalize; }
+  }
+
+  &-bottom-card {
+    background-color: $clr-3c3;
+    padding: rem(60) 5.3%;
+    position: relative;
+    inset-block-start: rem(-50);
+  }
+
+  @include media-breakpoint-up(md) {
+    &-bottom-card {
+      inset-block-start: rem(-100);
+    }
+  }
+
+  @include media-breakpoint-up(xxl) {
+    &-bottom-card {
+      inset-block-start: rem(-200);
+    }
+  }
+}
+
+.map-container {
+  height: 100%;
+
+  @include media-breakpoint-down(lg) {
+    block-size: rem(300);
+  }
+}
+
+.col-map-info {
+  @include media-breakpoint-up(lg) {
+    order: 2;
+  }
+}
+
+.map-info {
+  &-container {
+    color: $white;
+    padding-block-end: rem(50);
+  }
+
+  &-title {
+    font-weight: $fw-bold;
+    font-size: calc-font-size(16, 35);
+    line-height: calc-font-size(19, 42);
+    letter-spacing: calc-font-size(4.8, 10.5);
+    padding-block: rem(26) rem(40);
+    margin-block: rem(15) 0;
+    text-transform: uppercase;
+    position: relative;
+
+    &:before {
+      content: '';
+      inline-size: rem(48);
+      block-size: rem(4);
+      background-color: $white;
+      border-radius: rem(50);
+      position: absolute;
+      inset-inline-start: 0;
+      inset-block-start: 0;
+    }
+  }
+
+  &-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: rem(25);
+    font-weight: $fw-light;
+    font-size: calc-font-size(12, 20);
+    line-height: calc-font-size(18, 24);
+
+    .icon {
+      font-size: calc-font-size(12, 30);
+      line-height: 1;
+    }
+
+    li {
+      display: flex;
+      gap: rem(35);
+      align-items: flex-start;
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    &-container {
+      padding-inline-start: 10%;
+    }
+  }
+}
+
+
+.black-card-contact-us {
+
+  .black-card-social-impact {
+    &-item {
+      padding-block: rem(53) rem(43);
+    }
+
+    &-icon {
+      font-size: calc-font-size(22, 46);
+    }
+
+    &-title {
+      padding-block-end: 0;
+      margin-block: rem(24) rem(5);
+      font-size: calc-font-size(16, 30);
+    }
+
+    &-btn {
+      margin-block-end: 0;
+    }
+  }
+}
+
+.contact-us-section-white {
+  .section-white-wrapper {
+    padding-block-end: rem(90);
+  }
+}
+
+
+@include media-breakpoint-down(md) {
+  .contact-us-section-white .section-white-wrapper {
+    padding-block: rem(43) rem(80);
+  }
+
+  .black-card-contact-us {
+    .black-card-wrapper {
+      background: linear-gradient(to bottom, $white 0, $white #{rem(90)}, $clr-f0e #{rem(90)}, $clr-f0e 100%);
+
+      .black-card-grid {
+        @include borderedSection;
+
+        &:before,
+        &:after {
+          inset-block: rem(90) 0;
+        }
+      }
+    }
+
+    .black-card-social-impact {
+      &-item {
+        padding-block: rem(26) rem(20);
+      }
+
+      &-title {
+        margin-block-start: rem(12);
+        padding-block-start: rem(18);
+        letter-spacing: rem(4.8);
+
+        &:before { inline-size: rem(23); }
+      }
+
+      &-text { font-size: rem(12); }
+
+      &-btn {
+        font-size: rem(13);
+        letter-spacing: rem(3.25);
+        padding: rem(6) rem(11)
+      }
+    }
+  }
+
+  .site-form-wrapper.contact-us-form-wrapper { padding-block: rem(40); }
+
+  .our-office-bottom-card {
+    padding-inline: rem(16);
+    padding-block: rem(20) rem(37);
+
+    > .row {
+      flex-direction: column-reverse;
+    }
+
+    .map-info-container {
+      padding-block: rem(25) 0;
+      padding-inline-start: rem(38);
+    }
+
+    .map-info-title {
+      margin-block-start: 0;
+      padding-block-end: rem(17);
+    }
+
+    .map-info-list {
+      gap: rem(11);
+
+      li { gap: rem(8); }
+
+      .icon {
+        display: inline-block;
+        margin-block-start: rem(4);
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "4Hours": {
+        "text": "hace 4 horas"
+    },
+    "address": {
+        "text": "Montreal, Quebec, Canada"
+    },
+    "coiffeuse": {
+        "text": "Coiffeuse"
+    },
+    "fullTime": {
+        "text": "Tiempo completo"
+    },
+    "60CAD": {
+        "text": "60 CAD/ Mes"
+    },
+    "noExperience": {
+        "text": "No se necesita experiencia"
+    },
+    "apply": {
+        "text": "Aplicar"
+    },
+    "applyPara": {
+        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor"
+    },
+    "loremHeading": {
+        "text": "Lorem ipsum dolor sit amet"
+    },
+    "loremHeadingPara": {
+        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor"
+    }
+}

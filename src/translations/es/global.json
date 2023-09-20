@@ -1,0 +1,28 @@
+{
+  "button":{
+    "back": "atrás",
+    "continue": "continuar",
+    "login": "Bienvenido",
+    "home": "página de inicio",
+    "apply": "aplicar",
+    "addCard": "añadir tarjeta"
+  },
+  "auth": {
+    "login": "Bienvenido",
+    "signup": "inscribirse",
+    "haveAccount": "YA TIENES UNA CUENTA?",
+    "noAccount": "NO TENGO UNA CUENTA?",
+    "form": {
+      "firstName": "nombre de pila",
+      "lastName": "apellido",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "address": "Dirección",
+      "country": "País",
+      "state": "Provincia",
+      "city": "Ciudad",
+      "postCode": "Código postal",
+      "phone": "Teléfono"
+    }
+  }
+}

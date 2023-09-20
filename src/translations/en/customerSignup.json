@@ -1,0 +1,38 @@
+{
+    "firstName": {
+        "text": "First Name"
+    },
+    "lastName": {
+        "text": "Last Name"
+    },
+    "email": {
+        "text": "Email"
+    },
+    "password": {
+        "text": "Password"
+    },
+    "ConfirmPass": {
+        "text": "Confirm Password"
+    },
+    "PhoneNumber": {
+        "text": "Mobile Number"
+    },
+    "agreeTo": {
+        "text": "Agree to our"
+    },
+    "termsCondition": {
+        "text": "Terms & Condition,"
+    },
+    "privacyPolicy": {
+        "text": "Privacy Policy."
+    },
+    "signUp": {
+        "value": "Sign Up"
+    },
+    "alreadyAccount": {
+        "text": "Already have an account?"
+    },
+    "login": {
+        "text": "Login"
+    }
+}

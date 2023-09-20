@@ -1,0 +1,30 @@
+{
+    "dashboard": {
+        "text": "DASHBOARD"
+    },
+    "beauty": {
+        "text": "BEAUTY"
+    },
+    "wellness": {
+        "text": "WELLNESS"
+    },
+    "self-care": {
+        "text": "SELF-CARE"
+    },
+    "store": {
+        "text": "STORE"
+    },
+    "membership": {
+        "text": "MEMBERSHIP"
+    },
+    "loyalty": {
+        "text": "LOYALTY"
+    },
+    "help": {
+        "text": "Help"
+    },
+    "ticket": {
+        "text": "TICKETS"
+    }
+
+}

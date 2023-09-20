@@ -1,0 +1,29 @@
+{
+    "order": {
+        "text": "Orden"
+    },
+    "howCanReview": {
+        "text": "¿CÓMO PUEDO REVISAR MIS ÓRDENES?"
+    },
+    "howCanReviewPara": {
+        "text": "Una vez realices un pedido, puedes revisar el estado en cualquier momento usando tu cuenta. Para ver el historial de las órdenes, ve a tu cuenta y selecciona el historial. Esta funcionalidad te permitirá revisar todas las órdenes generadas con Soins Karismä, incluyendo los códigos de confirmación"
+    },
+    "howChangeOrder": {
+        "text": "¿CÓMO PUEDO CAMBIAR O CANCELAR UNA ORDEN?"
+    },
+    "howChangeOrderPara": {
+        "text": "Si la orden está siendo procesada, no se puede cancelar."
+    },
+    "howKnowReceived": {
+        "text": "¿CÓMO SÉ SI MI ORDEN FUE RECIBIDA?"
+    },
+    "howKnowReceivedPara": {
+        "text": "Una confirmación de orden aparecerá al finalizar el proceso de compra. Posteriormente, recibirás un email de confirmación con el número de orden y el resumen de tu compra. Si no recibes la confirmación, verifica el spam de tu correo. En caso de no recibir la confirmación, por favor envíanos un correo a help@soisnkarisma.com"
+    },
+    "canYouWrapGift": {
+        "text": "¿PUEDEN EMPACAR LOS REGALOS POR MI?"
+    },
+    "canYouWrapGiftPara": {
+        "text": "En este momento no ofrecemos el servicio de empaque de regalo para los paquetes."
+    }
+}

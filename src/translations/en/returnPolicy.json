@@ -1,0 +1,38 @@
+{
+    "returnPolicy": {
+        "text": "Return Policy"
+    },
+    "haveQuestion": {
+        "text": "HAVE ANY QUESTIONS?"
+    },
+    "highQuality": {
+        "text": "HIGH QUALITY"
+    },
+    "unlimitBeautyServ": {
+        "text": "UNLIMITED BEAUTY SERVICES"
+    },
+    "overview": {
+        "text": "Overview"
+    },
+    "overviewPara1": {
+        "text": "If you are not completely satisfied with your purchase at Soinskarisma.com, please contact our customer service department at help@soinskarisma.com (Mon-Fri 9am-3pm Eastern Time) and return the purchased products within 30 days of delivery. We will be happy to credit your account for the amount of the purchase. Return shipping charges are not included."
+    },
+    "overviewPara2": {
+        "text": "To return an order to sender, please send your contact information, order number and reason to help@soinskarisma.com. Please send the product(s) in question, by Canada Post with Expedited Parcel Service, with signature, to the address below:"
+    },
+    "overviewPara3": {
+        "text": " Address: Soins Karismä- Département des retours 200-249 rue St-Jacques Montréal, Québec H2Y 1M6"
+    },
+    "overviewBoldPara": {
+        "text": "All returns will be made and sent within 7 to 10 days."
+    },
+    "overviewPara4": {
+        "text": "For your protection and to ensure prompt delivery, we recommend that you send your return via Canada Post and only return products unopened and in their original condition. We are sorry, but return shipping costs are not refundable."
+    },
+    "overviewPara5": {
+        "text": "If your package was damaged when you received it and its contents were unusable, we ask that you keep the products, as well as the packaging in which they were found, and notify us immediately at info@hellokarisma.com by sending us your contact information, the order number and a photo of the damaged package (Monday to Friday from 9am to 3pm, Eastern time). The shipping company will be notified immediately and Soins Karismä will gladly replace the damaged products."
+    },
+    "overviewPara6": {
+        "text": " We are sorry, but returns or exchanges for purchases made at a Soins Karismä retail store or other point of sale cannot be returned to carekarisma.com. If the item you wish to return was not purchased at soinskarisma.com, we recommend that you go to the place of purchase for any claim or refund. If you are unable to return to the place of purchase, please contact our Consumer Advice Center at info@hellokarisma.com (Mon-Fri 9am-3pm EST)."
+    }
+}

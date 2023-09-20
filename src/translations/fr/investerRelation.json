@@ -1,0 +1,110 @@
+{
+    "investRelation": {
+        "text": "Investors"
+    },
+    "redefineBeauty": {
+        "text": "REDÉFINIR LA BEAUTÉ"
+    },
+    "highQuality" : {
+        "text" : "HAUTE QUALITÉ"
+    },
+    "unlimitBeautyServ" : {
+        "text" : "SERVICES DE BEAUTÉ ILLIMITÉS"
+    },
+    "ourMission" : {
+        "text" : "NOTRE MISSION"
+    },
+    "ourMissionPara1" : {
+        "text" : "Notre engagement est de créer un monde meilleur où chacun peut faire l'expérience du pouvoir illimité de la beauté. Notre objectif est de nous développer et d'avoir un impact sur les communautés du monde entier en tant que leader de la technologie et de l'industrie de la beauté."
+    },
+    "ourMissionPara2" : {
+        "text" : "Lettre de notre PDG, Yannick Savage"
+    },
+    "diversityInclusion" : {
+        "text" : "DIVERSITÉ ET INCLUSION"
+    },
+    "diversityInclusionPara" : {
+        "text" : "Notre modèle communique la beauté comme un langage universel pour tous, notre personnel interne reflète la diversité d'une équipe multiculturelle qui respecte leurs droits et leurs cultures."
+    },
+    "accessibility" : {
+        "text": "ACCESSIBILITÉ"
+    },
+    "accessibilityPara" : {
+        "text" : "Nous nous engageons à créer des technologies qui peuvent être utilisées par tous, quelles que soient leurs limitations. Nous construisons nos ressources à partir de l'accessibilité et de la liberté."
+    },
+    "privacy": {
+        "text": "PRIVACY"
+    },
+    "privacyPara": {
+        "text": "Nous avons renforcé notre politique de confidentialité et de sécurité afin de garantir que le traitement des données personnelles de nos membres est effectué de manière éthique et prudente."
+    },
+    "latestNews" : {
+        "text" : "Dernières nouvelles"
+    },
+    "date1": {
+        "text": "18 avril 2023"
+    },
+    "soinsKarisma1": {
+        "text": "Soins Karismä annonce des dates d'ouverture pour DDO et Gatineau"
+    },
+    "readMore" : {
+        "value" : "Lire la suite"
+    },
+    "date2" : {
+        "text" : "5 avril 2023"
+    },
+    "soinsKarisma2" : {
+        "text" : "Soins Karismä annonce un plan d'optimisation du personnel"
+    },
+    "date3" : {
+        "text" : "30 mars 2023"
+    },
+    "soinsKarisma3" : {
+        "text" : "Soins Karismä annonce ses résultats financiers pour le premier trimestre 2023"
+    },
+    "viewAll": {
+        "value": "VOIR PLUS"
+    },
+    "financial": {
+        "text": "FINANCIAL"
+    },
+    "year1": {
+        "text": "2021"
+    },
+    "year2": {
+        "text": "2022"
+    },
+    "year3": {
+        "text": "2023"
+    },
+    "year4": {
+        "text": "2024"
+    },
+    "downloadView": {
+        "text": "Télécharger/visualiser"
+    },
+    "q1": {
+        "text": "Q1"
+    },
+    "presentation": {
+        "text": "Presentation"
+    },
+    "supplimentInfo": {
+        "text": "Informations complémentaires"
+    },
+    "webCast": {
+        "text": "Webcast"
+    },
+    "pressRelease": {
+        "text": "Presse"
+    },
+    "q2": {
+        "text": "Q2"
+    },
+    "q3": {
+        "text": "Q3"
+    },
+    "q4": {
+        "text": "Q4"
+    }
+}

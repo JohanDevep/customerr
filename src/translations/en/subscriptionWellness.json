@@ -1,0 +1,215 @@
+{
+    "reviews": {
+        "text": "(120 REVIEWS)"
+    },
+    "unlimitedWellness": {
+        "text": "Unlimited Wellness"
+    },
+    "subscriptionPlan": {
+        "text": "SUBSCRIPTION PLAN"
+    },
+    "Price": {
+        "text": "$500.00"
+    },
+    "comingSoon": {
+        "text": "COMING SOON"
+    },
+    "benefits": {
+        "value": "BENEFITS"
+    },
+    "completeWellness": {
+        "text": "Complete Wellness — "
+    },
+    "completeWellnessPara": {
+        "text": "All the self-care you need in one subscription! Enjoy unlimited beauty, wellness services and travel experience month by month with the best professionals."
+    },
+    "advanceTechnology": {
+        "text": "Advanced technology — "
+    },
+    "advanceTechnologyPara": {
+        "text": "Gain access to our unique platform where you can book, cancel or move appointments seamlessly. Communicate with the salon and the wellness centers."
+    },
+    "cancellation": {
+        "text": "Cancellation - "
+    },
+    "cancellationPara": {
+        "text": "No cancellation fees for the membership! However, they are limited to a certain number of people, so hold your spot and take advantage!"
+    },
+    "getNow": {
+        "value": "GET NOW"
+    },
+    "unlimitBeautyServ": {
+        "text": "UNLIMITED BEAUTY SERVICES"
+    },
+    "unlimitWellnessServ": {
+        "text": "UNLIMITED WELLNESS SERVICES"
+    },
+    "travelExperience": {
+        "text": "TRAVEL EXPERIENCE"
+    },
+    "hairTreat": {
+        "text": "Hair Treatment"
+    },
+    "skinCare": {
+        "text": "Skin Care"
+    },
+    "hairCare": {
+        "text": "Hair Care"
+    },
+    "permanentMake": {
+        "text": "Permanent Makeup"
+    },
+    "nails": {
+        "text": "Nails"
+    },
+    "coloration": {
+        "text": "Coloration"
+    },
+    "makeup": {
+        "text": "Makeup"
+    },
+    "hairCut": {
+        "text": "Hair Cut"
+    },
+    "hairCut2": {
+        "text": "HairCut"
+    },
+    "zumba": {
+        "text": "Zumba"
+    },
+    "pilates": {
+        "text": "Pilates"
+    },
+    "yoga": {
+        "text": "Yoga"
+    },
+    "hiit": {
+        "text": "Hit"
+    },
+    "functional": {
+        "text": "Functional"
+    },
+    "functionalTraining": {
+        "text": "Functional Training"
+    },
+    "soon": {
+        "text": "soon"
+    },
+    "ComingSoon": {
+        "text": "Coming Soon"
+    },
+    "beauty": {
+        "text": "Beauty"
+    },
+    "wellness": {
+        "text": "Wellness"
+    },
+    "travel": {
+        "text": "Travel"
+    },
+    "unlimitCareServ": {
+        "text": "UNLIMITED CARE SERVICES"
+    },
+    "unlimitCareServPara": {
+        "text": " With the membership you will have the option to choose any of our offered services. You will have unlimited care services, whether it is hair treatments or aesthetic treatments, choose the closest Soins Karismä salon and schedule your appointment! Treat yourself from month to month with proper care."
+    },
+    "unlimitWellnessServices": {
+        "text": "UNLIMITED WELLNESS SERVICES"
+    },
+    "unlimitWellnessServicesPara": {
+        "text": "Enjoy the variety of unlimited wellness services every month with this subscription, take care of your health and your body while having fun, schedule the classes that you like the most and join wellness workshops, the options are endless!"
+    },
+    "karismaTravelExperience": {
+        "text": "SOINS KARISMÄ TRAVEL EXPERIENCE"
+    },
+    "karismaTravelExperiencePara": {
+        "text": "Travel to Soins Karismä Villas around the world every month. All you have to do is reserve your place for the trip of your dreams, you will have access to beauty services and wellness classes to make your trip an unforgettable moment!"
+    },
+    "ourDestination": {
+        "text": "EXCLUSIVE ACCESS TO OUR DESTINATIONS"
+    },
+    "allNights": {
+        "text": "ALL-INCLUSIVE STAY 5 DAYS, 4 NIGHTS"
+    },
+    "wellnessClasses": {
+        "text": "WELLNESS INSTRUCTORS AND CLASSES"
+    },
+    "beautyTraveling": {
+        "text": "BEAUTY SERVICES WHILE TRAVELING"
+    },
+    "supportStaff": {
+        "text": "SUPPORT STAFF (CHEF, BARTENDER)"
+    },
+    "airportPickUp": {
+        "text": "AIRPORT PICK UP"
+    },
+    "about": {
+        "text": "About"
+    },
+    "unlimitSubscription": {
+        "text": "UNLIMITED SELF-CARE SUBSCRIPTION"
+    },
+    "unlimitSubscriptionPara": {
+        "text": "Soins Karismä wanted to revolutionize the way we see self-care services. Affording services from month to month can be a burden financially. That's why we offer beauty care services, wellness services and the opportunity to travel for a fixed price every month! Come as many times as you want to any Soins Karismä salon and wellness center around the world, book your travel experience and connect with a unique community. Reserve your subscription because they are limited! We have it all. Choose your salon, wellness center and schedule your trip, all from our platform!"
+    },
+    "inspiredByYou": {
+        "text": "INSPIRED BY YOU!"
+    },
+    "bestExperience": {
+        "text": "THE BEST EXPERIENCE!"
+    },
+    "bestExperiencePara": {
+        "text": "Traveling was impossible for me, it was too expensive, now with this subscription I can travel with amazing people I met thanks to Soins Karismä. The villas are amazing and very comfortable, it was the best experience."
+    },
+    "authorName": {
+        "text": "MARIE LI"
+    },
+    "myDreamTrip": {
+        "text": "MY DREAM TRIP"
+    },
+    "myDreamTripPara": {
+        "text": "I thought I would have to save money for years to see such a spectacular place, Soins Karismä gives me the opportunity to travel every month and meet amazing people! My favorite part was doing yoga in front of the sea!"
+    },
+    "authorName1": {
+        "text": "JESSY LARIVIERE"
+    },
+    "uniqueOffer": {
+        "text": "UNIQUE OFFER"
+    },
+    "uniqueOfferPara": {
+        "text": "This subscription includes everything I need. It is incredible that for only $500 a month I can travel and take care of myself with beauty and wellness services. It’s a unique offer!"
+    },
+    "authorName2": {
+        "text": "MANON TREMBLAY"
+    },
+    "ourWellnessCenters": {
+        "text": "OUR WELLNESS CENTERS"
+    },
+    "chooseYourSubs": {
+        "text": "CHOOSE YOUR SUBSCRIPTION"
+    },
+    "chooseYourSubsPara": {
+        "text": " We have everything you need! Enjoy unlimited beauty, wellness services and travel experience month by month with the best professionals.Come as many times as you want to any Soins Karismä salon and wellness center in the world, book your travel experience and connect with a unique community. Choose the subscription that you like the most and reserve your place because they are limited!"
+    },
+    "unlimited": {
+        "text": "unlimited"
+    },
+    "90Price": {
+        "text": "$90.00/"
+    },
+    "month": {
+        "text": "MONTH"
+    },
+    "joinWaitlist": {
+        "value": "JOIN WAITLIST"
+    },
+    "selfCare": {
+        "text": "self-care"
+    },
+    "180Price": {
+        "text": "$180.00/"
+    },
+    "500Price": {
+        "text": "$500.00/"
+    }
+}

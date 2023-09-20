@@ -1,0 +1,44 @@
+{
+    "whichCountries": {
+        "text": "¿A QUÉ PAÍSES ENVÍA SOINS KARISMÄ?"
+    },
+    "whichCountriesPara": {
+        "text": "Actualmente, nuestro sitio web solo acepta pedidos de Canadá y Estados Unidos. No enviamos a Alaska, Hawai y las Islas Vírgenes Americanas."
+    },
+    "freeOffer": {
+        "text": "¿OFRECES ENVÍO GRATIS?"
+    },
+    "freeOfferPara": {
+        "text": "Ofrecemos envío gratuito estándar para pedidos superiores a $70."
+    },
+    "howLongDoes": {
+        "text": "¿CUÁNTO TARDA EN LLEGAR MI PEDIDO?"
+    },
+    "howLongDoesPara1": {
+        "text": "Nuestro transportista estándar y exprés se determina según su ubicación. Espere de 2 a 6 días abiertos para un envío estándar."
+    },
+    "howLongDoesPara2": {
+        "text": "Para verificar el estado de su pedido, consulte el número de seguimiento incluido en su correo electrónico de confirmación de envío. Si tiene preguntas adicionales, envíenos un correo electrónico a help@soinskarisma.com"
+    },
+    "freeRegularShipping": {
+        "text": "ENVÍO ORDINARIO GRATIS (CONDICIONES)"
+    },
+    "freeRegularShippingPara1": {
+        "text": "El envío terrestre es gratuito en Canadá y los Estados Unidos continentales con pedidos de $69 o más. Actualmente, nuestro sitio web solo acepta envíos dentro de Canadá y los Estados Unidos contiguos: no realizamos envíos a Alaska, Hawái ni las Islas Vírgenes Estadounidenses. El envío terrestre cuesta $9.99 para pedidos de menos de $69."
+    },
+    "freeRegularShippingPara2": {
+        "text": "La mayoría de los pedidos se procesan y envían dentro de las 24 horas posteriores a la compra, según la disponibilidad del producto. Todos los pedidos realizados los fines de semana o días festivos se procesarán y enviarán el siguiente día hábil."
+    },
+    "freeRegularShippingPara3": {
+        "text": "Procesamos y enviamos todos los pedidos fuera de los Estados Unidos. Una vez procesado tu pedido, el plazo de entrega es de 2 a 6 días laborables, dependiendo de tu dirección de entrega. Tenga en cuenta que estos horarios no están garantizados y pueden retrasarse debido a errores internos del servidor, el clima y otras condiciones imprevistas. Tenga en cuenta que los pedidos se envían y entregan solo en días hábiles (de lunes a viernes, excepto festivos)."
+    },
+    "deliveryDelay": {
+        "text": "RETRASO EN LA ENTREGA"
+    },
+    "deliveryDelayPara1": {
+        "text": "Soins Karisma se asegura de que su producto sea entregado en el menor tiempo posible. Sin embargo, puede suceder que la entrega sea anormalmente larga."
+    },
+    "deliveryDelayPara2": {
+        "text": "El tiempo máximo de entrega es de 30 días. si su envío no le ha sido entregado después de 30 días, notifíquenos de inmediato por correo electrónico a help@soinskarisma."
+    }
+}

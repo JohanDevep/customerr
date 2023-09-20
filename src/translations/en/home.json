@@ -1,0 +1,201 @@
+{
+    "welcome": {
+        "title": "Welcome"
+    },
+    "toExperience": {
+        "text": "TO THE EXPERIENCE"
+    },
+    "takeQuizButton": {
+        "value": "TAKE THE QUIZ"
+    },
+    "bannerBottomDarkStrip": {
+        "text": "HIGH QUALITY",
+        "text2": "UNLIMITED BEAUTY SERVICES"
+    },
+    "subsPlan": {
+        "text": "SUBSCRIPTIONS PLANS"
+    },
+    "unlimitBeauty": {
+        "text": "Unlimited Beauty"
+    },
+    "saveSpot": {
+        "value": "SAVE MY SPOT"
+    },
+    "hairTreat": {
+        "text": "Hair Treatment"
+    },
+    "skinCare": {
+        "text": "Skin Care"
+    },
+    "hairCare": {
+        "text": "Hair Care"
+    },
+    "permanentMake": {
+        "text": "Permanent Makeup"
+    },
+    "nails": {
+        "text": "Nails"
+    },
+    "coloration": {
+        "text": "Coloration"
+    },
+    "makeup": {
+        "text": "Makeup"
+    },
+    "hairCut": {
+        "text": "Hair Cut"
+    },
+    "hairCut2": {
+        "text": "HairCut"
+    },
+    "whoWeAre": {
+        "text": "WHO ARE WE?"
+    },
+    "whoWeArePara": {
+        "text": "At Soins Karismä we believe everyone deserve to feel and look beautiful without the high price tags, this is\n                why we are redefining the beauty industry by empowering professionals and consumers through an innovative\n                business model. Our goal is to provide an unforgettable experience to consumers with high quality services through a monthly subscription plan."
+    },
+    "inspiredByYou": {
+        "text":"SOINS KARISMÄ - INSPIRED BY YOU!"
+    },
+    "virtual": {
+        "text": "Virtual"
+    },
+    "appointment": {
+        "text": "Appointment"
+    },
+    "appointmentParagraph": {
+        "text": "Book a complementary 30 minutes virtual consultation with a\n Soins Karismä professional from the comfort of your own home"
+    },
+    "appointmentButton": {
+        "value": "Book Now"
+    },
+    "virtualCardHeading1": {
+        "text": "SIMPLE"
+    },
+    "virtualCardParagraph1": {
+        "text": "Specific questions about our services? Want to talk to our beauty consultants? You can schedule a virtual appointment quickly to benefit from our advice."
+    },
+    "virtualCardHeading2": {
+        "text": "EFFECTIVE"
+    },
+    "virtualCardParagraph2": {
+        "text": "In 30 minutes, our consultants will be able to refer you to the best care services for your needs and desires."
+    },
+    "virtualCardHeading3": {
+        "text": "SIMPLE"
+    },
+    "virtualCardParagraph3": {
+        "text": "Our beauty professionals are certified in their respective specialties. Their main mission is to meet the client’s needs by offering them high quality services."
+    },
+    "collection": {
+        "text": "Collections"
+    },
+    "shopNow": {
+        "value": "Shop Now"
+    },
+    "product": {
+        "text": "Products"
+    },
+    "social": {
+        "text": "Social"
+    },
+    "impact": {
+        "text": "Impact"
+    },
+    "socialImpactParagraph": {
+        "text": "We wanted to shine a different light within the beauty industry because you should take care of yourself month to month with high quality and affordable beauty services."
+    },
+    "discover": {
+        "value": "Discover"
+    },
+    "trustedBrandCard": {
+        "text": "TRUSTED BRAND"
+    },
+    "ecoFriendlyCard": {
+        "text": "ECO FRIENDLY PRODUCTS"
+    },
+    "communityCard": {
+        "text": "Community"
+    },
+    "InspiredByYou": {
+        "text":"SOINS KARISMÄ - INSPIRED BY YOU!"
+    },
+    "inspiredByYouParagraph": {
+        "text": "At Soins Karismä, we believe that everyone deserves to feel good about themselves without having to pay the high price for beauty and wellness services. Our mission is to give value to every person by offering them a variety of high-end care services inspired by their needs through our subscription-based business model to make members independent and free to indulge as much as they wish so."
+    },
+    "aBetterFuture" : {
+        "text": "A BETTER FUTURE"
+    },
+    "academy": {
+        "text": "Academy"
+    },
+    "academyParagraph": {
+        "text": " Soins Karismä is happy to offer its customers and professionals an educational platform that is transforming the way education is taught. Let us teach you the ins and outs of the beauty industry all virtually!"
+    },
+    "improveSkill": {
+        "value": "IMPROVE YOUR SKILLS NOW"
+    },
+    "workshop": {
+        "text": "WORKSHOP"
+    },
+    "workshopCardPara": {
+        "text": "Our teachers hold interactive sessions over our educational platform to ensure that all of our students have a dynamic learning experience. If ever you need a one-on-one with our teachers all you have to do is request it!"
+    },
+    "certificate": {
+        "text": "CERTIFICATE"
+    },
+    "certificateCardPara": {
+        "text": "Utilizing advanced teaching techniques and our proprietorship technology, Soins Karismä is able to provide a full learning ecosystem. When you are done with our program you will be given a certificate of completion!"
+    },
+    "virtualCard": {
+        "text": "virtual"
+    },
+    "virtualCardPara": {
+        "text": "New educational institutions have put forth virtual learning and that is exactly what we here at Soins Karismä have done. As a student, you will have access to hundreds of videos, workshops, and tools in order to learn efficiently."
+    },
+    "our": {
+        "text": "Our"
+    },
+    "community": {
+        "text": "Community"
+    },
+    "communityParagraph": {
+        "text": "Soins Karismä is proud to support a growing community of individuals who share the same values and morals. That’s why we have created a social media platform where our community can share their experience and connect with each other."
+    },
+    "joinNow": {
+        "value": "Join Now"
+    },
+    "shareCard": {
+        "text": "SHARE"
+    },
+    "shareCardPara": {
+        "text": "Our members will have the opportunity to share their experience and talk with others within the community, upload photos, and share beauty tips as they wish. Everything you need on a platform!"
+    },
+    "connectCard": {
+        "text": "CONNECT"
+    },
+    "connectCardPara": {
+        "text": "Soins Karismä Community is an inclusive space where all opinions are valuable, our aim is to create a community of professionals and customers who can share their experience with others and connect through our goal: Beauty for everyone!"
+    },
+    "enjoyCard": {
+        "text": "ENJOY"
+    },
+    "enjoyCardPara": {
+        "text": "Enjoy the experience in our salons, post after your visit, have fun using our social network and why not? Make friends, nothing better than having a beauty partner!"
+    },
+    "referSalon": {
+        "text": "REFER A SALON AND"
+    },
+    "recieve1000": {
+        "text": "RECEIVE $1000*"
+    },
+    "ShareAndRefer": {
+        "value": "SHARE AND REFER"
+    },
+    "rewardAvailable": {
+        "text": "*Reward available when the Salon starts the Soins Karismä program."
+    },
+    "bottomCardPara": {
+        "text": "YOU HAVE TO LOVE YOURSELF AND TAKE CARE OF YOURSELF, BECAUSE THAT’S WHEN THE BEST THING HAPPENS 'TINA TURNER'"
+    }
+}

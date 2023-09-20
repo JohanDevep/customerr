@@ -1,0 +1,46 @@
+.text-xsm {
+  font-size: calc-font-size(9, 12);
+}
+
+.text-sm {
+  font-size: calc-font-size(12, 14);
+}
+
+.text-md {
+  font-size: calc-font-size(14, 16);
+}
+
+.text-lmd {
+  font-size: calc-font-size(16, 20);
+}
+
+.text-lg {
+  font-size: calc-font-size(18, 22);
+}
+
+$colors: (
+  'dbd': $clr-dbd,
+  'e2d': $clr-e2d,
+  'a8a': $clr-a8a,
+  '616': $clr-616,
+  'a8a-light': rgba($clr-a8a, .59),
+  'pi-800': $clr-f0e,
+  'pi-900': $clr-bfb
+);
+
+
+@each $key, $val in $colors {
+  .bg-#{$key} {
+    background-color: #{$val};
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .mobile-down { display: block; }
+  .mobile-up { display: none;}
+}
+
+@include media-breakpoint-up(md) {
+  .mobile-down { display: none; }
+  .mobile-up { display: block; }
+}

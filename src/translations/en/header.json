@@ -1,0 +1,29 @@
+{
+    "home": {
+        "value": "Home"
+    },
+    "subscription": {
+        "value": "Subscription"
+    },
+    "unlimitBeauty": {
+        "value": "Unlimited Beauty"
+    },
+    "unlimitSelfCare": {
+        "value": "Unlimited Self-care"
+    },
+    "unlimitWellness": {
+        "value": "Unlimited Wellness"
+    },
+    "store": {
+        "value": "Store"
+    },
+    "aboutUs": {
+        "value": "About US"
+    },
+    "contact": {
+        "value": "Contact"
+    },
+    "locations": {
+        "value": "Locations"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "returnPolicy": {
+        "text": "Politique de retour"
+    },
+    "haveQuestion": {
+        "text": "VOUS AVEZ DES QUESTIONS?"
+    },
+    "highQuality": {
+        "text": "HAUTE QUALITÉ"
+    },
+    "unlimitBeautyServ": {
+        "text": "SERVICES DE BEAUTÉ ILLIMITÉS"
+    },
+    "overview": {
+        "text": "Aperçu"
+    },
+    "overviewPara1": {
+        "text": "Si vous n'êtes pas entièrement satisfait de votre achat sur Soinskarisma.com, veuillez contacter notre service à la clientèle à help@soinskarisma.com (du lundi au vendredi de 9h à 15h, heure de l'Est) et retourner les produits achetés dans les 30 jours suivant la livraison. Nous serons heureux de créditer votre compte du montant de l'achat. Les frais de retour ne sont pas inclus."
+    },
+    "overviewPara2": {
+        "text": "Pour retourner une commande à l'expéditeur, veuillez envoyer vos coordonnées, le numéro de commande et la raison à help@soinskarisma.com. Veuillez envoyer le(s) produit(s) en question, par Postes Canada avec le service de colis accélérés, avec signature, à l'adresse suivante:"
+    },
+    "overviewPara3": {
+        "text": "Adresse: Soins Karismä - Département des retours 200-249 rue St-Jacques Montréal, Québec H2Y 1M6"
+    },
+    "overviewBoldPara": {
+        "text": "Tous les retours seront effectués et envoyés dans un délai de 7 à 10 jours."
+    },
+    "overviewPara4": {
+        "text": "Pour votre protection et pour assurer une livraison rapide, nous vous recommandons d'envoyer votre retour par Postes Canada et de ne retourner que les produits non ouverts et dans leur état d'origine. Nous sommes désolés, mais les frais de retour ne sont pas remboursables."
+    },
+    "overviewPara5": {
+        "text": "Si votre colis a été endommagé lors de sa réception et que son contenu était inutilisable, nous vous demandons de conserver les produits, ainsi que l'emballage dans lequel ils ont été trouvés, et de nous en informer immédiatement à info@hellokarisma.com en nous envoyant vos coordonnées, le numéro de commande et une photo de l'emballage endommagé (du lundi au vendredi de 9h à 15h, heure de l'Est). La compagnie de transport sera immédiatement informée et Soins Karismä remplacera volontiers les produits endommagés."
+    },
+    "overviewPara6": {
+        "text": "Nous sommes désolés, mais les retours ou les échanges d'articles achetés dans un magasin Soins Karismä ou dans un autre point de vente ne peuvent pas être renvoyés à carekarisma.com. Si l'article que vous souhaitez retourner n'a pas été acheté chez soinskarisma.com, nous vous recommandons de vous rendre sur le lieu d'achat pour toute réclamation ou remboursement. Si vous ne pouvez pas vous rendre sur le lieu d'achat, veuillez contacter notre centre de conseil aux consommateurs à l'adresse info@hellokarisma.com (du lundi au vendredi, de 9 h à 15 h, heure de l'Est)."
+    }
+}

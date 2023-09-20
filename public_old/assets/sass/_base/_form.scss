@@ -1,0 +1,321 @@
+//Form Label
+.form-label {
+  color: $black;
+  font-size: calc-font-size(16, 21);
+  line-height: calc-line-height(21, 26);
+  margin-block-end: rem(10);
+}
+
+//Form Control
+.form-control {
+  border: rem(3) solid $clr-3c3;
+  border-radius: 0;
+  background-color: $white;
+  color: $clr-1b1;
+  text-transform: uppercase;
+  font-weight: $fw-bold;
+  padding: calc-font-size(10, 13) calc-font-size(16, 32);
+  font-size: calc-font-size(11, 20);
+  line-height: calc-font-size(13, 24);
+  letter-spacing: calc-font-size(2.5, 5);
+  resize: none;
+
+  &,
+  &:focus,
+  &:focus-visible {
+    border-radius: 0;
+  }
+
+  @include placeholder {
+    color: (rgba $clr-1b1, .65);
+  }
+
+  &:not(.form-text-area) {
+    block-size: rem(35);
+    @include media-breakpoint-up(md) {
+      block-size: rem(48);
+    }
+  }
+}
+
+select.form-control {
+  padding-block: 0;
+}
+
+//Upload File Control
+.upload-file-control {
+  display: flex;
+  justify-content: space-between;
+  background-color: $white;
+  border: rem(3) solid $clr-3c3;
+  padding-inline-end: rem(5);
+  padding-block: rem(5);
+
+  .form-control {
+    flex: 1;
+    border: 0 none;
+
+    &:hover,
+    &:focus,
+    &:focus-visible,
+    &:focus-within {
+      outline: none;
+      box-shadow: none;
+    }
+  }
+
+  @include media-breakpoint-up(xxl) {
+    padding-inline-end: rem(10);
+    padding-block: rem(10);
+  }
+}
+
+//Counter Control Group
+.counter-control-group {
+  outline: rem(3) solid $clr-3c3;
+  outline-offset: rem(-3);
+  background-color: $white;
+  color: $clr-3c3;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+
+  .form-control {
+    font-size: calc-font-size(22, 28);
+    color: $clr-3c3;
+    font-weight: $fw-bold;
+    border: 0 none;
+    background-color: transparent;
+    padding-inline: 0;
+    text-align: center;
+    flex: 1;
+
+    &:focus,
+    &:focus-within {
+      outline: none;
+      box-shadow: none;
+    }
+  }
+
+  .input-group-text {
+    padding-inline: calc-font-size(18, 24);
+    font-size: calc-font-size(32, 40);
+    line-height: 1;
+    cursor: pointer;
+    font-weight: $fw-sbold;
+  }
+
+  @include media-breakpoint-up(md) {
+    .form-control {
+      max-inline-size: 3ch;
+    }
+  }
+  @include media-breakpoint-up(xl) {
+    .form-control {
+      max-inline-size: 3ch;
+    }
+  }
+}
+
+//Auth Pages Form Control
+.form-control-rounded {
+  border-radius: 4px;
+  color: $white;
+  letter-spacing: rem(2);
+  padding-inline: rem(16);
+  block-size: rem(45);
+  border: rem(2) solid $white;
+  display: block;
+  inline-size: 100%;
+
+  @include placeholder {
+    text-transform: uppercase;
+    color: $white;
+  }
+
+  @include media-breakpoint-up(md) {
+    border-radius: 8px;
+    block-size: rem(55);
+  }
+
+  @include media-breakpoint-up(xxl) {
+    letter-spacing: rem(4.5);
+    padding-inline: rem(30);
+    block-size: rem(79);
+    border: rem(3) solid $white;
+  }
+}
+
+//Checkbox
+.custom-checkbox {
+
+  input[type=checkbox] {
+    position: absolute;
+    inset-block-start: -9999px;
+    inset-inline-start: -9999px;
+    opacity: 0;
+    visibility: hidden;
+
+    ~ label {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      column-gap: rem(11);
+
+      .checkbox-cta {
+        position: relative;
+        line-height: 1;
+
+        &:before {
+          content: '';
+          display: inline-block;
+          inline-size: rem(32);
+          block-size: rem(32);
+          border: rem(3) solid $clr-c78;
+          border-radius: rem(8);
+          background-color: $clr-4e4;
+        }
+
+        &:after {
+          content: $icon-check;
+          font-family: $font-icons;
+          font-size: rem(22);
+          display: inline-block;
+          position: absolute;
+          inset-inline-start: 50%;
+          inset-block-start: 50%;
+          margin-block-start: rem(-2);
+          transform: translate(-50%, -50%) scale(0);
+          transform-origin: center;
+          color: $clr-c78;
+          line-height: 1;
+          transition: all .3s ease-in-out;
+        }
+      }
+    }
+
+
+    &:checked {
+      ~ label {
+        .checkbox-cta {
+          &:after {
+            transform: translate(-50%, -50%) scale(1);
+          }
+        }
+      }
+    }
+  }
+}
+
+//Badges
+%badge-custom {
+  padding: rem(7) rem(17);
+  border-radius: 0;
+  font-size: calc-font-size(10, 14);
+  line-height: calc-line-height(14, 20);
+  letter-spacing: calc-font-size(1, 3.5);
+  text-transform: uppercase;
+  white-space: nowrap;
+  max-block-size: rem(26);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+%badge-lg {
+  padding: rem(7) rem(25);
+  font-size: calc-font-size(12, 20);
+  line-height: 1.4;
+  letter-spacing: calc-font-size(2.5, 5);
+  max-block-size: rem(32);
+
+  @include media-breakpoint-down(md) {
+    max-block-size: rem(39);
+  }
+}
+
+.badge-dark {
+  @extend %badge-custom;
+
+  &,
+  &:hover,
+  &:focus,
+  &:active {
+    color: $white;
+    border: 1px solid $clr-3c3;
+    background-color: $clr-3c3;
+    text-decoration: none;
+  }
+
+  &.badge-lg {
+    @extend %badge-lg;
+  }
+}
+
+
+.btn-group-item {
+  > input[type='radio'] {
+    inline-size: 0;
+    block-size: 0;
+    text-indent: -99999;
+    visibility: hidden;
+    display: none;
+
+    &:checked {
+      + label {
+        background-color: $clr-3c3;
+        color: $white
+      }
+    }
+  }
+
+  label {
+    cursor: pointer;
+    min-inline-size: initial;
+  }
+
+  .btn-dark {
+    padding-inline: rem(16);
+  }
+}
+
+%form-select {
+  display: block;
+  width: 100%;
+  -moz-padding-start: calc(0.75rem - 3px);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: $black;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right .75rem center;
+  background-size: 16px 12px;
+  border-radius: .375rem;
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  appearance: none;
+  word-wrap: normal;
+}
+
+.year-select {
+  @extend %form-select;
+  height: auto;
+  background-color: transparent;
+  border: 0 none;
+  box-shadow: none;
+  display: inline-block;
+  min-inline-size: rem(90);
+  max-inline-size: rem(90);
+  font-size: calc-font-size(14, 25);
+  font-weight: $fw-medium;
+  background-position: right center;
+  padding-inline: 0 rem(20);
+  padding-block: 0;
+
+  &:focus,
+  &:active {
+    outline: none;
+    box-shadow: none;
+  }
+}

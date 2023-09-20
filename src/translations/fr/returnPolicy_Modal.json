@@ -1,0 +1,20 @@
+{
+    "returnPolicy": {
+        "text": "Retours"
+    },
+    "whatExchangePolicy": {
+        "text": "QUELLE EST VOTRE POLITIQUE DE RETOURS ET D'ÉCHANGES?"
+    },
+    "whatExchangePolicyPara1": {
+        "text": "Si vous n'êtes pas satisfait d'un produit, veuillez contacter notre équipe de service clientèle à l'adresse help@soinskarisma.com (du lundi au vendredi de 9h00 à 17h00 HNE) et vous pouvez le retourner dans les 30 jours suivant l'achat avec votre reçu original. Nous vous recommandons de retourner tous les produits non ouverts dans les mêmes conditions dans lesquelles ils ont été livrés. Les frais d'expédition et de manutention ne sont pas remboursables."
+    },
+    "whatExchangePolicyPara2": {
+        "text": "Nous ne sommes pas responsables des colis livrés à une adresse incorrecte fournie par le client lors du processus de commande. Il est de la responsabilité du client de fournir les bonnes informations d'expédition. Une fois qu'une commande est traitée, nous ne pouvons pas modifier les détails tels que les informations d'expédition. Une fois que le produit est retourné, le remboursement sera traité."
+    },
+    "returnProducts": {
+        "text": "PUIS-JE RETOURNER LES PRODUITS QUE J'AI ACHETÉS DANS UN SALON?"
+    },
+    "returnProductsPara": {
+        "text": "Soins Karismä ne peut traiter ou accepter des retours ou des échanges que pour les articles achetés directement sur www.soinskarisma.com. Les produits achetés dans nos franchises doivent être retournés directement au salon, selon leurs politiques de retour et d'échange."
+    }
+}

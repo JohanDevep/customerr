@@ -1,0 +1,89 @@
+{
+    "subsPlan": {
+        "text": "Subscription Plans"
+    },
+    "howPlanWorks": {
+        "text": "HOW THE SUBSCRIPTION PLAN WORKS?"
+    },
+    "howPlanWorksPara": {
+        "text": "With our subscription plan you will be able to access unlimited beauty services for a reduced cost, only for $90 per month you can schedule the services you want. You will have access to all salons that are under the Soins Karismä franchise. The subscription plan has a platform that facilitates each part of the process, you can schedule appointments, check the services available in each salon and buy the ideal products for your routine.With this subscription model we want to create an innovative and comfortable experience that will revolutionize the beauty industry."
+    },
+    "whatServices": {
+        "text": "WHAT SERVICES DOES SOINS KARISMÄ OFFER?"
+    },
+    "whatServicesPara": {
+        "text": "For clients, here are the different services they will be able to receive in the different Soins Karismä salons"
+    },
+    "whatServicesitem1": {
+        "text": "Hairstyle"
+    },
+    "whatServicesitem2": {
+        "text": "Coloration"
+    },
+    "whatServicesitem3": {
+        "text": "Eyebrow Hair Removal"
+    },
+    "whatServicesitem4": {
+        "text": "Eyelash extension"
+    },
+    "whatServicesitem5": {
+        "text": "Manicure and Pedicure"
+    },
+    "whatServicesitem6": {
+        "text": "Fcial"
+    },
+    "whatServicesitem7": {
+        "text": "Microneedling"
+    },
+    "whatServicesitem8": {
+        "text": "Chemical Peeling"
+    },
+    "whatServicesitem9": {
+        "text": "Laser hair removal"
+    },
+    "whatServicesitem10": {
+        "text": "Electrostimulation"
+    },
+    "whatServicesitem11": {
+        "text": "Hair Treatments"
+    },
+    "whatServicesitem12": {
+        "text": "Microblading"
+    },
+    "HowLongCan": {
+        "text": "HOW LONG CAN I PURCHASE THE SUBSCRIPTION?"
+    },
+    "HowLongCanPara": {
+        "text": "You can purchase the subscription plan for one month or one year. We recommend a year subscription, so you get your services continuously and secure your place. We have limited places for this subscription"
+    },
+    "allSalonsOffer": {
+        "text": "ALL SALONS OFFER THE SAME SERVICES?"
+    },
+    "allSalonsOfferPara": {
+        "text": "Some salons offer different services than others. To know the service of eacch salon, please consult the pladform of your subscription plan."
+    },
+    "isItNecessary": {
+        "text": "IS IT NECESSARY TO HAVE AN OPPORTUNITY TO TAKE THE SERVICE?"
+    },
+    "isItNecessaryPara": {
+        "text": "Yes, we recommend you schedule the appointment. In this way, the salon professionals can prepare themselves to provide you with the best service and experience possible."
+    },
+    "canIAccess": {
+        "text": "CAN I ACCESS THE PLATFORM FROM MY MOBILE?"
+    },
+    "canIAccessPara": {
+        "text": "Of course, You can access the mobile application or the online platform."
+    },
+    "expirationSubscription": {
+        "text": "EXPIRATION OF MY SUBSCRIPTION"
+    },
+    "expirationSubscriptionPara": {
+        "text": "If you paid for the monthly subscription you have 30 days to use it, from the moment the payment is confirmed."
+    },
+    "paymentConfirmation": {
+        "text": "PAYMENT CONFIRMATION OF THE SUBSCRIPTION"
+    },
+    "paymentConfirmationPara": {
+        "text": "You will receive confirmation of payment by email. You can start scheduling your oppiontment from the customer dashboard."
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "referSalon": {
+        "text": "Recomendar un salón"
+    },
+    "requestSuccessfully": {
+        "text": "SOLICITUD REALIZADA CON ÉXITO"
+    },
+    "requestSuccessfullyPara": {
+        "text": "Hemos recibido tu formulario, nuestro equipo se pondrá en contacto contigo lo antes posible."
+    }
+}
